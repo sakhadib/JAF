@@ -1,0 +1,11 @@
+model,culture,story_type,n,mean
+openai_gpt-5.1,Khasi,Trickster or Clever Figure,1,0.2153572081262226
+mistralai_mistral-large-2512,Mro,Change and Continuity,1,0.21214464926090737
+openai_gpt-5.1,Hajong,Origin Story,1,0.21100284344346543
+mistralai_mistral-large-2512,Garo (Mandi),Wisdom of an Elder,1,0.2102947758411905
+openai_gpt-5.1,Bengali,Sacred or Forbidden Space,1,0.20799578177175748
+openai_gpt-5.1,Mro,Wisdom of an Elder,1,0.20359231255257193
+google_gemini-3-flash-preview,Santal,Origin Story,1,0.20356223130237194
+openai_gpt-5.1,Garo (Mandi),Rite of Passage,1,0.20070313349748137
+openai_gpt-5.1,Bengali,Wisdom of an Elder,1,0.1974942380908974
+openai_gpt-5.1,Oraon (Kurukh),Wisdom of an Elder,1,0.18440740414643897

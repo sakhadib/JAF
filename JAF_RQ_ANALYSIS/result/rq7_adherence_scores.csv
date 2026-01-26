@@ -1,0 +1,600 @@
+model,culture,story_type,prompt_adherence
+openai_gpt-5-mini,Hajong,Change and Continuity,0.5100763974624256
+openai_gpt-5-mini,Santal,Community Crisis,0.3667870137945991
+mistralai_mistral-large-2512,Tripura,Community Crisis,0.31401726988177225
+openai_gpt-5.1,Manipuri (Meitei),Trickster or Clever Figure,0.2734995593898788
+openai_gpt-5-mini,Oraon (Kurukh),Trickster or Clever Figure,0.42319151261061405
+mistralai_mistral-large-2512,Hajong,Sacred or Forbidden Space,0.30985821496951915
+google_gemini-3-flash-preview,Oraon (Kurukh),Community Crisis,0.3447909539253793
+qwen_qwen3-8b,Khasi,Everyday Life Narrative,0.4358026990086974
+qwen_qwen3-8b,Santal,Wisdom of an Elder,0.41867718965921075
+mistralai_mistral-large-2512,Khasi,Origin Story,0.2704372726178963
+mistralai_mistral-large-2512,Marma,Moral Transgression and Consequence,0.34560868709486536
+qwen_qwen3-8b,Rakhine,Origin Story,0.30203556696277034
+google_gemini-3-flash-preview,Manipuri (Meitei),Community Crisis,0.4465655457974388
+google_gemini-3-flash-preview,Manipuri (Meitei),Change and Continuity,0.38447867901954846
+google_gemini-3-flash-preview,Tripura,Everyday Life Narrative,0.39848194554543115
+google_gemini-3-flash-preview,Santal,Human–Nature Relationship,0.4206990543695819
+qwen_qwen3-8b,Manipuri (Meitei),Origin Story,0.4838888285656673
+openai_gpt-5-mini,Rakhine,Trickster or Clever Figure,0.3868508268058123
+mistralai_mistral-large-2512,Tripura,Trickster or Clever Figure,0.47144775098196534
+mistralai_mistral-large-2512,Rakhine,Rite of Passage,0.2979039943132946
+mistralai_mistral-large-2512,Marma,Everyday Life Narrative,0.360639224093394
+google_gemini-3-flash-preview,Mro,Trickster or Clever Figure,0.4135629612855496
+openai_gpt-5-mini,Rakhine,Rite of Passage,0.3020113884459883
+mistralai_mistral-large-2512,Hajong,Community Crisis,0.35759650609554505
+qwen_qwen3-8b,Garo (Mandi),Change and Continuity,0.49335190381004057
+openai_gpt-5-mini,Manipuri (Meitei),Change and Continuity,0.3425297205751432
+openai_gpt-5.1,Santal,Sacred or Forbidden Space,0.26183011290815983
+openai_gpt-5.1,Santal,Wisdom of an Elder,0.24726903500616404
+google_gemini-3-flash-preview,Manipuri (Meitei),Everyday Life Narrative,0.4911286386092798
+qwen_qwen3-8b,Bengali,Wisdom of an Elder,0.2899386377085098
+qwen_qwen3-8b,Marma,Origin Story,0.454603358639757
+openai_gpt-5-mini,Rakhine,Wisdom of an Elder,0.3957549310338817
+qwen_qwen3-8b,Garo (Mandi),Human–Nature Relationship,0.4138180127645221
+mistralai_mistral-large-2512,Garo (Mandi),Sacred or Forbidden Space,0.30260982306891837
+mistralai_mistral-large-2512,Manipuri (Meitei),Wisdom of an Elder,0.30184062032902237
+openai_gpt-5-mini,Marma,Trickster or Clever Figure,0.4515144065357042
+openai_gpt-5.1,Santal,Rite of Passage,0.2812811289828272
+google_gemini-3-flash-preview,Hajong,Rite of Passage,0.383794358489729
+qwen_qwen3-8b,Santal,Human–Nature Relationship,0.3728222498353355
+google_gemini-3-flash-preview,Santal,Community Crisis,0.37234883557274556
+openai_gpt-5-mini,Khasi,Change and Continuity,0.38437190111630604
+openai_gpt-5.1,Rakhine,Trickster or Clever Figure,0.2700769823127471
+google_gemini-3-flash-preview,Rakhine,Wisdom of an Elder,0.2981794398738742
+openai_gpt-5.1,Hajong,Sacred or Forbidden Space,0.2999459473002911
+google_gemini-3-flash-preview,Bengali,Human–Nature Relationship,0.5230920057989211
+mistralai_mistral-large-2512,Garo (Mandi),Change and Continuity,0.3341256920030127
+qwen_qwen3-8b,Rakhine,Wisdom of an Elder,0.31617110858106146
+openai_gpt-5.1,Hajong,Trickster or Clever Figure,0.2514236632025316
+openai_gpt-5.1,Santal,Human–Nature Relationship,0.32921485968889086
+openai_gpt-5-mini,Hajong,Human–Nature Relationship,0.5499196619637411
+openai_gpt-5.1,Manipuri (Meitei),Moral Transgression and Consequence,0.33764293435089276
+mistralai_mistral-large-2512,Chakma,Community Crisis,0.34232764596402565
+openai_gpt-5.1,Tripura,Moral Transgression and Consequence,0.2958548131296992
+google_gemini-3-flash-preview,Marma,Moral Transgression and Consequence,0.35226456989464516
+openai_gpt-5-mini,Manipuri (Meitei),Origin Story,0.395653363221418
+mistralai_mistral-large-2512,Santal,Rite of Passage,0.31364248049268495
+openai_gpt-5-mini,Manipuri (Meitei),Community Crisis,0.34762090388646893
+google_gemini-3-flash-preview,Khasi,Moral Transgression and Consequence,0.351318639133102
+qwen_qwen3-8b,Mro,Community Crisis,0.3465670426020806
+openai_gpt-5-mini,Bengali,Origin Story,0.26602451173118424
+mistralai_mistral-large-2512,Chakma,Change and Continuity,0.27217858100820136
+google_gemini-3-flash-preview,Garo (Mandi),Origin Story,0.3517781081786151
+openai_gpt-5.1,Tripura,Sacred or Forbidden Space,0.2557589161035174
+openai_gpt-5-mini,Mro,Everyday Life Narrative,0.44495180262875245
+openai_gpt-5.1,Tripura,Community Crisis,0.3565849376607416
+google_gemini-3-flash-preview,Khasi,Sacred or Forbidden Space,0.29860338345508586
+openai_gpt-5.1,Mro,Trickster or Clever Figure,0.32675305009501576
+google_gemini-3-flash-preview,Marma,Community Crisis,0.3894043291307945
+openai_gpt-5-mini,Mro,Change and Continuity,0.44600440917697126
+openai_gpt-5-mini,Chakma,Moral Transgression and Consequence,0.3903805441014775
+openai_gpt-5.1,Bengali,Wisdom of an Elder,0.1974942380908974
+mistralai_mistral-large-2512,Oraon (Kurukh),Trickster or Clever Figure,0.48935729241824255
+qwen_qwen3-8b,Oraon (Kurukh),Moral Transgression and Consequence,0.34383017597709076
+google_gemini-3-flash-preview,Rakhine,Moral Transgression and Consequence,0.2825487620912688
+openai_gpt-5-mini,Chakma,Human–Nature Relationship,0.527162402736275
+google_gemini-3-flash-preview,Oraon (Kurukh),Human–Nature Relationship,0.43438850312929445
+mistralai_mistral-large-2512,Santal,Community Crisis,0.253965597926638
+openai_gpt-5-mini,Garo (Mandi),Community Crisis,0.33921496539798435
+openai_gpt-5-mini,Mro,Sacred or Forbidden Space,0.3883631716487822
+openai_gpt-5.1,Santal,Trickster or Clever Figure,0.38500960676268625
+mistralai_mistral-large-2512,Manipuri (Meitei),Everyday Life Narrative,0.35511046260147605
+mistralai_mistral-large-2512,Tripura,Sacred or Forbidden Space,0.25500325899338505
+openai_gpt-5-mini,Khasi,Rite of Passage,0.32637999706055154
+openai_gpt-5.1,Rakhine,Community Crisis,0.3304494716605332
+google_gemini-3-flash-preview,Bengali,Sacred or Forbidden Space,0.40014016263417584
+google_gemini-3-flash-preview,Rakhine,Sacred or Forbidden Space,0.2914578708911282
+qwen_qwen3-8b,Bengali,Origin Story,0.3435354939386094
+openai_gpt-5.1,Khasi,Sacred or Forbidden Space,0.24893263889184636
+openai_gpt-5.1,Rakhine,Wisdom of an Elder,0.30873304129021206
+google_gemini-3-flash-preview,Chakma,Everyday Life Narrative,0.4626496317292438
+mistralai_mistral-large-2512,Hajong,Everyday Life Narrative,0.3546251576966929
+google_gemini-3-flash-preview,Oraon (Kurukh),Rite of Passage,0.30139964318355805
+qwen_qwen3-8b,Oraon (Kurukh),Everyday Life Narrative,0.46678390441204765
+google_gemini-3-flash-preview,Santal,Change and Continuity,0.3721001886219901
+openai_gpt-5-mini,Khasi,Origin Story,0.32903067212570525
+qwen_qwen3-8b,Bengali,Human–Nature Relationship,0.4695599551701849
+openai_gpt-5.1,Khasi,Moral Transgression and Consequence,0.2489852701379348
+openai_gpt-5.1,Marma,Moral Transgression and Consequence,0.2880459938837483
+google_gemini-3-flash-preview,Santal,Everyday Life Narrative,0.40270772179630154
+openai_gpt-5.1,Khasi,Trickster or Clever Figure,0.2153572081262226
+qwen_qwen3-8b,Marma,Rite of Passage,0.3190427881048018
+mistralai_mistral-large-2512,Rakhine,Origin Story,0.37293484201809024
+qwen_qwen3-8b,Marma,Sacred or Forbidden Space,0.2561948741930229
+google_gemini-3-flash-preview,Marma,Rite of Passage,0.357519195198837
+google_gemini-3-flash-preview,Bengali,Rite of Passage,0.3858206380407533
+openai_gpt-5-mini,Khasi,Sacred or Forbidden Space,0.3085043835022039
+openai_gpt-5-mini,Hajong,Origin Story,0.3578882732668054
+google_gemini-3-flash-preview,Manipuri (Meitei),Origin Story,0.3631613192415907
+openai_gpt-5.1,Manipuri (Meitei),Rite of Passage,0.35252906360778713
+openai_gpt-5.1,Tripura,Human–Nature Relationship,0.38733687547090967
+google_gemini-3-flash-preview,Hajong,Everyday Life Narrative,0.372233117604196
+qwen_qwen3-8b,Santal,Change and Continuity,0.3446162308268823
+google_gemini-3-flash-preview,Rakhine,Everyday Life Narrative,0.3785147785089371
+mistralai_mistral-large-2512,Bengali,Change and Continuity,0.25610831181716764
+mistralai_mistral-large-2512,Oraon (Kurukh),Everyday Life Narrative,0.31362479441379
+mistralai_mistral-large-2512,Mro,Community Crisis,0.32323217695857753
+openai_gpt-5-mini,Chakma,Change and Continuity,0.38063891607133216
+google_gemini-3-flash-preview,Mro,Human–Nature Relationship,0.3892835478477894
+qwen_qwen3-8b,Chakma,Everyday Life Narrative,0.4089899018812164
+qwen_qwen3-8b,Garo (Mandi),Wisdom of an Elder,0.3135835017449018
+mistralai_mistral-large-2512,Tripura,Moral Transgression and Consequence,0.3170120025576759
+qwen_qwen3-8b,Rakhine,Change and Continuity,0.45913241220842216
+openai_gpt-5.1,Khasi,Community Crisis,0.30349018954440754
+mistralai_mistral-large-2512,Garo (Mandi),Moral Transgression and Consequence,0.3979598922627581
+openai_gpt-5-mini,Bengali,Trickster or Clever Figure,0.3917371722146198
+mistralai_mistral-large-2512,Garo (Mandi),Origin Story,0.26913560435518413
+qwen_qwen3-8b,Rakhine,Trickster or Clever Figure,0.4127755758479943
+openai_gpt-5.1,Garo (Mandi),Human–Nature Relationship,0.3082099222565515
+mistralai_mistral-large-2512,Khasi,Moral Transgression and Consequence,0.295977776211624
+mistralai_mistral-large-2512,Rakhine,Human–Nature Relationship,0.42006221064110627
+openai_gpt-5-mini,Manipuri (Meitei),Everyday Life Narrative,0.4275275229148803
+mistralai_mistral-large-2512,Manipuri (Meitei),Trickster or Clever Figure,0.3104543578835741
+google_gemini-3-flash-preview,Mro,Sacred or Forbidden Space,0.3839332242274387
+qwen_qwen3-8b,Bengali,Moral Transgression and Consequence,0.2755408626296083
+google_gemini-3-flash-preview,Mro,Rite of Passage,0.27001146280604194
+google_gemini-3-flash-preview,Santal,Trickster or Clever Figure,0.48313226796621533
+google_gemini-3-flash-preview,Garo (Mandi),Human–Nature Relationship,0.4470217072332232
+openai_gpt-5-mini,Khasi,Moral Transgression and Consequence,0.4127061602728902
+mistralai_mistral-large-2512,Tripura,Wisdom of an Elder,0.2829856233182675
+mistralai_mistral-large-2512,Rakhine,Change and Continuity,0.3592254505057745
+openai_gpt-5-mini,Garo (Mandi),Everyday Life Narrative,0.3774076243832927
+mistralai_mistral-large-2512,Santal,Wisdom of an Elder,0.25513786403877514
+qwen_qwen3-8b,Oraon (Kurukh),Trickster or Clever Figure,0.4073639313142259
+openai_gpt-5-mini,Mro,Trickster or Clever Figure,0.398278550635907
+openai_gpt-5-mini,Garo (Mandi),Moral Transgression and Consequence,0.36685763097917057
+google_gemini-3-flash-preview,Oraon (Kurukh),Sacred or Forbidden Space,0.38359031180879466
+openai_gpt-5.1,Bengali,Rite of Passage,0.29526608326824344
+mistralai_mistral-large-2512,Tripura,Human–Nature Relationship,0.5239899956178202
+mistralai_mistral-large-2512,Rakhine,Wisdom of an Elder,0.2419012286593747
+google_gemini-3-flash-preview,Hajong,Change and Continuity,0.4917393072009938
+mistralai_mistral-large-2512,Bengali,Rite of Passage,0.44345030640513783
+openai_gpt-5.1,Marma,Wisdom of an Elder,0.32054491155520326
+mistralai_mistral-large-2512,Oraon (Kurukh),Origin Story,0.38860073896724256
+qwen_qwen3-8b,Mro,Origin Story,0.4526920718892242
+openai_gpt-5-mini,Tripura,Community Crisis,0.3137992699289518
+openai_gpt-5-mini,Manipuri (Meitei),Trickster or Clever Figure,0.4378220951435273
+mistralai_mistral-large-2512,Marma,Sacred or Forbidden Space,0.27341584412393305
+qwen_qwen3-8b,Tripura,Community Crisis,0.3948111409546634
+openai_gpt-5.1,Chakma,Moral Transgression and Consequence,0.3022218060658737
+openai_gpt-5.1,Manipuri (Meitei),Origin Story,0.25035256993078137
+openai_gpt-5.1,Chakma,Rite of Passage,0.34503606600732084
+openai_gpt-5.1,Garo (Mandi),Wisdom of an Elder,0.23713155461233215
+google_gemini-3-flash-preview,Garo (Mandi),Change and Continuity,0.40685855894866974
+mistralai_mistral-large-2512,Tripura,Everyday Life Narrative,0.3338786856629592
+openai_gpt-5-mini,Tripura,Wisdom of an Elder,0.2853501428133376
+qwen_qwen3-8b,Hajong,Trickster or Clever Figure,0.4093858195417619
+qwen_qwen3-8b,Hajong,Human–Nature Relationship,0.4534095274416543
+qwen_qwen3-8b,Bengali,Change and Continuity,0.317861233196999
+google_gemini-3-flash-preview,Tripura,Wisdom of an Elder,0.2916820346249237
+google_gemini-3-flash-preview,Oraon (Kurukh),Trickster or Clever Figure,0.3983147234023814
+openai_gpt-5.1,Marma,Community Crisis,0.30796596990972935
+openai_gpt-5.1,Hajong,Rite of Passage,0.2727417690545708
+openai_gpt-5.1,Rakhine,Origin Story,0.30051893878709923
+mistralai_mistral-large-2512,Tripura,Rite of Passage,0.298074962488705
+google_gemini-3-flash-preview,Tripura,Moral Transgression and Consequence,0.29982383713804395
+openai_gpt-5.1,Hajong,Everyday Life Narrative,0.3169917834346334
+qwen_qwen3-8b,Santal,Community Crisis,0.40992844448056687
+qwen_qwen3-8b,Manipuri (Meitei),Moral Transgression and Consequence,0.46602389110653564
+mistralai_mistral-large-2512,Rakhine,Trickster or Clever Figure,0.5660925482884084
+openai_gpt-5.1,Bengali,Everyday Life Narrative,0.33003777327575246
+mistralai_mistral-large-2512,Khasi,Trickster or Clever Figure,0.45253542702158456
+qwen_qwen3-8b,Manipuri (Meitei),Trickster or Clever Figure,0.28100421793885766
+qwen_qwen3-8b,Khasi,Community Crisis,0.3220203778518804
+mistralai_mistral-large-2512,Marma,Wisdom of an Elder,0.2828992926969254
+openai_gpt-5.1,Hajong,Community Crisis,0.3073730535109318
+qwen_qwen3-8b,Tripura,Change and Continuity,0.3111959676765429
+google_gemini-3-flash-preview,Rakhine,Rite of Passage,0.37872694787739325
+qwen_qwen3-8b,Khasi,Origin Story,0.35421243577930317
+google_gemini-3-flash-preview,Manipuri (Meitei),Human–Nature Relationship,0.4833780800485258
+qwen_qwen3-8b,Bengali,Sacred or Forbidden Space,0.3242752130213855
+google_gemini-3-flash-preview,Tripura,Human–Nature Relationship,0.39399812280110813
+google_gemini-3-flash-preview,Chakma,Rite of Passage,0.30059030380568175
+mistralai_mistral-large-2512,Khasi,Change and Continuity,0.38823946219850347
+google_gemini-3-flash-preview,Tripura,Change and Continuity,0.3940679806708669
+qwen_qwen3-8b,Rakhine,Community Crisis,0.4653574898965659
+mistralai_mistral-large-2512,Mro,Human–Nature Relationship,0.47888129751760533
+mistralai_mistral-large-2512,Santal,Change and Continuity,0.43612688305721004
+openai_gpt-5.1,Mro,Wisdom of an Elder,0.20359231255257193
+mistralai_mistral-large-2512,Bengali,Origin Story,0.35945908247396385
+google_gemini-3-flash-preview,Bengali,Moral Transgression and Consequence,0.3814838658648434
+openai_gpt-5-mini,Hajong,Moral Transgression and Consequence,0.2798765362543072
+mistralai_mistral-large-2512,Rakhine,Moral Transgression and Consequence,0.24877279890601534
+openai_gpt-5.1,Chakma,Change and Continuity,0.3380233178222105
+openai_gpt-5-mini,Marma,Sacred or Forbidden Space,0.38389535048362866
+openai_gpt-5-mini,Hajong,Wisdom of an Elder,0.28951463559843194
+openai_gpt-5-mini,Bengali,Rite of Passage,0.3017391375507146
+openai_gpt-5.1,Garo (Mandi),Community Crisis,0.3415825933997575
+openai_gpt-5-mini,Rakhine,Community Crisis,0.33226108571666746
+google_gemini-3-flash-preview,Garo (Mandi),Community Crisis,0.3905129727057066
+google_gemini-3-flash-preview,Chakma,Community Crisis,0.37174892682440075
+google_gemini-3-flash-preview,Garo (Mandi),Everyday Life Narrative,0.3788145012532387
+google_gemini-3-flash-preview,Rakhine,Trickster or Clever Figure,0.4370718190317454
+openai_gpt-5-mini,Oraon (Kurukh),Everyday Life Narrative,0.39476114562198983
+mistralai_mistral-large-2512,Hajong,Human–Nature Relationship,0.43031332253269383
+google_gemini-3-flash-preview,Hajong,Wisdom of an Elder,0.28846034736872084
+openai_gpt-5.1,Mro,Everyday Life Narrative,0.3742632344404533
+google_gemini-3-flash-preview,Rakhine,Community Crisis,0.37644848628739447
+qwen_qwen3-8b,Mro,Sacred or Forbidden Space,0.44197427152776747
+google_gemini-3-flash-preview,Chakma,Trickster or Clever Figure,0.37076556662824167
+openai_gpt-5.1,Mro,Human–Nature Relationship,0.47018218790315336
+google_gemini-3-flash-preview,Chakma,Origin Story,0.31834714910160766
+openai_gpt-5-mini,Santal,Trickster or Clever Figure,0.4092095404195486
+openai_gpt-5-mini,Manipuri (Meitei),Rite of Passage,0.31128178544246377
+openai_gpt-5-mini,Chakma,Community Crisis,0.40596480615131736
+openai_gpt-5.1,Rakhine,Rite of Passage,0.33282825610600986
+openai_gpt-5.1,Hajong,Human–Nature Relationship,0.4404231106059061
+google_gemini-3-flash-preview,Hajong,Moral Transgression and Consequence,0.34945116497403494
+openai_gpt-5.1,Oraon (Kurukh),Sacred or Forbidden Space,0.2896405482527564
+openai_gpt-5-mini,Hajong,Community Crisis,0.4049914573599267
+google_gemini-3-flash-preview,Marma,Human–Nature Relationship,0.5022184325515874
+qwen_qwen3-8b,Garo (Mandi),Community Crisis,0.3830426969241547
+qwen_qwen3-8b,Mro,Trickster or Clever Figure,0.5812399812357432
+openai_gpt-5.1,Oraon (Kurukh),Change and Continuity,0.349772886226831
+qwen_qwen3-8b,Mro,Moral Transgression and Consequence,0.27708379412398343
+openai_gpt-5.1,Bengali,Trickster or Clever Figure,0.3078708655731006
+openai_gpt-5.1,Oraon (Kurukh),Rite of Passage,0.25326932564210924
+qwen_qwen3-8b,Tripura,Moral Transgression and Consequence,0.3470628051978145
+google_gemini-3-flash-preview,Bengali,Everyday Life Narrative,0.3030408555516103
+openai_gpt-5.1,Bengali,Change and Continuity,0.29061763896680204
+qwen_qwen3-8b,Santal,Everyday Life Narrative,0.2806014080203474
+qwen_qwen3-8b,Mro,Wisdom of an Elder,0.3401615771450195
+openai_gpt-5-mini,Tripura,Everyday Life Narrative,0.45603462033564357
+google_gemini-3-flash-preview,Manipuri (Meitei),Sacred or Forbidden Space,0.3886776390721005
+google_gemini-3-flash-preview,Chakma,Change and Continuity,0.3315461318219881
+qwen_qwen3-8b,Garo (Mandi),Moral Transgression and Consequence,0.4216690911390809
+qwen_qwen3-8b,Hajong,Sacred or Forbidden Space,0.2734280814108333
+openai_gpt-5-mini,Manipuri (Meitei),Moral Transgression and Consequence,0.3944237761229663
+openai_gpt-5-mini,Chakma,Trickster or Clever Figure,0.4480520513527988
+openai_gpt-5-mini,Khasi,Community Crisis,0.33010531049969183
+openai_gpt-5-mini,Chakma,Rite of Passage,0.35711704788716214
+openai_gpt-5-mini,Marma,Human–Nature Relationship,0.5921170308953755
+openai_gpt-5-mini,Mro,Community Crisis,0.32770089933123236
+qwen_qwen3-8b,Hajong,Community Crisis,0.32379989844549506
+google_gemini-3-flash-preview,Tripura,Rite of Passage,0.33094701368507984
+mistralai_mistral-large-2512,Garo (Mandi),Community Crisis,0.4294975428772867
+openai_gpt-5-mini,Rakhine,Human–Nature Relationship,0.6101641206003925
+openai_gpt-5-mini,Garo (Mandi),Rite of Passage,0.4049847569962918
+openai_gpt-5-mini,Tripura,Rite of Passage,0.3264715300536787
+mistralai_mistral-large-2512,Chakma,Wisdom of an Elder,0.2746113093404541
+openai_gpt-5-mini,Garo (Mandi),Change and Continuity,0.31152231258646224
+google_gemini-3-flash-preview,Santal,Origin Story,0.20356223130237194
+qwen_qwen3-8b,Bengali,Community Crisis,0.34539247901827896
+mistralai_mistral-large-2512,Santal,Origin Story,0.29184803559752326
+mistralai_mistral-large-2512,Garo (Mandi),Everyday Life Narrative,0.3079662545312566
+qwen_qwen3-8b,Bengali,Rite of Passage,0.35791899699883134
+qwen_qwen3-8b,Santal,Trickster or Clever Figure,0.4282689002463391
+openai_gpt-5-mini,Bengali,Sacred or Forbidden Space,0.27241543945914803
+openai_gpt-5-mini,Marma,Change and Continuity,0.38531424578629614
+openai_gpt-5.1,Tripura,Wisdom of an Elder,0.2788216889023858
+openai_gpt-5-mini,Rakhine,Everyday Life Narrative,0.508439504373783
+qwen_qwen3-8b,Hajong,Wisdom of an Elder,0.3151426534210935
+openai_gpt-5.1,Khasi,Wisdom of an Elder,0.2209020083367983
+qwen_qwen3-8b,Bengali,Everyday Life Narrative,0.41788734207103895
+openai_gpt-5.1,Rakhine,Human–Nature Relationship,0.4716428814310575
+openai_gpt-5.1,Tripura,Rite of Passage,0.302254299732425
+openai_gpt-5-mini,Mro,Rite of Passage,0.24899767345870827
+openai_gpt-5.1,Marma,Human–Nature Relationship,0.43604160988555773
+openai_gpt-5.1,Manipuri (Meitei),Change and Continuity,0.3423443802082937
+mistralai_mistral-large-2512,Khasi,Wisdom of an Elder,0.30872913007429736
+google_gemini-3-flash-preview,Hajong,Trickster or Clever Figure,0.37783663901523834
+qwen_qwen3-8b,Mro,Change and Continuity,0.36178324321885635
+qwen_qwen3-8b,Garo (Mandi),Everyday Life Narrative,0.3608783059146077
+openai_gpt-5.1,Tripura,Origin Story,0.30715254566704986
+qwen_qwen3-8b,Hajong,Rite of Passage,0.3348634653742837
+qwen_qwen3-8b,Manipuri (Meitei),Rite of Passage,0.47753204019237216
+mistralai_mistral-large-2512,Garo (Mandi),Wisdom of an Elder,0.2102947758411905
+openai_gpt-5-mini,Khasi,Trickster or Clever Figure,0.43152700622266305
+google_gemini-3-flash-preview,Chakma,Human–Nature Relationship,0.47277913701035135
+openai_gpt-5.1,Marma,Everyday Life Narrative,0.3822656329773989
+openai_gpt-5-mini,Rakhine,Moral Transgression and Consequence,0.3723476064183415
+google_gemini-3-flash-preview,Bengali,Change and Continuity,0.43113974232671426
+openai_gpt-5-mini,Oraon (Kurukh),Moral Transgression and Consequence,0.43196294296432924
+openai_gpt-5-mini,Hajong,Trickster or Clever Figure,0.3662279307839392
+openai_gpt-5.1,Tripura,Everyday Life Narrative,0.3389040433343431
+openai_gpt-5.1,Tripura,Trickster or Clever Figure,0.24821363224292448
+openai_gpt-5-mini,Marma,Origin Story,0.3607889391489557
+mistralai_mistral-large-2512,Santal,Moral Transgression and Consequence,0.3670560364459161
+mistralai_mistral-large-2512,Manipuri (Meitei),Rite of Passage,0.35372327118647706
+google_gemini-3-flash-preview,Garo (Mandi),Rite of Passage,0.3447373414866479
+qwen_qwen3-8b,Chakma,Community Crisis,0.3684793925448212
+openai_gpt-5.1,Oraon (Kurukh),Everyday Life Narrative,0.33470755575440136
+openai_gpt-5.1,Rakhine,Everyday Life Narrative,0.3294054945659042
+openai_gpt-5-mini,Chakma,Origin Story,0.3115871800276928
+openai_gpt-5-mini,Rakhine,Change and Continuity,0.3568197136696032
+openai_gpt-5.1,Tripura,Change and Continuity,0.2872393089280323
+mistralai_mistral-large-2512,Chakma,Trickster or Clever Figure,0.5260154858211767
+mistralai_mistral-large-2512,Marma,Trickster or Clever Figure,0.4605006417965407
+openai_gpt-5.1,Khasi,Origin Story,0.2469404843552413
+openai_gpt-5-mini,Oraon (Kurukh),Change and Continuity,0.3390334421515677
+openai_gpt-5.1,Garo (Mandi),Rite of Passage,0.20070313349748137
+openai_gpt-5-mini,Marma,Community Crisis,0.38940470369150226
+mistralai_mistral-large-2512,Bengali,Community Crisis,0.30298891106627646
+openai_gpt-5.1,Manipuri (Meitei),Everyday Life Narrative,0.3643083105242656
+mistralai_mistral-large-2512,Santal,Everyday Life Narrative,0.3485042792816746
+google_gemini-3-flash-preview,Hajong,Human–Nature Relationship,0.417391584307915
+openai_gpt-5-mini,Oraon (Kurukh),Origin Story,0.32676850073188324
+openai_gpt-5-mini,Tripura,Trickster or Clever Figure,0.4378180036965118
+openai_gpt-5.1,Marma,Sacred or Forbidden Space,0.2817643352782604
+google_gemini-3-flash-preview,Khasi,Everyday Life Narrative,0.3938579992122082
+qwen_qwen3-8b,Manipuri (Meitei),Community Crisis,0.3300265041908429
+openai_gpt-5.1,Chakma,Trickster or Clever Figure,0.33231993576102137
+google_gemini-3-flash-preview,Marma,Change and Continuity,0.39747438405810076
+mistralai_mistral-large-2512,Manipuri (Meitei),Moral Transgression and Consequence,0.36959322879871026
+openai_gpt-5.1,Manipuri (Meitei),Sacred or Forbidden Space,0.3331827888096516
+mistralai_mistral-large-2512,Mro,Origin Story,0.25392108929779944
+openai_gpt-5-mini,Marma,Moral Transgression and Consequence,0.4014907386516635
+openai_gpt-5.1,Chakma,Origin Story,0.261648382600399
+qwen_qwen3-8b,Marma,Human–Nature Relationship,0.6363253328144561
+openai_gpt-5-mini,Garo (Mandi),Sacred or Forbidden Space,0.2972240735275363
+openai_gpt-5-mini,Santal,Origin Story,0.3859636754305735
+qwen_qwen3-8b,Khasi,Trickster or Clever Figure,0.4318900449396237
+qwen_qwen3-8b,Manipuri (Meitei),Sacred or Forbidden Space,0.4179352850224599
+mistralai_mistral-large-2512,Garo (Mandi),Rite of Passage,0.3279381195219879
+mistralai_mistral-large-2512,Chakma,Sacred or Forbidden Space,0.34128023624739345
+openai_gpt-5.1,Hajong,Origin Story,0.21100284344346543
+mistralai_mistral-large-2512,Mro,Wisdom of an Elder,0.23205600114389469
+qwen_qwen3-8b,Hajong,Everyday Life Narrative,0.32109729347758487
+qwen_qwen3-8b,Khasi,Human–Nature Relationship,0.5044767926569209
+mistralai_mistral-large-2512,Santal,Sacred or Forbidden Space,0.32194447188809694
+openai_gpt-5.1,Garo (Mandi),Trickster or Clever Figure,0.30870539020635945
+qwen_qwen3-8b,Marma,Community Crisis,0.31223744478033244
+mistralai_mistral-large-2512,Santal,Trickster or Clever Figure,0.4312616188828322
+openai_gpt-5-mini,Chakma,Wisdom of an Elder,0.2708342200070959
+google_gemini-3-flash-preview,Marma,Wisdom of an Elder,0.2728187905645263
+openai_gpt-5.1,Manipuri (Meitei),Wisdom of an Elder,0.35217174981365795
+openai_gpt-5.1,Marma,Change and Continuity,0.3140631954173331
+openai_gpt-5.1,Manipuri (Meitei),Community Crisis,0.273029149438231
+openai_gpt-5.1,Chakma,Human–Nature Relationship,0.3191586606808593
+qwen_qwen3-8b,Oraon (Kurukh),Human–Nature Relationship,0.5425754327641833
+openai_gpt-5.1,Oraon (Kurukh),Trickster or Clever Figure,0.3705424372866726
+openai_gpt-5-mini,Hajong,Rite of Passage,0.41325123119681884
+mistralai_mistral-large-2512,Mro,Rite of Passage,0.27530794289967364
+qwen_qwen3-8b,Tripura,Trickster or Clever Figure,0.3828936823134934
+mistralai_mistral-large-2512,Marma,Community Crisis,0.2996604405416853
+openai_gpt-5-mini,Santal,Human–Nature Relationship,0.5379196014003655
+mistralai_mistral-large-2512,Marma,Human–Nature Relationship,0.43283752653465635
+mistralai_mistral-large-2512,Hajong,Rite of Passage,0.30429406853862573
+openai_gpt-5-mini,Mro,Origin Story,0.3499679715924521
+google_gemini-3-flash-preview,Manipuri (Meitei),Trickster or Clever Figure,0.3790188577457031
+google_gemini-3-flash-preview,Manipuri (Meitei),Rite of Passage,0.39200575019265493
+openai_gpt-5-mini,Garo (Mandi),Wisdom of an Elder,0.29011653513076363
+openai_gpt-5.1,Chakma,Community Crisis,0.3296687605577293
+openai_gpt-5.1,Mro,Moral Transgression and Consequence,0.29846948304852583
+google_gemini-3-flash-preview,Bengali,Origin Story,0.4313583615620399
+google_gemini-3-flash-preview,Khasi,Wisdom of an Elder,0.27838960600037277
+google_gemini-3-flash-preview,Garo (Mandi),Moral Transgression and Consequence,0.3505392114773398
+qwen_qwen3-8b,Marma,Change and Continuity,0.4355544680803427
+google_gemini-3-flash-preview,Santal,Wisdom of an Elder,0.23735046410336558
+mistralai_mistral-large-2512,Bengali,Sacred or Forbidden Space,0.353009610460834
+openai_gpt-5-mini,Bengali,Wisdom of an Elder,0.3455946591627863
+mistralai_mistral-large-2512,Bengali,Everyday Life Narrative,0.336886968738799
+openai_gpt-5.1,Mro,Community Crisis,0.33820657083082095
+openai_gpt-5-mini,Manipuri (Meitei),Sacred or Forbidden Space,0.35813221802380224
+qwen_qwen3-8b,Chakma,Human–Nature Relationship,0.5068365285494121
+qwen_qwen3-8b,Chakma,Change and Continuity,0.45165576183840006
+mistralai_mistral-large-2512,Bengali,Human–Nature Relationship,0.4303375994584753
+openai_gpt-5-mini,Khasi,Human–Nature Relationship,0.4931299687098637
+qwen_qwen3-8b,Rakhine,Rite of Passage,0.4165557613306887
+google_gemini-3-flash-preview,Khasi,Trickster or Clever Figure,0.36479087959493683
+openai_gpt-5.1,Garo (Mandi),Change and Continuity,0.31168315383826073
+mistralai_mistral-large-2512,Chakma,Human–Nature Relationship,0.385061786705691
+openai_gpt-5.1,Mro,Sacred or Forbidden Space,0.3845850968236022
+google_gemini-3-flash-preview,Marma,Everyday Life Narrative,0.3633885842434731
+openai_gpt-5.1,Oraon (Kurukh),Wisdom of an Elder,0.18440740414643897
+google_gemini-3-flash-preview,Santal,Sacred or Forbidden Space,0.29243326000958936
+openai_gpt-5-mini,Santal,Sacred or Forbidden Space,0.27262725753184724
+mistralai_mistral-large-2512,Chakma,Origin Story,0.3110420967917136
+mistralai_mistral-large-2512,Oraon (Kurukh),Community Crisis,0.3681643100622711
+qwen_qwen3-8b,Chakma,Trickster or Clever Figure,0.5552423930376267
+google_gemini-3-flash-preview,Santal,Rite of Passage,0.3715183184219887
+qwen_qwen3-8b,Mro,Human–Nature Relationship,0.5699056546582576
+mistralai_mistral-large-2512,Tripura,Origin Story,0.27984744576833553
+openai_gpt-5.1,Bengali,Community Crisis,0.32137839495679577
+openai_gpt-5-mini,Manipuri (Meitei),Human–Nature Relationship,0.4825134425313271
+mistralai_mistral-large-2512,Oraon (Kurukh),Moral Transgression and Consequence,0.35137142260588083
+openai_gpt-5-mini,Marma,Wisdom of an Elder,0.3884496206991881
+qwen_qwen3-8b,Garo (Mandi),Origin Story,0.3411434350246203
+google_gemini-3-flash-preview,Khasi,Origin Story,0.3063755952183025
+openai_gpt-5.1,Rakhine,Moral Transgression and Consequence,0.3007392036297071
+openai_gpt-5-mini,Rakhine,Sacred or Forbidden Space,0.3687762982028424
+openai_gpt-5.1,Chakma,Wisdom of an Elder,0.3154946393359719
+mistralai_mistral-large-2512,Garo (Mandi),Trickster or Clever Figure,0.43684398005210645
+qwen_qwen3-8b,Marma,Moral Transgression and Consequence,0.2625995243386714
+qwen_qwen3-8b,Garo (Mandi),Trickster or Clever Figure,0.5006149751106704
+mistralai_mistral-large-2512,Garo (Mandi),Human–Nature Relationship,0.5418989058966687
+qwen_qwen3-8b,Chakma,Moral Transgression and Consequence,0.46194476240529947
+google_gemini-3-flash-preview,Oraon (Kurukh),Moral Transgression and Consequence,0.27259950781944764
+google_gemini-3-flash-preview,Mro,Everyday Life Narrative,0.3711452242370059
+openai_gpt-5.1,Bengali,Human–Nature Relationship,0.41033638420922247
+mistralai_mistral-large-2512,Bengali,Moral Transgression and Consequence,0.3096184672664807
+qwen_qwen3-8b,Chakma,Sacred or Forbidden Space,0.23847943198933363
+mistralai_mistral-large-2512,Mro,Trickster or Clever Figure,0.3480624046795491
+mistralai_mistral-large-2512,Mro,Change and Continuity,0.21214464926090737
+qwen_qwen3-8b,Oraon (Kurukh),Community Crisis,0.26737278621822114
+openai_gpt-5-mini,Santal,Rite of Passage,0.29319961776858317
+google_gemini-3-flash-preview,Rakhine,Human–Nature Relationship,0.4151895579357925
+mistralai_mistral-large-2512,Hajong,Moral Transgression and Consequence,0.32399025422318295
+mistralai_mistral-large-2512,Rakhine,Sacred or Forbidden Space,0.33204197954792747
+google_gemini-3-flash-preview,Garo (Mandi),Trickster or Clever Figure,0.33720733616892296
+openai_gpt-5.1,Bengali,Moral Transgression and Consequence,0.34352794247838525
+qwen_qwen3-8b,Khasi,Change and Continuity,0.35072681550379914
+qwen_qwen3-8b,Mro,Everyday Life Narrative,0.41859190065152274
+google_gemini-3-flash-preview,Oraon (Kurukh),Everyday Life Narrative,0.349257897054029
+openai_gpt-5.1,Oraon (Kurukh),Community Crisis,0.34496218574201387
+mistralai_mistral-large-2512,Chakma,Rite of Passage,0.3080173995536777
+mistralai_mistral-large-2512,Mro,Sacred or Forbidden Space,0.35289646923672047
+qwen_qwen3-8b,Manipuri (Meitei),Wisdom of an Elder,0.25298077734445057
+openai_gpt-5.1,Hajong,Moral Transgression and Consequence,0.26173713176025615
+qwen_qwen3-8b,Santal,Sacred or Forbidden Space,0.3071372131630108
+qwen_qwen3-8b,Santal,Moral Transgression and Consequence,0.43277697791933967
+mistralai_mistral-large-2512,Chakma,Everyday Life Narrative,0.3437849877699195
+mistralai_mistral-large-2512,Manipuri (Meitei),Change and Continuity,0.2665341448391345
+openai_gpt-5-mini,Tripura,Human–Nature Relationship,0.43748781927148195
+mistralai_mistral-large-2512,Chakma,Moral Transgression and Consequence,0.3328553086081285
+openai_gpt-5-mini,Chakma,Everyday Life Narrative,0.419299718890773
+google_gemini-3-flash-preview,Khasi,Change and Continuity,0.4422473218038172
+qwen_qwen3-8b,Hajong,Moral Transgression and Consequence,0.36796486707549025
+mistralai_mistral-large-2512,Rakhine,Community Crisis,0.24052995064644112
+qwen_qwen3-8b,Rakhine,Moral Transgression and Consequence,0.38797285373258117
+mistralai_mistral-large-2512,Manipuri (Meitei),Community Crisis,0.2624543544475536
+mistralai_mistral-large-2512,Bengali,Wisdom of an Elder,0.26221825472184024
+openai_gpt-5-mini,Bengali,Community Crisis,0.42959403958093423
+openai_gpt-5.1,Santal,Change and Continuity,0.3448159350926723
+qwen_qwen3-8b,Tripura,Origin Story,0.48124556227894355
+qwen_qwen3-8b,Mro,Rite of Passage,0.45016591967039976
+google_gemini-3-flash-preview,Garo (Mandi),Sacred or Forbidden Space,0.3081235215250159
+google_gemini-3-flash-preview,Chakma,Sacred or Forbidden Space,0.3124578160791964
+openai_gpt-5.1,Khasi,Rite of Passage,0.24843382246036017
+qwen_qwen3-8b,Khasi,Moral Transgression and Consequence,0.3796782318315687
+openai_gpt-5-mini,Santal,Moral Transgression and Consequence,0.3256304384132671
+mistralai_mistral-large-2512,Khasi,Everyday Life Narrative,0.32419454027143724
+google_gemini-3-flash-preview,Chakma,Wisdom of an Elder,0.3576807616530534
+mistralai_mistral-large-2512,Bengali,Trickster or Clever Figure,0.41860190106964723
+mistralai_mistral-large-2512,Hajong,Change and Continuity,0.32647070871849726
+openai_gpt-5-mini,Tripura,Origin Story,0.36769133711374924
+openai_gpt-5-mini,Bengali,Human–Nature Relationship,0.5044340910413385
+openai_gpt-5.1,Santal,Origin Story,0.3178156771451841
+mistralai_mistral-large-2512,Marma,Change and Continuity,0.30834776423277543
+qwen_qwen3-8b,Chakma,Rite of Passage,0.48124264943486283
+openai_gpt-5-mini,Oraon (Kurukh),Rite of Passage,0.3634131880006999
+google_gemini-3-flash-preview,Bengali,Trickster or Clever Figure,0.3959432708013191
+openai_gpt-5-mini,Hajong,Everyday Life Narrative,0.4344687707109316
+google_gemini-3-flash-preview,Oraon (Kurukh),Wisdom of an Elder,0.2467203338072218
+mistralai_mistral-large-2512,Hajong,Origin Story,0.27985118578882884
+openai_gpt-5-mini,Oraon (Kurukh),Sacred or Forbidden Space,0.3877390616835119
+openai_gpt-5-mini,Tripura,Sacred or Forbidden Space,0.36065438954601636
+openai_gpt-5-mini,Chakma,Sacred or Forbidden Space,0.34800914312504494
+mistralai_mistral-large-2512,Khasi,Human–Nature Relationship,0.3709109956888039
+qwen_qwen3-8b,Chakma,Origin Story,0.3357214147371699
+openai_gpt-5.1,Garo (Mandi),Everyday Life Narrative,0.29684138909029345
+qwen_qwen3-8b,Chakma,Wisdom of an Elder,0.36724882398330894
+openai_gpt-5-mini,Mro,Human–Nature Relationship,0.5475429371379323
+qwen_qwen3-8b,Tripura,Sacred or Forbidden Space,0.35319653208034596
+google_gemini-3-flash-preview,Bengali,Wisdom of an Elder,0.26804336049477895
+openai_gpt-5.1,Khasi,Human–Nature Relationship,0.5068272965651589
+google_gemini-3-flash-preview,Manipuri (Meitei),Wisdom of an Elder,0.2794944041081173
+mistralai_mistral-large-2512,Marma,Origin Story,0.23294981255770697
+google_gemini-3-flash-preview,Oraon (Kurukh),Change and Continuity,0.3416769770739245
+mistralai_mistral-large-2512,Marma,Rite of Passage,0.3724334223948019
+openai_gpt-5.1,Khasi,Everyday Life Narrative,0.32897859950901
+openai_gpt-5-mini,Garo (Mandi),Human–Nature Relationship,0.41636608403594244
+google_gemini-3-flash-preview,Garo (Mandi),Wisdom of an Elder,0.35445176026998637
+mistralai_mistral-large-2512,Mro,Everyday Life Narrative,0.3793192097435145
+qwen_qwen3-8b,Garo (Mandi),Sacred or Forbidden Space,0.40200140831026576
+google_gemini-3-flash-preview,Tripura,Trickster or Clever Figure,0.47317502000305844
+qwen_qwen3-8b,Oraon (Kurukh),Sacred or Forbidden Space,0.23794128587851793
+mistralai_mistral-large-2512,Khasi,Rite of Passage,0.35568661010613045
+qwen_qwen3-8b,Marma,Wisdom of an Elder,0.3837806922385387
+qwen_qwen3-8b,Oraon (Kurukh),Change and Continuity,0.5196690515602543
+openai_gpt-5.1,Oraon (Kurukh),Moral Transgression and Consequence,0.29779741856823505
+google_gemini-3-flash-preview,Mro,Community Crisis,0.3492496479602658
+qwen_qwen3-8b,Manipuri (Meitei),Human–Nature Relationship,0.562150702970074
+openai_gpt-5-mini,Bengali,Moral Transgression and Consequence,0.3941525274537083
+openai_gpt-5-mini,Hajong,Sacred or Forbidden Space,0.3510286786982666
+google_gemini-3-flash-preview,Mro,Origin Story,0.29944073726383613
+google_gemini-3-flash-preview,Manipuri (Meitei),Moral Transgression and Consequence,0.37291158021109105
+openai_gpt-5.1,Rakhine,Sacred or Forbidden Space,0.28962280893747305
+qwen_qwen3-8b,Khasi,Sacred or Forbidden Space,0.263994505460176
+openai_gpt-5.1,Garo (Mandi),Origin Story,0.27761705147352056
+openai_gpt-5-mini,Khasi,Everyday Life Narrative,0.5397549818717753
+openai_gpt-5-mini,Oraon (Kurukh),Community Crisis,0.36772394700475997
+google_gemini-3-flash-preview,Khasi,Community Crisis,0.32245452198320135
+qwen_qwen3-8b,Bengali,Trickster or Clever Figure,0.5702821289029075
+google_gemini-3-flash-preview,Tripura,Community Crisis,0.3384742768705771
+openai_gpt-5.1,Santal,Moral Transgression and Consequence,0.34657355265202183
+qwen_qwen3-8b,Manipuri (Meitei),Everyday Life Narrative,0.3885025540390403
+qwen_qwen3-8b,Tripura,Wisdom of an Elder,0.29558228203597026
+openai_gpt-5-mini,Mro,Wisdom of an Elder,0.393045389363307
+google_gemini-3-flash-preview,Santal,Moral Transgression and Consequence,0.2929926430157723
+openai_gpt-5-mini,Mro,Moral Transgression and Consequence,0.34441576276502694
+mistralai_mistral-large-2512,Khasi,Sacred or Forbidden Space,0.24933511782740425
+qwen_qwen3-8b,Santal,Rite of Passage,0.4029371486311214
+openai_gpt-5-mini,Rakhine,Origin Story,0.30440751198244
+google_gemini-3-flash-preview,Rakhine,Origin Story,0.4902425944778288
+openai_gpt-5.1,Mro,Rite of Passage,0.3386534449902685
+mistralai_mistral-large-2512,Tripura,Change and Continuity,0.4004324657872953
+openai_gpt-5-mini,Bengali,Everyday Life Narrative,0.3994220904893391
+qwen_qwen3-8b,Tripura,Human–Nature Relationship,0.4310943513620302
+google_gemini-3-flash-preview,Rakhine,Change and Continuity,0.4108245974763418
+google_gemini-3-flash-preview,Chakma,Moral Transgression and Consequence,0.3047811089067505
+openai_gpt-5-mini,Bengali,Change and Continuity,0.38499039269038704
+mistralai_mistral-large-2512,Rakhine,Everyday Life Narrative,0.39897482736768186
+qwen_qwen3-8b,Rakhine,Everyday Life Narrative,0.3473614515173782
+google_gemini-3-flash-preview,Oraon (Kurukh),Origin Story,0.34057748652467645
+openai_gpt-5.1,Oraon (Kurukh),Origin Story,0.2636814403514294
+google_gemini-3-flash-preview,Khasi,Human–Nature Relationship,0.49558131318020715
+google_gemini-3-flash-preview,Marma,Trickster or Clever Figure,0.38548613795496856
+qwen_qwen3-8b,Rakhine,Human–Nature Relationship,0.543418810804252
+openai_gpt-5.1,Santal,Everyday Life Narrative,0.30793350445697987
+openai_gpt-5.1,Chakma,Sacred or Forbidden Space,0.3408197402089389
+google_gemini-3-flash-preview,Hajong,Origin Story,0.3194358465640358
+mistralai_mistral-large-2512,Oraon (Kurukh),Rite of Passage,0.35555783870196356
+mistralai_mistral-large-2512,Oraon (Kurukh),Sacred or Forbidden Space,0.27868687361657374
+qwen_qwen3-8b,Tripura,Everyday Life Narrative,0.4662901062864715
+openai_gpt-5-mini,Garo (Mandi),Origin Story,0.2649137802952044
+qwen_qwen3-8b,Hajong,Change and Continuity,0.4061170473950152
+openai_gpt-5.1,Marma,Rite of Passage,0.3462284148087247
+qwen_qwen3-8b,Marma,Everyday Life Narrative,0.42839691753326936
+google_gemini-3-flash-preview,Marma,Sacred or Forbidden Space,0.30427177760033874
+openai_gpt-5.1,Mro,Change and Continuity,0.3649989180121458
+google_gemini-3-flash-preview,Tripura,Sacred or Forbidden Space,0.3580098849409743
+google_gemini-3-flash-preview,Mro,Change and Continuity,0.3808684002898751
+openai_gpt-5-mini,Oraon (Kurukh),Wisdom of an Elder,0.27708593607814014
+qwen_qwen3-8b,Santal,Origin Story,0.44643927781312465
+mistralai_mistral-large-2512,Oraon (Kurukh),Human–Nature Relationship,0.3763587669171601
+qwen_qwen3-8b,Hajong,Origin Story,0.3909127680903479
+openai_gpt-5.1,Oraon (Kurukh),Human–Nature Relationship,0.395548717324293
+google_gemini-3-flash-preview,Tripura,Origin Story,0.3118353618909262
+openai_gpt-5.1,Marma,Trickster or Clever Figure,0.3607532403264535
+openai_gpt-5.1,Khasi,Change and Continuity,0.35681414843287595
+openai_gpt-5.1,Chakma,Everyday Life Narrative,0.3039322006631764
+qwen_qwen3-8b,Tripura,Rite of Passage,0.4029369381943031
+openai_gpt-5-mini,Santal,Change and Continuity,0.39373966344999256
+google_gemini-3-flash-preview,Bengali,Community Crisis,0.4312311855038551
+mistralai_mistral-large-2512,Oraon (Kurukh),Wisdom of an Elder,0.25866630020642023
+openai_gpt-5.1,Garo (Mandi),Sacred or Forbidden Space,0.35290697827269724
+google_gemini-3-flash-preview,Hajong,Sacred or Forbidden Space,0.37082782802596714
+qwen_qwen3-8b,Oraon (Kurukh),Rite of Passage,0.37547704021977135
+mistralai_mistral-large-2512,Khasi,Community Crisis,0.30986987301389357
+openai_gpt-5-mini,Tripura,Change and Continuity,0.4883057525645591
+openai_gpt-5-mini,Oraon (Kurukh),Human–Nature Relationship,0.5852421101247524
+qwen_qwen3-8b,Khasi,Wisdom of an Elder,0.2409233034947138
+qwen_qwen3-8b,Manipuri (Meitei),Change and Continuity,0.4087945192884497
+mistralai_mistral-large-2512,Manipuri (Meitei),Origin Story,0.2155351319039467
+openai_gpt-5-mini,Tripura,Moral Transgression and Consequence,0.30716842864588
+openai_gpt-5.1,Bengali,Origin Story,0.3006775802278996
+openai_gpt-5-mini,Manipuri (Meitei),Wisdom of an Elder,0.2927333626655012
+openai_gpt-5.1,Marma,Origin Story,0.2850565966125731
+openai_gpt-5.1,Santal,Community Crisis,0.34119508696878054
+openai_gpt-5.1,Mro,Origin Story,0.2876783837882595
+qwen_qwen3-8b,Oraon (Kurukh),Wisdom of an Elder,0.26698445748543387
+openai_gpt-5.1,Garo (Mandi),Moral Transgression and Consequence,0.28188345699784667
+mistralai_mistral-large-2512,Oraon (Kurukh),Change and Continuity,0.33254807311790824
+mistralai_mistral-large-2512,Manipuri (Meitei),Human–Nature Relationship,0.46363389859228143
+openai_gpt-5.1,Rakhine,Change and Continuity,0.273519822051568
+openai_gpt-5.1,Manipuri (Meitei),Human–Nature Relationship,0.40286737485740887
+mistralai_mistral-large-2512,Manipuri (Meitei),Sacred or Forbidden Space,0.2778181190079192
+mistralai_mistral-large-2512,Mro,Moral Transgression and Consequence,0.32553228522466404
+google_gemini-3-flash-preview,Khasi,Rite of Passage,0.3919403897951568
+openai_gpt-5-mini,Santal,Everyday Life Narrative,0.3735621061791705
+google_gemini-3-flash-preview,Mro,Moral Transgression and Consequence,0.30727984519173335
+openai_gpt-5.1,Hajong,Change and Continuity,0.368655430811512
+qwen_qwen3-8b,Garo (Mandi),Rite of Passage,0.3944564747176329
+openai_gpt-5-mini,Marma,Rite of Passage,0.2892332970504641
+qwen_qwen3-8b,Marma,Trickster or Clever Figure,0.42017933406855124
+openai_gpt-5-mini,Santal,Wisdom of an Elder,0.31774287352838204
+openai_gpt-5-mini,Khasi,Wisdom of an Elder,0.2736446191613988
+mistralai_mistral-large-2512,Hajong,Wisdom of an Elder,0.3532310426087395
+openai_gpt-5-mini,Garo (Mandi),Trickster or Clever Figure,0.32899104913767463
+google_gemini-3-flash-preview,Mro,Wisdom of an Elder,0.25568188806648107
+qwen_qwen3-8b,Rakhine,Sacred or Forbidden Space,0.37225407163815116
+openai_gpt-5.1,Bengali,Sacred or Forbidden Space,0.20799578177175748
+google_gemini-3-flash-preview,Hajong,Community Crisis,0.2542928097291177
+qwen_qwen3-8b,Khasi,Rite of Passage,0.368349938940273
+openai_gpt-5-mini,Marma,Everyday Life Narrative,0.45287322075818237
+openai_gpt-5.1,Hajong,Wisdom of an Elder,0.2672117660815544
+mistralai_mistral-large-2512,Santal,Human–Nature Relationship,0.47333733323150184
+google_gemini-3-flash-preview,Marma,Origin Story,0.35192962920750404
+mistralai_mistral-large-2512,Hajong,Trickster or Clever Figure,0.43593194118899603

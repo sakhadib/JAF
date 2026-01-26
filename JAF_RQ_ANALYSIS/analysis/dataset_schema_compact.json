@@ -1,0 +1,40 @@
+{
+  "dataset_name": "Bangladeshi Folklore Story Generation & Evaluation Dataset",
+  "purpose": "Evaluate AI-generated cultural folklore stories across 12 Bangladeshi cultures",
+  "total_stories": 599,
+  "files": {
+    "evaluated_stories.csv": {
+      "role": "Main evaluation file with human ratings",
+      "columns": {
+        "story_id": "Unique identifier (1-599)",
+        "culture": "Target culture (12 categories: Bengali, Chakma, Garo, Hajong, Khasi, Manipuri, Marma, Mro, Oraon, Rakhine, Santal, Tripura)",
+        "model": "LLM that generated the story (5 models)",
+        "story": "Generated folklore story in Bengali (500-700 words)",
+        "Cultural Accuracy & Authenticity": "Human rating 0-5",
+        "Contextual & Temporal Appropriateness": "Human rating 0-5",
+        "Narrative & Symbolic Coherence": "Human rating 0-5",
+        "Linguistic & Expressive Appropriateness (Bangla)": "Human rating 0-5"
+      }
+    },
+    "parquet/*.parquet": {
+      "role": "Embedding files (5 files, one per embedding model)",
+      "key_columns": {
+        "model": "LLM that generated the story (LINK KEY)",
+        "culture": "Target culture (LINK KEY)",
+        "story": "Same story text as in CSV",
+        "story_type": "Narrative category (10 types)",
+        "region": "Geographic region in Bangladesh",
+        "scenario_embedding": "Vector embedding of the story prompt/scenario",
+        "story_embedding": "Vector embedding of the generated story"
+      },
+      "embedding_dimensions": {
+        "google_gemini-embedding-001": 3072,
+        "mistralai_mistral-embed-2312": 1024,
+        "openai_text-embedding-3-large": 3072,
+        "openai_text-embedding-3-small": 1536,
+        "qwen_qwen3-embedding-8b": 4096
+      }
+    }
+  },
+  "IMPORTANT_linking_key": "(model, culture) links evaluated_stories.csv to all parquet files - same 599 stories appear in each file with different embeddings"
+}

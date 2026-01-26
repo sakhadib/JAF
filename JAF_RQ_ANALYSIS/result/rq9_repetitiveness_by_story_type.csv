@@ -1,0 +1,51 @@
+model,story_type,n_stories,n_pairs,mean_similarity,std_similarity
+openai_gpt-5-mini,Change and Continuity,12,66,0.5999721726257848,0.05046125547170707
+openai_gpt-5-mini,Community Crisis,12,66,0.6252157895801781,0.05470147417986925
+openai_gpt-5-mini,Trickster or Clever Figure,12,66,0.6355233779809627,0.08810262971358908
+openai_gpt-5-mini,Sacred or Forbidden Space,12,66,0.607919970826007,0.055706054625642216
+openai_gpt-5-mini,Everyday Life Narrative,12,66,0.5767066674906187,0.059231129803131034
+openai_gpt-5-mini,Wisdom of an Elder,12,66,0.5382636168700417,0.06400892411424831
+openai_gpt-5-mini,Origin Story,12,66,0.5830911276345065,0.06099795348170286
+openai_gpt-5-mini,Moral Transgression and Consequence,12,66,0.5795158844057048,0.04538836901308841
+openai_gpt-5-mini,Human–Nature Relationship,12,66,0.6431434920794326,0.04592080667831016
+openai_gpt-5-mini,Rite of Passage,12,66,0.5322031571302522,0.05479324703968836
+mistralai_mistral-large-2512,Change and Continuity,12,66,0.47458054663291005,0.0784616079319531
+mistralai_mistral-large-2512,Community Crisis,12,66,0.5283044892727802,0.06710068771478671
+mistralai_mistral-large-2512,Trickster or Clever Figure,12,66,0.5112343150095039,0.08689621815711539
+mistralai_mistral-large-2512,Sacred or Forbidden Space,12,66,0.5302438452549607,0.07293829054981106
+mistralai_mistral-large-2512,Everyday Life Narrative,12,66,0.46563725784479976,0.0712678380238862
+mistralai_mistral-large-2512,Wisdom of an Elder,12,66,0.4766398783572085,0.05284549959622322
+mistralai_mistral-large-2512,Origin Story,12,66,0.4497790473821399,0.07883170232301227
+mistralai_mistral-large-2512,Moral Transgression and Consequence,12,66,0.4823659324662427,0.06607555189455454
+mistralai_mistral-large-2512,Human–Nature Relationship,12,66,0.6046769669657504,0.04650413733469155
+mistralai_mistral-large-2512,Rite of Passage,12,66,0.4979023464404262,0.05711142409331159
+openai_gpt-5.1,Change and Continuity,12,66,0.5803302805161883,0.048955599644822
+openai_gpt-5.1,Community Crisis,12,66,0.6404527363370317,0.041811844295797256
+openai_gpt-5.1,Trickster or Clever Figure,12,66,0.5367655002897715,0.05425235153180463
+openai_gpt-5.1,Sacred or Forbidden Space,12,66,0.5629775743620369,0.04676538652616915
+openai_gpt-5.1,Everyday Life Narrative,12,66,0.5380866207712509,0.04113525799309078
+openai_gpt-5.1,Wisdom of an Elder,12,66,0.5218154988077452,0.06584629699148534
+openai_gpt-5.1,Origin Story,12,66,0.54199805217755,0.06096696893074142
+openai_gpt-5.1,Moral Transgression and Consequence,12,66,0.5445716691656967,0.04728702124191356
+openai_gpt-5.1,Human–Nature Relationship,12,66,0.622591175033287,0.041598056634654115
+openai_gpt-5.1,Rite of Passage,12,66,0.5425128155330581,0.05138453256676114
+google_gemini-3-flash-preview,Change and Continuity,12,66,0.544907474296753,0.04541902663807052
+google_gemini-3-flash-preview,Community Crisis,12,66,0.5837649043666469,0.05156017945274268
+google_gemini-3-flash-preview,Trickster or Clever Figure,12,66,0.5704888416917632,0.0923822544002103
+google_gemini-3-flash-preview,Sacred or Forbidden Space,12,66,0.5976602904930941,0.05139544884944368
+google_gemini-3-flash-preview,Everyday Life Narrative,12,66,0.537447214962344,0.05546045601874572
+google_gemini-3-flash-preview,Wisdom of an Elder,12,66,0.5184216078727886,0.06117724952623287
+google_gemini-3-flash-preview,Origin Story,12,66,0.5256834220902994,0.0558962481792036
+google_gemini-3-flash-preview,Moral Transgression and Consequence,12,66,0.5655452788061323,0.048482441842548865
+google_gemini-3-flash-preview,Human–Nature Relationship,12,66,0.5730570792321988,0.05538424568560848
+google_gemini-3-flash-preview,Rite of Passage,12,66,0.47418549185801484,0.05144734999738531
+qwen_qwen3-8b,Change and Continuity,12,66,0.4555053318253013,0.08068363568941203
+qwen_qwen3-8b,Community Crisis,12,66,0.5026559449403398,0.0729922520642171
+qwen_qwen3-8b,Trickster or Clever Figure,12,66,0.45922282803888215,0.0809928087432163
+qwen_qwen3-8b,Sacred or Forbidden Space,12,66,0.47655317470403397,0.07598764611218858
+qwen_qwen3-8b,Everyday Life Narrative,12,66,0.4439316476748585,0.05529719833717181
+qwen_qwen3-8b,Wisdom of an Elder,12,66,0.45920399864428246,0.06339655344760581
+qwen_qwen3-8b,Origin Story,11,55,0.4905270033585651,0.08910135891917828
+qwen_qwen3-8b,Moral Transgression and Consequence,12,66,0.46574705527074167,0.054249772521703425
+qwen_qwen3-8b,Human–Nature Relationship,12,66,0.5252683985430724,0.05995018830074275
+qwen_qwen3-8b,Rite of Passage,12,66,0.4321454948363438,0.05686373944910875

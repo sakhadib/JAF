@@ -1,0 +1,11 @@
+group1,group2,mean_diff,p_adj,lower_ci,upper_ci,reject_null,significance
+google_gemini-3-flash-preview,mistralai_mistral-large-2512,-0.2,0.1801,-0.4484,0.0484,False,ns
+google_gemini-3-flash-preview,openai_gpt-5-mini,-0.025,0.9987,-0.2734,0.2234,False,ns
+google_gemini-3-flash-preview,openai_gpt-5.1,0.7333,0.0,0.4849,0.9818,True,***
+google_gemini-3-flash-preview,qwen_qwen3-8b,-0.2655,0.0299,-0.5145,-0.0166,True,*
+mistralai_mistral-large-2512,openai_gpt-5-mini,0.175,0.3039,-0.0734,0.4234,False,ns
+mistralai_mistral-large-2512,openai_gpt-5.1,0.9333,0.0,0.6849,1.1818,True,***
+mistralai_mistral-large-2512,qwen_qwen3-8b,-0.0655,0.9518,-0.3145,0.1834,False,ns
+openai_gpt-5-mini,openai_gpt-5.1,0.7583,0.0,0.5099,1.0068,True,***
+openai_gpt-5-mini,qwen_qwen3-8b,-0.2405,0.064,-0.4895,0.0084,False,ns
+openai_gpt-5.1,qwen_qwen3-8b,-0.9989,0.0,-1.2478,-0.7499,True,***

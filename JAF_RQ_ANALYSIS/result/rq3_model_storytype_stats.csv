@@ -1,0 +1,51 @@
+model,story_type,n,mean,std,median
+google_gemini-3-flash-preview,Everyday Life Narrative,12,2.0,0.6030226891555273,2.0
+google_gemini-3-flash-preview,Origin Story,12,2.0833333333333335,1.1645001528813148,2.0
+google_gemini-3-flash-preview,Human–Nature Relationship,12,2.1666666666666665,1.1146408580454257,2.0
+google_gemini-3-flash-preview,Moral Transgression and Consequence,12,1.9166666666666667,0.7929614610987591,2.0
+google_gemini-3-flash-preview,Wisdom of an Elder,12,1.5833333333333333,0.6685579234215214,1.5
+google_gemini-3-flash-preview,Community Crisis,12,2.0,0.4264014327112209,2.0
+google_gemini-3-flash-preview,Rite of Passage,12,2.0,0.6030226891555273,2.0
+google_gemini-3-flash-preview,Trickster or Clever Figure,12,1.9166666666666667,0.7929614610987591,2.0
+google_gemini-3-flash-preview,Sacred or Forbidden Space,12,1.6666666666666667,0.49236596391733095,2.0
+google_gemini-3-flash-preview,Change and Continuity,12,1.5,0.5222329678670935,1.5
+mistralai_mistral-large-2512,Everyday Life Narrative,12,1.75,0.45226701686664544,2.0
+mistralai_mistral-large-2512,Origin Story,12,1.9166666666666667,0.5149286505444373,2.0
+mistralai_mistral-large-2512,Human–Nature Relationship,12,1.8333333333333333,0.5773502691896257,2.0
+mistralai_mistral-large-2512,Moral Transgression and Consequence,12,1.4166666666666667,0.5149286505444373,1.0
+mistralai_mistral-large-2512,Wisdom of an Elder,12,1.9166666666666667,0.28867513459481287,2.0
+mistralai_mistral-large-2512,Community Crisis,12,1.5833333333333333,0.5149286505444373,2.0
+mistralai_mistral-large-2512,Rite of Passage,12,1.5,0.5222329678670935,1.5
+mistralai_mistral-large-2512,Trickster or Clever Figure,12,1.6666666666666667,0.49236596391733095,2.0
+mistralai_mistral-large-2512,Sacred or Forbidden Space,12,1.4166666666666667,0.5149286505444373,1.0
+mistralai_mistral-large-2512,Change and Continuity,12,1.75,0.45226701686664544,2.0
+openai_gpt-5-mini,Everyday Life Narrative,12,2.1666666666666665,0.5773502691896257,2.0
+openai_gpt-5-mini,Origin Story,12,1.9166666666666667,0.5149286505444373,2.0
+openai_gpt-5-mini,Human–Nature Relationship,12,1.75,0.7537783614444091,2.0
+openai_gpt-5-mini,Moral Transgression and Consequence,12,1.6666666666666667,0.49236596391733095,2.0
+openai_gpt-5-mini,Wisdom of an Elder,12,1.8333333333333333,0.7177405625652735,2.0
+openai_gpt-5-mini,Community Crisis,12,2.0,0.4264014327112209,2.0
+openai_gpt-5-mini,Rite of Passage,12,1.9166666666666667,0.6685579234215215,2.0
+openai_gpt-5-mini,Trickster or Clever Figure,12,1.6666666666666667,0.8876253645985945,2.0
+openai_gpt-5-mini,Sacred or Forbidden Space,12,1.8333333333333333,0.7177405625652734,2.0
+openai_gpt-5-mini,Change and Continuity,12,1.9166666666666667,0.6685579234215215,2.0
+openai_gpt-5.1,Everyday Life Narrative,12,2.8333333333333335,0.38924947208076144,3.0
+openai_gpt-5.1,Origin Story,12,2.6666666666666665,0.6513389472789297,3.0
+openai_gpt-5.1,Human–Nature Relationship,12,2.5,0.5222329678670935,2.5
+openai_gpt-5.1,Moral Transgression and Consequence,12,2.9166666666666665,0.28867513459481287,3.0
+openai_gpt-5.1,Wisdom of an Elder,12,2.5,0.5222329678670935,2.5
+openai_gpt-5.1,Community Crisis,12,2.8333333333333335,0.38924947208076144,3.0
+openai_gpt-5.1,Rite of Passage,12,2.8333333333333335,0.38924947208076144,3.0
+openai_gpt-5.1,Trickster or Clever Figure,12,2.8333333333333335,0.38924947208076144,3.0
+openai_gpt-5.1,Sacred or Forbidden Space,12,2.75,0.45226701686664544,3.0
+openai_gpt-5.1,Change and Continuity,12,2.75,0.621581560508061,3.0
+qwen_qwen3-8b,Everyday Life Narrative,12,1.75,0.45226701686664544,2.0
+qwen_qwen3-8b,Origin Story,11,1.8181818181818181,0.6030226891555273,2.0
+qwen_qwen3-8b,Human–Nature Relationship,12,1.9166666666666667,0.6685579234215215,2.0
+qwen_qwen3-8b,Moral Transgression and Consequence,12,1.8333333333333333,0.5773502691896257,2.0
+qwen_qwen3-8b,Wisdom of an Elder,12,2.0,0.6030226891555273,2.0
+qwen_qwen3-8b,Community Crisis,12,1.5833333333333333,0.5149286505444373,2.0
+qwen_qwen3-8b,Rite of Passage,12,1.75,0.45226701686664544,2.0
+qwen_qwen3-8b,Trickster or Clever Figure,12,1.6666666666666667,0.49236596391733095,2.0
+qwen_qwen3-8b,Sacred or Forbidden Space,12,1.75,0.7537783614444091,2.0
+qwen_qwen3-8b,Change and Continuity,12,1.75,0.45226701686664544,2.0

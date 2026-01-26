@@ -1,0 +1,46 @@
+model,region,n,mean,std,median
+google_gemini-3-flash-preview,Bangladesh-Scoped,10,3.6,1.505545305418162,4.0
+google_gemini-3-flash-preview,Chittagong Hill Tracts,30,2.466666666666667,0.819307248726686,2.0
+google_gemini-3-flash-preview,"Mymensingh, Sherpur",10,1.8,1.0327955589886444,2.0
+google_gemini-3-flash-preview,Mymensingh,10,2.7,0.48304589153964794,3.0
+google_gemini-3-flash-preview,Sylhet (border areas),20,2.0,0.45883146774112354,2.0
+google_gemini-3-flash-preview,Bandarban,10,2.1,0.7378647873726218,2.0
+google_gemini-3-flash-preview,North Bengal,10,2.4,0.5163977794943223,2.0
+google_gemini-3-flash-preview,"Cox's Bazar, coastal areas",10,2.3,0.48304589153964794,2.0
+google_gemini-3-flash-preview,"Rajshahi, Rangpur, northwestern plains",10,2.5,1.1785113019775793,2.5
+mistralai_mistral-large-2512,Bangladesh-Scoped,10,1.8,0.6324555320336759,2.0
+mistralai_mistral-large-2512,Chittagong Hill Tracts,30,2.033333333333333,0.5560534167675356,2.0
+mistralai_mistral-large-2512,"Mymensingh, Sherpur",10,2.6,0.5163977794943223,3.0
+mistralai_mistral-large-2512,Mymensingh,10,2.3,0.48304589153964794,2.0
+mistralai_mistral-large-2512,Sylhet (border areas),20,2.25,0.5501196042201808,2.0
+mistralai_mistral-large-2512,Bandarban,10,2.4,0.5163977794943223,2.0
+mistralai_mistral-large-2512,North Bengal,10,2.1,0.31622776601683794,2.0
+mistralai_mistral-large-2512,"Cox's Bazar, coastal areas",10,2.3,0.6749485577105528,2.0
+mistralai_mistral-large-2512,"Rajshahi, Rangpur, northwestern plains",10,2.3,0.48304589153964794,2.0
+openai_gpt-5-mini,Bangladesh-Scoped,10,2.3,0.6749485577105528,2.0
+openai_gpt-5-mini,Chittagong Hill Tracts,30,2.2666666666666666,0.5208304597621879,2.0
+openai_gpt-5-mini,"Mymensingh, Sherpur",10,2.1,0.5676462121975466,2.0
+openai_gpt-5-mini,Mymensingh,10,2.7,0.48304589153964794,3.0
+openai_gpt-5-mini,Sylhet (border areas),20,2.3,0.6569466853317862,2.0
+openai_gpt-5-mini,Bandarban,10,2.4,0.5163977794943223,2.0
+openai_gpt-5-mini,North Bengal,10,2.6,0.5163977794943223,3.0
+openai_gpt-5-mini,"Cox's Bazar, coastal areas",10,2.8,0.4216370213557839,3.0
+openai_gpt-5-mini,"Rajshahi, Rangpur, northwestern plains",10,2.2,0.6324555320336759,2.0
+openai_gpt-5.1,Bangladesh-Scoped,10,2.8,0.6324555320336759,3.0
+openai_gpt-5.1,Chittagong Hill Tracts,30,3.2,0.7143842296595069,3.0
+openai_gpt-5.1,"Mymensingh, Sherpur",10,3.1,0.7378647873726218,3.0
+openai_gpt-5.1,Mymensingh,10,3.2,0.6324555320336759,3.0
+openai_gpt-5.1,Sylhet (border areas),20,3.05,0.6048053188292994,3.0
+openai_gpt-5.1,Bandarban,10,2.9,0.5676462121975466,3.0
+openai_gpt-5.1,North Bengal,10,3.1,0.7378647873726218,3.0
+openai_gpt-5.1,"Cox's Bazar, coastal areas",10,3.2,0.4216370213557839,3.0
+openai_gpt-5.1,"Rajshahi, Rangpur, northwestern plains",10,3.6,0.5163977794943223,4.0
+qwen_qwen3-8b,Bangladesh-Scoped,10,1.6,0.8432740427115678,1.0
+qwen_qwen3-8b,Chittagong Hill Tracts,30,2.2,0.7143842296595069,2.0
+qwen_qwen3-8b,"Mymensingh, Sherpur",10,1.9,0.5676462121975467,2.0
+qwen_qwen3-8b,Mymensingh,10,2.3,0.48304589153964794,2.0
+qwen_qwen3-8b,Sylhet (border areas),20,2.35,0.6708203932499369,2.0
+qwen_qwen3-8b,Bandarban,10,2.8,0.4216370213557839,3.0
+qwen_qwen3-8b,North Bengal,9,1.8888888888888888,0.927960727138337,2.0
+qwen_qwen3-8b,"Cox's Bazar, coastal areas",10,1.6,0.8432740427115678,1.0
+qwen_qwen3-8b,"Rajshahi, Rangpur, northwestern plains",10,2.2,0.6324555320336759,2.0

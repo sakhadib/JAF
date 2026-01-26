@@ -1,0 +1,46 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Change and Continuity,Community Crisis,0.0667,1.0,-0.3454,0.4787,False
+Change and Continuity,Everyday Life Narrative,0.1667,0.9569,-0.2454,0.5787,False
+Change and Continuity,Human–Nature Relationship,0.1,0.9989,-0.3121,0.5121,False
+Change and Continuity,Moral Transgression and Consequence,0.0167,1.0,-0.3954,0.4287,False
+Change and Continuity,Origin Story,0.1514,0.9776,-0.2624,0.5652,False
+Change and Continuity,Rite of Passage,0.0667,1.0,-0.3454,0.4787,False
+Change and Continuity,Sacred or Forbidden Space,-0.05,1.0,-0.4621,0.3621,False
+Change and Continuity,Trickster or Clever Figure,0.0167,1.0,-0.3954,0.4287,False
+Change and Continuity,Wisdom of an Elder,0.0333,1.0,-0.3787,0.4454,False
+Community Crisis,Everyday Life Narrative,0.1,0.9989,-0.3121,0.5121,False
+Community Crisis,Human–Nature Relationship,0.0333,1.0,-0.3787,0.4454,False
+Community Crisis,Moral Transgression and Consequence,-0.05,1.0,-0.4621,0.3621,False
+Community Crisis,Origin Story,0.0847,0.9997,-0.3291,0.4986,False
+Community Crisis,Rite of Passage,0.0,1.0,-0.4121,0.4121,False
+Community Crisis,Sacred or Forbidden Space,-0.1167,0.9965,-0.5287,0.2954,False
+Community Crisis,Trickster or Clever Figure,-0.05,1.0,-0.4621,0.3621,False
+Community Crisis,Wisdom of an Elder,-0.0333,1.0,-0.4454,0.3787,False
+Everyday Life Narrative,Human–Nature Relationship,-0.0667,1.0,-0.4787,0.3454,False
+Everyday Life Narrative,Moral Transgression and Consequence,-0.15,0.9784,-0.5621,0.2621,False
+Everyday Life Narrative,Origin Story,-0.0153,1.0,-0.4291,0.3986,False
+Everyday Life Narrative,Rite of Passage,-0.1,0.9989,-0.5121,0.3121,False
+Everyday Life Narrative,Sacred or Forbidden Space,-0.2167,0.812,-0.6287,0.1954,False
+Everyday Life Narrative,Trickster or Clever Figure,-0.15,0.9784,-0.5621,0.2621,False
+Everyday Life Narrative,Wisdom of an Elder,-0.1333,0.9905,-0.5454,0.2787,False
+Human–Nature Relationship,Moral Transgression and Consequence,-0.0833,0.9998,-0.4954,0.3287,False
+Human–Nature Relationship,Origin Story,0.0514,1.0,-0.3624,0.4652,False
+Human–Nature Relationship,Rite of Passage,-0.0333,1.0,-0.4454,0.3787,False
+Human–Nature Relationship,Sacred or Forbidden Space,-0.15,0.9784,-0.5621,0.2621,False
+Human–Nature Relationship,Trickster or Clever Figure,-0.0833,0.9998,-0.4954,0.3287,False
+Human–Nature Relationship,Wisdom of an Elder,-0.0667,1.0,-0.4787,0.3454,False
+Moral Transgression and Consequence,Origin Story,0.1347,0.9901,-0.2791,0.5486,False
+Moral Transgression and Consequence,Rite of Passage,0.05,1.0,-0.3621,0.4621,False
+Moral Transgression and Consequence,Sacred or Forbidden Space,-0.0667,1.0,-0.4787,0.3454,False
+Moral Transgression and Consequence,Trickster or Clever Figure,0.0,1.0,-0.4121,0.4121,False
+Moral Transgression and Consequence,Wisdom of an Elder,0.0167,1.0,-0.3954,0.4287,False
+Origin Story,Rite of Passage,-0.0847,0.9997,-0.4986,0.3291,False
+Origin Story,Sacred or Forbidden Space,-0.2014,0.873,-0.6152,0.2124,False
+Origin Story,Trickster or Clever Figure,-0.1347,0.9901,-0.5486,0.2791,False
+Origin Story,Wisdom of an Elder,-0.1181,0.9963,-0.5319,0.2957,False
+Rite of Passage,Sacred or Forbidden Space,-0.1167,0.9965,-0.5287,0.2954,False
+Rite of Passage,Trickster or Clever Figure,-0.05,1.0,-0.4621,0.3621,False
+Rite of Passage,Wisdom of an Elder,-0.0333,1.0,-0.4454,0.3787,False
+Sacred or Forbidden Space,Trickster or Clever Figure,0.0667,1.0,-0.3454,0.4787,False
+Sacred or Forbidden Space,Wisdom of an Elder,0.0833,0.9998,-0.3287,0.4954,False
+Trickster or Clever Figure,Wisdom of an Elder,0.0167,1.0,-0.3954,0.4287,False

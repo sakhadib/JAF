@@ -1,0 +1,2 @@
+test,f_statistic,p_value,p_value_formatted,significance,eta_squared,effect_size_interpretation,degrees_of_freedom_between,degrees_of_freedom_within,n_groups,n_total
+One-way ANOVA,38.5888,9.971359864290951e-29,9.97e-29,Highly significant (p < 0.001),0.2063,Large,4,594,5,599

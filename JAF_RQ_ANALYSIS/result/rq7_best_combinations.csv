@@ -1,0 +1,11 @@
+model,culture,story_type,n,mean
+qwen_qwen3-8b,Marma,Human–Nature Relationship,1,0.6363253328144561
+openai_gpt-5-mini,Rakhine,Human–Nature Relationship,1,0.6101641206003925
+openai_gpt-5-mini,Marma,Human–Nature Relationship,1,0.5921170308953755
+openai_gpt-5-mini,Oraon (Kurukh),Human–Nature Relationship,1,0.5852421101247524
+qwen_qwen3-8b,Mro,Trickster or Clever Figure,1,0.5812399812357432
+qwen_qwen3-8b,Bengali,Trickster or Clever Figure,1,0.5702821289029075
+qwen_qwen3-8b,Mro,Human–Nature Relationship,1,0.5699056546582576
+mistralai_mistral-large-2512,Rakhine,Trickster or Clever Figure,1,0.5660925482884084
+qwen_qwen3-8b,Manipuri (Meitei),Human–Nature Relationship,1,0.562150702970074
+qwen_qwen3-8b,Chakma,Trickster or Clever Figure,1,0.5552423930376267

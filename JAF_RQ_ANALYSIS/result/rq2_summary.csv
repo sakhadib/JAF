@@ -1,0 +1,2 @@
+research_question,question,n_total,n_bengali,n_indigenous,n_cultures,bengali_overall_mean,indigenous_overall_mean,significant_differences_count,total_metrics_tested,overall_bias_finding,best_culture,best_culture_mean,worst_culture,worst_culture_mean,performance_gap
+RQ2,Is there performance disparity between Bengali and indigenous cultures?,599,50,549,12,2.08,2.005,0,4,No significant bias detected,Hajong,2.145,Chakma,1.9,0.245

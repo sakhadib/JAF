@@ -1,0 +1,2 @@
+research_question,question,metric_analyzed,n_total,n_models,best_model,best_model_mean,worst_model,worst_model_mean,anova_f_statistic,anova_p_value,anova_significant,effect_size_eta_squared,effect_size_interpretation
+RQ1,Which LLM yields the highest human-rated cultural authenticity?,Cultural Accuracy & Authenticity,599,5,openai_gpt-5.1,3.1333,qwen_qwen3-8b,2.1345,38.5888,9.971359864290951e-29,True,0.2063,Large

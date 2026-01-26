@@ -1,0 +1,5 @@
+metric,f_statistic,p_value,eta_squared,significant
+Cultural Accuracy & Authenticity,0.8572571726981156,0.5525627193700247,0.011490265225992283,False
+Contextual & Temporal Appropriateness,0.5884252432798872,0.7878145329045223,0.007915492443567467,False
+Narrative & Symbolic Coherence,0.5966209665496011,0.7810307028022005,0.008024856527346903,False
+Linguistic & Expressive Appropriateness (Bangla),2.463910728481615,0.012459708645263315,0.032328884647574434,True

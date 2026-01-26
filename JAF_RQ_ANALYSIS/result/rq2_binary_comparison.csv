@@ -1,0 +1,5 @@
+metric,bengali_n,bengali_mean,bengali_std,indigenous_n,indigenous_mean,indigenous_std,mean_difference,t_statistic,p_value,p_value_formatted,significance,cohens_d,effect_size,bias_direction
+Cultural Accuracy & Authenticity,50,2.42,1.1445,549,2.4517,0.7472,-0.0317,-0.2728,0.7851075726680415,0.7851,ns,-0.0403,Negligible,Favors Indigenous
+Contextual & Temporal Appropriateness,50,2.3,1.0738,549,2.1548,0.7592,0.1452,1.2444,0.21383940807434368,0.2138,ns,0.1838,Negligible,Favors Bengali
+Narrative & Symbolic Coherence,50,2.04,1.049,549,1.9854,0.6698,0.0546,0.5213,0.6023441217028818,0.6023,ns,0.077,Negligible,Favors Bengali
+Linguistic & Expressive Appropriateness (Bangla),50,1.56,1.0721,549,1.4281,0.7229,0.1319,1.1789,0.238908433243808,0.2389,ns,0.1741,Negligible,Favors Bengali

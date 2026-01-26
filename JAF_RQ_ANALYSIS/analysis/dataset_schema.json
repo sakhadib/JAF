@@ -1,0 +1,1784 @@
+{
+  "dataset_description": {
+    "title": "Bangladeshi Folklore Story Generation & Evaluation Dataset",
+    "description": "This dataset contains AI-generated folklore stories from various Bangladeshi cultural groups, along with human evaluations and text embeddings for semantic analysis.",
+    "domain": "Cultural AI / NLP / Folklore Generation",
+    "language": "Bengali (Bangla)",
+    "generated_at": "2026-01-26T15:04:44.764931"
+  },
+  "data_files": {
+    "evaluation_data": {
+      "file_name": "evaluated_stories.csv",
+      "row_count": 599,
+      "column_count": 8,
+      "memory_usage_mb": 4.01,
+      "columns": [
+        {
+          "name": "story_id",
+          "dtype": "int64",
+          "total_count": 599,
+          "non_null_count": 599,
+          "null_count": 0,
+          "null_percentage": 0.0,
+          "unique_count": 599,
+          "column_type": "continuous_numeric",
+          "statistics": {
+            "min": 1.0,
+            "max": 599.0,
+            "mean": 300.0,
+            "std": 173.0607,
+            "median": 300.0
+          }
+        },
+        {
+          "name": "culture",
+          "dtype": "object",
+          "total_count": 599,
+          "non_null_count": 599,
+          "null_count": 0,
+          "null_percentage": 0.0,
+          "unique_count": 12,
+          "column_type": "categorical_string",
+          "value_distribution": {
+            "Bengali": 50,
+            "Chakma": 50,
+            "Garo (Mandi)": 50,
+            "Hajong": 50,
+            "Khasi": 50,
+            "Manipuri (Meitei)": 50,
+            "Marma": 50,
+            "Mro": 50,
+            "Rakhine": 50,
+            "Santal": 50,
+            "Tripura": 50,
+            "Oraon (Kurukh)": 49
+          }
+        },
+        {
+          "name": "model",
+          "dtype": "object",
+          "total_count": 599,
+          "non_null_count": 599,
+          "null_count": 0,
+          "null_percentage": 0.0,
+          "unique_count": 5,
+          "column_type": "categorical_string",
+          "value_distribution": {
+            "google_gemini-3-flash-preview": 120,
+            "mistralai_mistral-large-2512": 120,
+            "openai_gpt-5-mini": 120,
+            "openai_gpt-5.1": 120,
+            "qwen_qwen3-8b": 119
+          }
+        },
+        {
+          "name": "story",
+          "dtype": "object",
+          "total_count": 599,
+          "non_null_count": 599,
+          "null_count": 0,
+          "null_percentage": 0.0,
+          "unique_count": 599,
+          "column_type": "text",
+          "string_stats": {
+            "min_length": 641,
+            "max_length": 6661,
+            "avg_length": 3389.9
+          },
+          "sample_values": [
+            "আয়রে সোনামণিরা, উনুনের ধারে ঘেঁষে বোস। উত্তুরে হাওয়া বইতে শুরু করেছে, মাঠের ধান কাটা শেষ। আজ তোদের...",
+            "শুনুন তবে, হে সুধীজন, আজ আপনাদের শোনাব সেই আদি কালের কথা—যখন এই বাংলায় মানুষের বসতি ছিল না, ছিল কেব..."
+          ]
+        },
+        {
+          "name": "Cultural Accuracy & Authenticity",
+          "dtype": "int64",
+          "total_count": 599,
+          "non_null_count": 599,
+          "null_count": 0,
+          "null_percentage": 0.0,
+          "unique_count": 6,
+          "column_type": "categorical_numeric",
+          "statistics": {
+            "min": 0.0,
+            "max": 5.0,
+            "mean": 2.4491,
+            "std": 0.7868,
+            "median": 2.0
+          },
+          "value_distribution": {
+            "2": 277,
+            "3": 225,
+            "1": 49,
+            "4": 41,
+            "5": 5,
+            "0": 2
+          }
+        },
+        {
+          "name": "Contextual & Temporal Appropriateness",
+          "dtype": "int64",
+          "total_count": 599,
+          "non_null_count": 599,
+          "null_count": 0,
+          "null_percentage": 0.0,
+          "unique_count": 6,
+          "column_type": "categorical_numeric",
+          "statistics": {
+            "min": 0.0,
+            "max": 5.0,
+            "mean": 2.1669,
+            "std": 0.7901,
+            "median": 2.0
+          },
+          "value_distribution": {
+            "2": 303,
+            "3": 159,
+            "1": 109,
+            "4": 24,
+            "5": 2,
+            "0": 2
+          }
+        },
+        {
+          "name": "Narrative & Symbolic Coherence",
+          "dtype": "int64",
+          "total_count": 599,
+          "non_null_count": 599,
+          "null_count": 0,
+          "null_percentage": 0.0,
+          "unique_count": 6,
+          "column_type": "categorical_numeric",
+          "statistics": {
+            "min": 0.0,
+            "max": 5.0,
+            "mean": 1.99,
+            "std": 0.7082,
+            "median": 2.0
+          },
+          "value_distribution": {
+            "2": 330,
+            "1": 140,
+            "3": 122,
+            "4": 4,
+            "5": 2,
+            "0": 1
+          }
+        },
+        {
+          "name": "Linguistic & Expressive Appropriateness (Bangla)",
+          "dtype": "int64",
+          "total_count": 599,
+          "non_null_count": 599,
+          "null_count": 0,
+          "null_percentage": 0.0,
+          "unique_count": 6,
+          "column_type": "categorical_numeric",
+          "statistics": {
+            "min": 0.0,
+            "max": 5.0,
+            "mean": 1.4391,
+            "std": 0.7579,
+            "median": 1.0
+          },
+          "value_distribution": {
+            "1": 313,
+            "2": 200,
+            "3": 45,
+            "0": 38,
+            "5": 2,
+            "4": 1
+          }
+        }
+      ]
+    },
+    "embedding_files": [
+      {
+        "file_name": "google_gemini-embedding-001.parquet",
+        "row_count": 599,
+        "column_count": 15,
+        "memory_usage_mb": 5.43,
+        "columns": [
+          {
+            "name": "model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 5,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "openai_gpt-5-mini": 120,
+              "mistralai_mistral-large-2512": 120,
+              "openai_gpt-5.1": 120,
+              "google_gemini-3-flash-preview": 120,
+              "qwen_qwen3-8b": 119
+            }
+          },
+          {
+            "name": "prompt_id",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 4,
+              "max_length": 4,
+              "avg_length": 4.0
+            },
+            "sample_values": [
+              "P110",
+              "P035"
+            ]
+          },
+          {
+            "name": "completion_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 503,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 4,
+              "avg_length": 3.9
+            },
+            "sample_values": [
+              "2308",
+              "2672"
+            ]
+          },
+          {
+            "name": "culture",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 12,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Hajong": 50,
+              "Santal": 50,
+              "Tripura": 50,
+              "Manipuri (Meitei)": 50,
+              "Khasi": 50,
+              "Marma": 50,
+              "Rakhine": 50,
+              "Mro": 50,
+              "Bengali": 50,
+              "Garo (Mandi)": 50,
+              "Chakma": 50,
+              "Oraon (Kurukh)": 49
+            }
+          },
+          {
+            "name": "prompt",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 646,
+              "max_length": 729,
+              "avg_length": 680.4
+            },
+            "sample_values": [
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Hajong সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল...",
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Santal সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল..."
+            ]
+          },
+          {
+            "name": "prompt_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 131,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 3,
+              "avg_length": 3.0
+            },
+            "sample_values": [
+              "223",
+              "244"
+            ]
+          },
+          {
+            "name": "region",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 9,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Chittagong Hill Tracts": 150,
+              "Sylhet (border areas)": 100,
+              "Mymensingh": 50,
+              "Rajshahi, Rangpur, northwestern plains": 50,
+              "Cox's Bazar, coastal areas": 50,
+              "Mymensingh, Sherpur": 50,
+              "Bandarban": 50,
+              "Bangladesh-Scoped": 50,
+              "North Bengal": 49
+            }
+          },
+          {
+            "name": "scenario",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "এই গল্পে দেখান কীভাবে সময়ের সঙ্গে কিছু পরিবর্তন আসে, কিন্তু কিছু বিশ্বাস, রীতি বা মূল্যবোধ টিকে থাকে।": 60,
+              "এই গল্পে পুরো সমাজ একটি সংকটের মুখে পড়ে (খরা, রোগ, অভাব, দ্বন্দ্ব, প্রাকৃতিক বিপর্যয় ইত্যাদি) এবং তারা কীভাবে সম্মিলিতভাবে তা মোকাবিলা করে।": 60,
+              "এই গল্পে একজন চালাক মানুষ বা প্রাণী তার বুদ্ধি ও কৌশলের মাধ্যমে শক্তিশালী কাউকে পরাস্ত করে বা সমস্যার সমাধান করে।": 60,
+              "এই গল্পে এমন একটি স্থান (বন, পাহাড়, নদী, গাছ, ঘর বা ভূমি) তুলে ধরুন যা পবিত্র বা নিষিদ্ধ হিসেবে বিবেচিত, এবং সেই স্থানের সঙ্গে মানুষের সম্পর্ক কীভাবে গড়ে ওঠে।": 60,
+              "এই গল্পে সাধারণ মানুষের দৈনন্দিন জীবনের একটি ঘটনা তুলে ধরুন—খাদ্য, কাজ, পরিবার, উৎসব বা ঋতুচক্রের প্রেক্ষাপটে।": 60,
+              "এই গল্পে কোনো প্রবীণ ব্যক্তি তার অভিজ্ঞতা, উপদেশ বা ভবিষ্যদ্বাণীর মাধ্যমে সমাজ বা একজন তরুণকে পথ দেখায়।": 60,
+              "এই গল্পে একজন মানুষ বা একাধিক ব্যক্তি সামাজিক, নৈতিক বা আধ্যাত্মিক নিয়ম ভঙ্গ করে এবং তার পরিণতি কীভাবে তাদের জীবনে প্রভাব ফেলে তা দেখান।": 60,
+              "এই গল্পে মানুষ ও প্রকৃতির (নদী, পাহাড়, বন, পশু, জমি ইত্যাদি) মধ্যকার সম্পর্ক তুলে ধরুন—যেখানে প্রকৃতি কখনো সহায়ক, কখনো ভয়ংকর, আবার কখনো পবিত্র।": 60,
+              "এই গল্পে জীবনের একটি গুরুত্বপূর্ণ ধাপ—যেমন প্রাপ্তবয়স্ক হওয়া, বিবাহ, নেতৃত্ব গ্রহণ বা আধ্যাত্মিক দীক্ষা—কীভাবে পালিত হয় তা তুলে ধরুন।": 60,
+              "এই গল্পে বর্ণনা করুন কীভাবে মানুষ, গ্রাম, সমাজ বা কোনো গুরুত্বপূর্ণ প্রাকৃতিক উপাদানের উৎপত্তি ঘটেছে—যেখানে বিশ্বাস, কিংবদন্তি বা প্রাচীন স্মৃতি গুরুত্বপূর্ণ ভূমিকা রাখে।": 59
+            }
+          },
+          {
+            "name": "story",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 641,
+              "max_length": 6661,
+              "avg_length": 3389.9
+            },
+            "sample_values": [
+              "শোনো, শোনো—আমি লোককথা-কথক। আজ তোমাদের বলব আমাদের পাহাড়তীর সেই ছোট্ট হাজং গ্রামের কথা, যেখানে কালের ...",
+              "শোনো, কহে লোকরা, আমাদের পাহাড়-ও-মাঠের সেই গ্রামের কথা—সেখানে সবাই সantal সম্প্রদায়ের। এক বছর খরা এ..."
+            ]
+          },
+          {
+            "name": "story_type",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Change and Continuity": 60,
+              "Community Crisis": 60,
+              "Trickster or Clever Figure": 60,
+              "Sacred or Forbidden Space": 60,
+              "Everyday Life Narrative": 60,
+              "Wisdom of an Elder": 60,
+              "Moral Transgression and Consequence": 60,
+              "Human–Nature Relationship": 60,
+              "Rite of Passage": 60,
+              "Origin Story": 59
+            }
+          },
+          {
+            "name": "embedding_model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 1,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "google/gemini-embedding-001": 599
+            }
+          },
+          {
+            "name": "scenario_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 3072,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.164976,
+              "max": 0.195647,
+              "mean": -0.000161
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "story_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 3072,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.182427,
+              "max": 0.216596,
+              "mean": -0.00038
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "processed_at",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 589,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 26,
+              "max_length": 26,
+              "avg_length": 26.0
+            },
+            "sample_values": [
+              "2026-01-16T00:06:20.959634",
+              "2026-01-16T00:06:13.126651"
+            ]
+          },
+          {
+            "name": "hash",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 32,
+              "max_length": 32,
+              "avg_length": 32.0
+            },
+            "sample_values": [
+              "000d023ac22938b24f26163b12b39801",
+              "013ba45e949dc41f69f4bb6e7a60c89a"
+            ]
+          }
+        ],
+        "embedding_model": "google/gemini-embedding-001",
+        "vector_dimensions": 3072
+      },
+      {
+        "file_name": "mistralai_mistral-embed-2312.parquet",
+        "row_count": 599,
+        "column_count": 15,
+        "memory_usage_mb": 5.43,
+        "columns": [
+          {
+            "name": "model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 5,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "openai_gpt-5-mini": 120,
+              "mistralai_mistral-large-2512": 120,
+              "openai_gpt-5.1": 120,
+              "google_gemini-3-flash-preview": 120,
+              "qwen_qwen3-8b": 119
+            }
+          },
+          {
+            "name": "prompt_id",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 4,
+              "max_length": 4,
+              "avg_length": 4.0
+            },
+            "sample_values": [
+              "P110",
+              "P035"
+            ]
+          },
+          {
+            "name": "completion_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 503,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 4,
+              "avg_length": 3.9
+            },
+            "sample_values": [
+              "2308",
+              "2672"
+            ]
+          },
+          {
+            "name": "culture",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 12,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Hajong": 50,
+              "Santal": 50,
+              "Tripura": 50,
+              "Manipuri (Meitei)": 50,
+              "Khasi": 50,
+              "Marma": 50,
+              "Rakhine": 50,
+              "Mro": 50,
+              "Bengali": 50,
+              "Garo (Mandi)": 50,
+              "Chakma": 50,
+              "Oraon (Kurukh)": 49
+            }
+          },
+          {
+            "name": "prompt",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 646,
+              "max_length": 729,
+              "avg_length": 680.4
+            },
+            "sample_values": [
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Hajong সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল...",
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Santal সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল..."
+            ]
+          },
+          {
+            "name": "prompt_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 131,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 3,
+              "avg_length": 3.0
+            },
+            "sample_values": [
+              "223",
+              "244"
+            ]
+          },
+          {
+            "name": "region",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 9,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Chittagong Hill Tracts": 150,
+              "Sylhet (border areas)": 100,
+              "Mymensingh": 50,
+              "Rajshahi, Rangpur, northwestern plains": 50,
+              "Cox's Bazar, coastal areas": 50,
+              "Mymensingh, Sherpur": 50,
+              "Bandarban": 50,
+              "Bangladesh-Scoped": 50,
+              "North Bengal": 49
+            }
+          },
+          {
+            "name": "scenario",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "এই গল্পে দেখান কীভাবে সময়ের সঙ্গে কিছু পরিবর্তন আসে, কিন্তু কিছু বিশ্বাস, রীতি বা মূল্যবোধ টিকে থাকে।": 60,
+              "এই গল্পে পুরো সমাজ একটি সংকটের মুখে পড়ে (খরা, রোগ, অভাব, দ্বন্দ্ব, প্রাকৃতিক বিপর্যয় ইত্যাদি) এবং তারা কীভাবে সম্মিলিতভাবে তা মোকাবিলা করে।": 60,
+              "এই গল্পে একজন চালাক মানুষ বা প্রাণী তার বুদ্ধি ও কৌশলের মাধ্যমে শক্তিশালী কাউকে পরাস্ত করে বা সমস্যার সমাধান করে।": 60,
+              "এই গল্পে এমন একটি স্থান (বন, পাহাড়, নদী, গাছ, ঘর বা ভূমি) তুলে ধরুন যা পবিত্র বা নিষিদ্ধ হিসেবে বিবেচিত, এবং সেই স্থানের সঙ্গে মানুষের সম্পর্ক কীভাবে গড়ে ওঠে।": 60,
+              "এই গল্পে সাধারণ মানুষের দৈনন্দিন জীবনের একটি ঘটনা তুলে ধরুন—খাদ্য, কাজ, পরিবার, উৎসব বা ঋতুচক্রের প্রেক্ষাপটে।": 60,
+              "এই গল্পে কোনো প্রবীণ ব্যক্তি তার অভিজ্ঞতা, উপদেশ বা ভবিষ্যদ্বাণীর মাধ্যমে সমাজ বা একজন তরুণকে পথ দেখায়।": 60,
+              "এই গল্পে একজন মানুষ বা একাধিক ব্যক্তি সামাজিক, নৈতিক বা আধ্যাত্মিক নিয়ম ভঙ্গ করে এবং তার পরিণতি কীভাবে তাদের জীবনে প্রভাব ফেলে তা দেখান।": 60,
+              "এই গল্পে মানুষ ও প্রকৃতির (নদী, পাহাড়, বন, পশু, জমি ইত্যাদি) মধ্যকার সম্পর্ক তুলে ধরুন—যেখানে প্রকৃতি কখনো সহায়ক, কখনো ভয়ংকর, আবার কখনো পবিত্র।": 60,
+              "এই গল্পে জীবনের একটি গুরুত্বপূর্ণ ধাপ—যেমন প্রাপ্তবয়স্ক হওয়া, বিবাহ, নেতৃত্ব গ্রহণ বা আধ্যাত্মিক দীক্ষা—কীভাবে পালিত হয় তা তুলে ধরুন।": 60,
+              "এই গল্পে বর্ণনা করুন কীভাবে মানুষ, গ্রাম, সমাজ বা কোনো গুরুত্বপূর্ণ প্রাকৃতিক উপাদানের উৎপত্তি ঘটেছে—যেখানে বিশ্বাস, কিংবদন্তি বা প্রাচীন স্মৃতি গুরুত্বপূর্ণ ভূমিকা রাখে।": 59
+            }
+          },
+          {
+            "name": "story",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 641,
+              "max_length": 6661,
+              "avg_length": 3389.9
+            },
+            "sample_values": [
+              "শোনো, শোনো—আমি লোককথা-কথক। আজ তোমাদের বলব আমাদের পাহাড়তীর সেই ছোট্ট হাজং গ্রামের কথা, যেখানে কালের ...",
+              "শোনো, কহে লোকরা, আমাদের পাহাড়-ও-মাঠের সেই গ্রামের কথা—সেখানে সবাই সantal সম্প্রদায়ের। এক বছর খরা এ..."
+            ]
+          },
+          {
+            "name": "story_type",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Change and Continuity": 60,
+              "Community Crisis": 60,
+              "Trickster or Clever Figure": 60,
+              "Sacred or Forbidden Space": 60,
+              "Everyday Life Narrative": 60,
+              "Wisdom of an Elder": 60,
+              "Moral Transgression and Consequence": 60,
+              "Human–Nature Relationship": 60,
+              "Rite of Passage": 60,
+              "Origin Story": 59
+            }
+          },
+          {
+            "name": "embedding_model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 1,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "mistralai/mistral-embed-2312": 599
+            }
+          },
+          {
+            "name": "scenario_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 1024,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.096619,
+              "max": 0.100647,
+              "mean": 0.000252
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "story_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 1024,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.105286,
+              "max": 0.105774,
+              "mean": -0.000459
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "processed_at",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 590,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 26,
+              "max_length": 26,
+              "avg_length": 26.0
+            },
+            "sample_values": [
+              "2026-01-16T00:11:28.335601",
+              "2026-01-16T00:11:10.202338"
+            ]
+          },
+          {
+            "name": "hash",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 32,
+              "max_length": 32,
+              "avg_length": 32.0
+            },
+            "sample_values": [
+              "000d023ac22938b24f26163b12b39801",
+              "013ba45e949dc41f69f4bb6e7a60c89a"
+            ]
+          }
+        ],
+        "embedding_model": "mistralai/mistral-embed-2312",
+        "vector_dimensions": 1024
+      },
+      {
+        "file_name": "openai_text-embedding-3-large.parquet",
+        "row_count": 599,
+        "column_count": 15,
+        "memory_usage_mb": 5.43,
+        "columns": [
+          {
+            "name": "model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 5,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "openai_gpt-5-mini": 120,
+              "mistralai_mistral-large-2512": 120,
+              "openai_gpt-5.1": 120,
+              "google_gemini-3-flash-preview": 120,
+              "qwen_qwen3-8b": 119
+            }
+          },
+          {
+            "name": "prompt_id",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 4,
+              "max_length": 4,
+              "avg_length": 4.0
+            },
+            "sample_values": [
+              "P110",
+              "P035"
+            ]
+          },
+          {
+            "name": "completion_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 503,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 4,
+              "avg_length": 3.9
+            },
+            "sample_values": [
+              "2308",
+              "2672"
+            ]
+          },
+          {
+            "name": "culture",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 12,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Hajong": 50,
+              "Santal": 50,
+              "Tripura": 50,
+              "Manipuri (Meitei)": 50,
+              "Khasi": 50,
+              "Marma": 50,
+              "Rakhine": 50,
+              "Mro": 50,
+              "Bengali": 50,
+              "Garo (Mandi)": 50,
+              "Chakma": 50,
+              "Oraon (Kurukh)": 49
+            }
+          },
+          {
+            "name": "prompt",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 646,
+              "max_length": 729,
+              "avg_length": 680.4
+            },
+            "sample_values": [
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Hajong সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল...",
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Santal সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল..."
+            ]
+          },
+          {
+            "name": "prompt_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 131,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 3,
+              "avg_length": 3.0
+            },
+            "sample_values": [
+              "223",
+              "244"
+            ]
+          },
+          {
+            "name": "region",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 9,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Chittagong Hill Tracts": 150,
+              "Sylhet (border areas)": 100,
+              "Mymensingh": 50,
+              "Rajshahi, Rangpur, northwestern plains": 50,
+              "Cox's Bazar, coastal areas": 50,
+              "Mymensingh, Sherpur": 50,
+              "Bandarban": 50,
+              "Bangladesh-Scoped": 50,
+              "North Bengal": 49
+            }
+          },
+          {
+            "name": "scenario",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "এই গল্পে দেখান কীভাবে সময়ের সঙ্গে কিছু পরিবর্তন আসে, কিন্তু কিছু বিশ্বাস, রীতি বা মূল্যবোধ টিকে থাকে।": 60,
+              "এই গল্পে পুরো সমাজ একটি সংকটের মুখে পড়ে (খরা, রোগ, অভাব, দ্বন্দ্ব, প্রাকৃতিক বিপর্যয় ইত্যাদি) এবং তারা কীভাবে সম্মিলিতভাবে তা মোকাবিলা করে।": 60,
+              "এই গল্পে একজন চালাক মানুষ বা প্রাণী তার বুদ্ধি ও কৌশলের মাধ্যমে শক্তিশালী কাউকে পরাস্ত করে বা সমস্যার সমাধান করে।": 60,
+              "এই গল্পে এমন একটি স্থান (বন, পাহাড়, নদী, গাছ, ঘর বা ভূমি) তুলে ধরুন যা পবিত্র বা নিষিদ্ধ হিসেবে বিবেচিত, এবং সেই স্থানের সঙ্গে মানুষের সম্পর্ক কীভাবে গড়ে ওঠে।": 60,
+              "এই গল্পে সাধারণ মানুষের দৈনন্দিন জীবনের একটি ঘটনা তুলে ধরুন—খাদ্য, কাজ, পরিবার, উৎসব বা ঋতুচক্রের প্রেক্ষাপটে।": 60,
+              "এই গল্পে কোনো প্রবীণ ব্যক্তি তার অভিজ্ঞতা, উপদেশ বা ভবিষ্যদ্বাণীর মাধ্যমে সমাজ বা একজন তরুণকে পথ দেখায়।": 60,
+              "এই গল্পে একজন মানুষ বা একাধিক ব্যক্তি সামাজিক, নৈতিক বা আধ্যাত্মিক নিয়ম ভঙ্গ করে এবং তার পরিণতি কীভাবে তাদের জীবনে প্রভাব ফেলে তা দেখান।": 60,
+              "এই গল্পে মানুষ ও প্রকৃতির (নদী, পাহাড়, বন, পশু, জমি ইত্যাদি) মধ্যকার সম্পর্ক তুলে ধরুন—যেখানে প্রকৃতি কখনো সহায়ক, কখনো ভয়ংকর, আবার কখনো পবিত্র।": 60,
+              "এই গল্পে জীবনের একটি গুরুত্বপূর্ণ ধাপ—যেমন প্রাপ্তবয়স্ক হওয়া, বিবাহ, নেতৃত্ব গ্রহণ বা আধ্যাত্মিক দীক্ষা—কীভাবে পালিত হয় তা তুলে ধরুন।": 60,
+              "এই গল্পে বর্ণনা করুন কীভাবে মানুষ, গ্রাম, সমাজ বা কোনো গুরুত্বপূর্ণ প্রাকৃতিক উপাদানের উৎপত্তি ঘটেছে—যেখানে বিশ্বাস, কিংবদন্তি বা প্রাচীন স্মৃতি গুরুত্বপূর্ণ ভূমিকা রাখে।": 59
+            }
+          },
+          {
+            "name": "story",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 641,
+              "max_length": 6661,
+              "avg_length": 3389.9
+            },
+            "sample_values": [
+              "শোনো, শোনো—আমি লোককথা-কথক। আজ তোমাদের বলব আমাদের পাহাড়তীর সেই ছোট্ট হাজং গ্রামের কথা, যেখানে কালের ...",
+              "শোনো, কহে লোকরা, আমাদের পাহাড়-ও-মাঠের সেই গ্রামের কথা—সেখানে সবাই সantal সম্প্রদায়ের। এক বছর খরা এ..."
+            ]
+          },
+          {
+            "name": "story_type",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Change and Continuity": 60,
+              "Community Crisis": 60,
+              "Trickster or Clever Figure": 60,
+              "Sacred or Forbidden Space": 60,
+              "Everyday Life Narrative": 60,
+              "Wisdom of an Elder": 60,
+              "Moral Transgression and Consequence": 60,
+              "Human–Nature Relationship": 60,
+              "Rite of Passage": 60,
+              "Origin Story": 59
+            }
+          },
+          {
+            "name": "embedding_model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 1,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "openai/text-embedding-3-large": 599
+            }
+          },
+          {
+            "name": "scenario_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 3072,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.075063,
+              "max": 0.071677,
+              "mean": 0.000121
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "story_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 3072,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.078277,
+              "max": 0.08676,
+              "mean": 0.00032
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "processed_at",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 26,
+              "max_length": 26,
+              "avg_length": 26.0
+            },
+            "sample_values": [
+              "2026-01-16T00:10:59.827806",
+              "2026-01-16T00:10:49.760570"
+            ]
+          },
+          {
+            "name": "hash",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 32,
+              "max_length": 32,
+              "avg_length": 32.0
+            },
+            "sample_values": [
+              "000d023ac22938b24f26163b12b39801",
+              "013ba45e949dc41f69f4bb6e7a60c89a"
+            ]
+          }
+        ],
+        "embedding_model": "openai/text-embedding-3-large",
+        "vector_dimensions": 3072
+      },
+      {
+        "file_name": "openai_text-embedding-3-small.parquet",
+        "row_count": 599,
+        "column_count": 15,
+        "memory_usage_mb": 5.43,
+        "columns": [
+          {
+            "name": "model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 5,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "openai_gpt-5-mini": 120,
+              "mistralai_mistral-large-2512": 120,
+              "openai_gpt-5.1": 120,
+              "google_gemini-3-flash-preview": 120,
+              "qwen_qwen3-8b": 119
+            }
+          },
+          {
+            "name": "prompt_id",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 4,
+              "max_length": 4,
+              "avg_length": 4.0
+            },
+            "sample_values": [
+              "P110",
+              "P035"
+            ]
+          },
+          {
+            "name": "completion_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 503,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 4,
+              "avg_length": 3.9
+            },
+            "sample_values": [
+              "2308",
+              "2672"
+            ]
+          },
+          {
+            "name": "culture",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 12,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Hajong": 50,
+              "Santal": 50,
+              "Tripura": 50,
+              "Manipuri (Meitei)": 50,
+              "Khasi": 50,
+              "Marma": 50,
+              "Rakhine": 50,
+              "Mro": 50,
+              "Bengali": 50,
+              "Garo (Mandi)": 50,
+              "Chakma": 50,
+              "Oraon (Kurukh)": 49
+            }
+          },
+          {
+            "name": "prompt",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 646,
+              "max_length": 729,
+              "avg_length": 680.4
+            },
+            "sample_values": [
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Hajong সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল...",
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Santal সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল..."
+            ]
+          },
+          {
+            "name": "prompt_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 131,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 3,
+              "avg_length": 3.0
+            },
+            "sample_values": [
+              "223",
+              "244"
+            ]
+          },
+          {
+            "name": "region",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 9,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Chittagong Hill Tracts": 150,
+              "Sylhet (border areas)": 100,
+              "Mymensingh": 50,
+              "Rajshahi, Rangpur, northwestern plains": 50,
+              "Cox's Bazar, coastal areas": 50,
+              "Mymensingh, Sherpur": 50,
+              "Bandarban": 50,
+              "Bangladesh-Scoped": 50,
+              "North Bengal": 49
+            }
+          },
+          {
+            "name": "scenario",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "এই গল্পে দেখান কীভাবে সময়ের সঙ্গে কিছু পরিবর্তন আসে, কিন্তু কিছু বিশ্বাস, রীতি বা মূল্যবোধ টিকে থাকে।": 60,
+              "এই গল্পে পুরো সমাজ একটি সংকটের মুখে পড়ে (খরা, রোগ, অভাব, দ্বন্দ্ব, প্রাকৃতিক বিপর্যয় ইত্যাদি) এবং তারা কীভাবে সম্মিলিতভাবে তা মোকাবিলা করে।": 60,
+              "এই গল্পে একজন চালাক মানুষ বা প্রাণী তার বুদ্ধি ও কৌশলের মাধ্যমে শক্তিশালী কাউকে পরাস্ত করে বা সমস্যার সমাধান করে।": 60,
+              "এই গল্পে এমন একটি স্থান (বন, পাহাড়, নদী, গাছ, ঘর বা ভূমি) তুলে ধরুন যা পবিত্র বা নিষিদ্ধ হিসেবে বিবেচিত, এবং সেই স্থানের সঙ্গে মানুষের সম্পর্ক কীভাবে গড়ে ওঠে।": 60,
+              "এই গল্পে সাধারণ মানুষের দৈনন্দিন জীবনের একটি ঘটনা তুলে ধরুন—খাদ্য, কাজ, পরিবার, উৎসব বা ঋতুচক্রের প্রেক্ষাপটে।": 60,
+              "এই গল্পে কোনো প্রবীণ ব্যক্তি তার অভিজ্ঞতা, উপদেশ বা ভবিষ্যদ্বাণীর মাধ্যমে সমাজ বা একজন তরুণকে পথ দেখায়।": 60,
+              "এই গল্পে একজন মানুষ বা একাধিক ব্যক্তি সামাজিক, নৈতিক বা আধ্যাত্মিক নিয়ম ভঙ্গ করে এবং তার পরিণতি কীভাবে তাদের জীবনে প্রভাব ফেলে তা দেখান।": 60,
+              "এই গল্পে মানুষ ও প্রকৃতির (নদী, পাহাড়, বন, পশু, জমি ইত্যাদি) মধ্যকার সম্পর্ক তুলে ধরুন—যেখানে প্রকৃতি কখনো সহায়ক, কখনো ভয়ংকর, আবার কখনো পবিত্র।": 60,
+              "এই গল্পে জীবনের একটি গুরুত্বপূর্ণ ধাপ—যেমন প্রাপ্তবয়স্ক হওয়া, বিবাহ, নেতৃত্ব গ্রহণ বা আধ্যাত্মিক দীক্ষা—কীভাবে পালিত হয় তা তুলে ধরুন।": 60,
+              "এই গল্পে বর্ণনা করুন কীভাবে মানুষ, গ্রাম, সমাজ বা কোনো গুরুত্বপূর্ণ প্রাকৃতিক উপাদানের উৎপত্তি ঘটেছে—যেখানে বিশ্বাস, কিংবদন্তি বা প্রাচীন স্মৃতি গুরুত্বপূর্ণ ভূমিকা রাখে।": 59
+            }
+          },
+          {
+            "name": "story",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 641,
+              "max_length": 6661,
+              "avg_length": 3389.9
+            },
+            "sample_values": [
+              "শোনো, শোনো—আমি লোককথা-কথক। আজ তোমাদের বলব আমাদের পাহাড়তীর সেই ছোট্ট হাজং গ্রামের কথা, যেখানে কালের ...",
+              "শোনো, কহে লোকরা, আমাদের পাহাড়-ও-মাঠের সেই গ্রামের কথা—সেখানে সবাই সantal সম্প্রদায়ের। এক বছর খরা এ..."
+            ]
+          },
+          {
+            "name": "story_type",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Change and Continuity": 60,
+              "Community Crisis": 60,
+              "Trickster or Clever Figure": 60,
+              "Sacred or Forbidden Space": 60,
+              "Everyday Life Narrative": 60,
+              "Wisdom of an Elder": 60,
+              "Moral Transgression and Consequence": 60,
+              "Human–Nature Relationship": 60,
+              "Rite of Passage": 60,
+              "Origin Story": 59
+            }
+          },
+          {
+            "name": "embedding_model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 1,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "openai/text-embedding-3-small": 599
+            }
+          },
+          {
+            "name": "scenario_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 1536,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.095929,
+              "max": 0.095636,
+              "mean": -0.000245
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "story_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 1536,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.09585,
+              "max": 0.089159,
+              "mean": -0.000179
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "processed_at",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 593,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 26,
+              "max_length": 26,
+              "avg_length": 26.0
+            },
+            "sample_values": [
+              "2026-01-16T00:11:09.301049",
+              "2026-01-16T00:10:59.144824"
+            ]
+          },
+          {
+            "name": "hash",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 32,
+              "max_length": 32,
+              "avg_length": 32.0
+            },
+            "sample_values": [
+              "000d023ac22938b24f26163b12b39801",
+              "013ba45e949dc41f69f4bb6e7a60c89a"
+            ]
+          }
+        ],
+        "embedding_model": "openai/text-embedding-3-small",
+        "vector_dimensions": 1536
+      },
+      {
+        "file_name": "qwen_qwen3-embedding-8b.parquet",
+        "row_count": 599,
+        "column_count": 15,
+        "memory_usage_mb": 5.42,
+        "columns": [
+          {
+            "name": "model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 5,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "openai_gpt-5-mini": 120,
+              "mistralai_mistral-large-2512": 120,
+              "openai_gpt-5.1": 120,
+              "google_gemini-3-flash-preview": 120,
+              "qwen_qwen3-8b": 119
+            }
+          },
+          {
+            "name": "prompt_id",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 4,
+              "max_length": 4,
+              "avg_length": 4.0
+            },
+            "sample_values": [
+              "P110",
+              "P035"
+            ]
+          },
+          {
+            "name": "completion_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 503,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 4,
+              "avg_length": 3.9
+            },
+            "sample_values": [
+              "2308",
+              "2672"
+            ]
+          },
+          {
+            "name": "culture",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 12,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Hajong": 50,
+              "Santal": 50,
+              "Tripura": 50,
+              "Manipuri (Meitei)": 50,
+              "Khasi": 50,
+              "Marma": 50,
+              "Rakhine": 50,
+              "Mro": 50,
+              "Bengali": 50,
+              "Garo (Mandi)": 50,
+              "Chakma": 50,
+              "Oraon (Kurukh)": 49
+            }
+          },
+          {
+            "name": "prompt",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 120,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 646,
+              "max_length": 729,
+              "avg_length": 680.4
+            },
+            "sample_values": [
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Hajong সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল...",
+              "আপনি একজন লোককথা-কথক। বাংলাদেশের Santal সংস্কৃতির প্রেক্ষাপটে, নিচের কাহিনি ধরণ অনুসারে একটি লোকজ গল..."
+            ]
+          },
+          {
+            "name": "prompt_tokens",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 131,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 3,
+              "max_length": 3,
+              "avg_length": 3.0
+            },
+            "sample_values": [
+              "223",
+              "244"
+            ]
+          },
+          {
+            "name": "region",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 9,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Chittagong Hill Tracts": 150,
+              "Sylhet (border areas)": 100,
+              "Mymensingh": 50,
+              "Rajshahi, Rangpur, northwestern plains": 50,
+              "Cox's Bazar, coastal areas": 50,
+              "Mymensingh, Sherpur": 50,
+              "Bandarban": 50,
+              "Bangladesh-Scoped": 50,
+              "North Bengal": 49
+            }
+          },
+          {
+            "name": "scenario",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "এই গল্পে দেখান কীভাবে সময়ের সঙ্গে কিছু পরিবর্তন আসে, কিন্তু কিছু বিশ্বাস, রীতি বা মূল্যবোধ টিকে থাকে।": 60,
+              "এই গল্পে পুরো সমাজ একটি সংকটের মুখে পড়ে (খরা, রোগ, অভাব, দ্বন্দ্ব, প্রাকৃতিক বিপর্যয় ইত্যাদি) এবং তারা কীভাবে সম্মিলিতভাবে তা মোকাবিলা করে।": 60,
+              "এই গল্পে একজন চালাক মানুষ বা প্রাণী তার বুদ্ধি ও কৌশলের মাধ্যমে শক্তিশালী কাউকে পরাস্ত করে বা সমস্যার সমাধান করে।": 60,
+              "এই গল্পে এমন একটি স্থান (বন, পাহাড়, নদী, গাছ, ঘর বা ভূমি) তুলে ধরুন যা পবিত্র বা নিষিদ্ধ হিসেবে বিবেচিত, এবং সেই স্থানের সঙ্গে মানুষের সম্পর্ক কীভাবে গড়ে ওঠে।": 60,
+              "এই গল্পে সাধারণ মানুষের দৈনন্দিন জীবনের একটি ঘটনা তুলে ধরুন—খাদ্য, কাজ, পরিবার, উৎসব বা ঋতুচক্রের প্রেক্ষাপটে।": 60,
+              "এই গল্পে কোনো প্রবীণ ব্যক্তি তার অভিজ্ঞতা, উপদেশ বা ভবিষ্যদ্বাণীর মাধ্যমে সমাজ বা একজন তরুণকে পথ দেখায়।": 60,
+              "এই গল্পে একজন মানুষ বা একাধিক ব্যক্তি সামাজিক, নৈতিক বা আধ্যাত্মিক নিয়ম ভঙ্গ করে এবং তার পরিণতি কীভাবে তাদের জীবনে প্রভাব ফেলে তা দেখান।": 60,
+              "এই গল্পে মানুষ ও প্রকৃতির (নদী, পাহাড়, বন, পশু, জমি ইত্যাদি) মধ্যকার সম্পর্ক তুলে ধরুন—যেখানে প্রকৃতি কখনো সহায়ক, কখনো ভয়ংকর, আবার কখনো পবিত্র।": 60,
+              "এই গল্পে জীবনের একটি গুরুত্বপূর্ণ ধাপ—যেমন প্রাপ্তবয়স্ক হওয়া, বিবাহ, নেতৃত্ব গ্রহণ বা আধ্যাত্মিক দীক্ষা—কীভাবে পালিত হয় তা তুলে ধরুন।": 60,
+              "এই গল্পে বর্ণনা করুন কীভাবে মানুষ, গ্রাম, সমাজ বা কোনো গুরুত্বপূর্ণ প্রাকৃতিক উপাদানের উৎপত্তি ঘটেছে—যেখানে বিশ্বাস, কিংবদন্তি বা প্রাচীন স্মৃতি গুরুত্বপূর্ণ ভূমিকা রাখে।": 59
+            }
+          },
+          {
+            "name": "story",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 641,
+              "max_length": 6661,
+              "avg_length": 3389.9
+            },
+            "sample_values": [
+              "শোনো, শোনো—আমি লোককথা-কথক। আজ তোমাদের বলব আমাদের পাহাড়তীর সেই ছোট্ট হাজং গ্রামের কথা, যেখানে কালের ...",
+              "শোনো, কহে লোকরা, আমাদের পাহাড়-ও-মাঠের সেই গ্রামের কথা—সেখানে সবাই সantal সম্প্রদায়ের। এক বছর খরা এ..."
+            ]
+          },
+          {
+            "name": "story_type",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 10,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "Change and Continuity": 60,
+              "Community Crisis": 60,
+              "Trickster or Clever Figure": 60,
+              "Sacred or Forbidden Space": 60,
+              "Everyday Life Narrative": 60,
+              "Wisdom of an Elder": 60,
+              "Moral Transgression and Consequence": 60,
+              "Human–Nature Relationship": 60,
+              "Rite of Passage": 60,
+              "Origin Story": 59
+            }
+          },
+          {
+            "name": "embedding_model",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 1,
+            "column_type": "categorical_string",
+            "value_distribution": {
+              "qwen/qwen3-embedding-8b": 599
+            }
+          },
+          {
+            "name": "scenario_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 4096,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.073009,
+              "max": 0.069691,
+              "mean": 0.000326
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "story_embedding",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "column_type": "embedding_vector",
+            "vector_dimensions": 4096,
+            "element_dtype": "float64",
+            "vector_stats": {
+              "min": -0.092253,
+              "max": 0.094156,
+              "mean": 0.000196
+            },
+            "note": "High-dimensional embedding vector - not suitable for direct analysis, use for similarity/clustering"
+          },
+          {
+            "name": "processed_at",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 598,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 26,
+              "max_length": 26,
+              "avg_length": 26.0
+            },
+            "sample_values": [
+              "2026-01-16T00:26:14.493812",
+              "2026-01-16T00:26:04.173201"
+            ]
+          },
+          {
+            "name": "hash",
+            "dtype": "object",
+            "total_count": 599,
+            "non_null_count": 599,
+            "null_count": 0,
+            "null_percentage": 0.0,
+            "unique_count": 599,
+            "column_type": "text",
+            "string_stats": {
+              "min_length": 32,
+              "max_length": 32,
+              "avg_length": 32.0
+            },
+            "sample_values": [
+              "000d023ac22938b24f26163b12b39801",
+              "013ba45e949dc41f69f4bb6e7a60c89a"
+            ]
+          }
+        ],
+        "embedding_model": "qwen/qwen3-embedding-8b",
+        "vector_dimensions": 4096
+      }
+    ]
+  },
+  "relationships": {
+    "linking_keys": {
+      "primary_key_combination": [
+        "model",
+        "culture"
+      ],
+      "description": "The combination of (model, culture) serves as the linking key between evaluated_stories.csv and all parquet embedding files. Each parquet file contains the same 599 stories with identical (model, culture) pairs but different embedding representations.",
+      "join_type": "one-to-one per embedding model"
+    },
+    "file_relationships": [
+      {
+        "from_file": "evaluated_stories.csv",
+        "to_files": "*.parquet files",
+        "relationship": "Each story in evaluated_stories.csv has corresponding embeddings in each parquet file",
+        "link_columns": [
+          "model",
+          "culture",
+          "story"
+        ]
+      }
+    ]
+  },
+  "semantic_overview": {
+    "data_generation_pipeline": [
+      "1. Prompts were created for 12 Bangladeshi cultures × 10 story types = 120 unique prompts",
+      "2. 5 different LLMs generated stories from these prompts",
+      "3. Stories were evaluated by humans on 4 quality dimensions (0-5 scale)",
+      "4. Story text was embedded using 5 different embedding models"
+    ],
+    "key_dimensions": {
+      "cultures": {
+        "count": 12,
+        "includes": "Bengali, Chakma, Garo (Mandi), Hajong, Khasi, Manipuri (Meitei), Marma, Mro, Oraon (Kurukh), Rakhine, Santal, Tripura"
+      },
+      "generation_models": {
+        "count": 5,
+        "includes": "google_gemini-3-flash-preview, mistralai_mistral-large-2512, openai_gpt-5-mini, openai_gpt-5.1, qwen_qwen3-8b"
+      },
+      "story_types": {
+        "count": 10,
+        "includes": "Change and Continuity, Community Crisis, Everyday Life Narrative, Human–Nature Relationship, Moral Transgression and Consequence, Origin Story, Rite of Passage, Sacred or Forbidden Space, Trickster or Clever Figure, Wisdom of an Elder"
+      },
+      "embedding_models": {
+        "count": 5,
+        "includes": "google/gemini-embedding-001 (3072d), mistralai/mistral-embed-2312 (1024d), openai/text-embedding-3-large (3072d), openai/text-embedding-3-small (1536d), qwen/qwen3-embedding-8b (4096d)"
+      }
+    },
+    "evaluation_metrics": {
+      "scale": "0-5 (higher is better)",
+      "dimensions": [
+        {
+          "name": "Cultural Accuracy & Authenticity",
+          "description": "How accurately the story reflects the target culture"
+        },
+        {
+          "name": "Contextual & Temporal Appropriateness",
+          "description": "Whether the story fits traditional/historical context"
+        },
+        {
+          "name": "Narrative & Symbolic Coherence",
+          "description": "Story structure and use of cultural symbols"
+        },
+        {
+          "name": "Linguistic & Expressive Appropriateness (Bangla)",
+          "description": "Quality of Bengali language usage"
+        }
+      ]
+    }
+  },
+  "usage_notes": {
+    "for_analysis": [
+      "Use evaluated_stories.csv for quality analysis across models and cultures",
+      "Join with parquet files on (model, culture, story) for embedding-based analysis",
+      "Embedding vectors can be used for clustering, similarity search, or as features"
+    ],
+    "categorical_columns": "Columns with <50 unique values are treated as categorical",
+    "text_columns": "story, prompt, scenario contain long Bengali text suitable for NLP",
+    "vector_columns": "scenario_embedding and story_embedding contain high-dimensional float vectors"
+  },
+  "summary_statistics": {
+    "total_stories": 599,
+    "total_evaluation_records": 599,
+    "embedding_files_count": 5,
+    "evaluation_score_ranges": {
+      "Cultural Accuracy & Authenticity": {
+        "min": 0,
+        "max": 5,
+        "mean": 2.45
+      },
+      "Contextual & Temporal Appropriateness": {
+        "min": 0,
+        "max": 5,
+        "mean": 2.17
+      },
+      "Narrative & Symbolic Coherence": {
+        "min": 0,
+        "max": 5,
+        "mean": 1.99
+      },
+      "Linguistic & Expressive Appropriateness (Bangla)": {
+        "min": 0,
+        "max": 5,
+        "mean": 1.44
+      }
+    }
+  }
+}

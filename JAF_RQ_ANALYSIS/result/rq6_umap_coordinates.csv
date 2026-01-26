@@ -1,0 +1,600 @@
+story_id,culture,model,umap_1,umap_2
+0,Hajong,openai_gpt-5-mini,10.378122,10.855273
+1,Santal,openai_gpt-5-mini,9.9209585,12.796517
+2,Tripura,mistralai_mistral-large-2512,8.646172,12.165499
+3,Manipuri (Meitei),openai_gpt-5.1,11.5864,12.265204
+4,Oraon (Kurukh),openai_gpt-5-mini,6.7710834,8.125817
+5,Hajong,mistralai_mistral-large-2512,10.273053,10.008706
+6,Oraon (Kurukh),google_gemini-3-flash-preview,9.858316,11.220932
+7,Khasi,qwen_qwen3-8b,12.499063,10.6539545
+8,Santal,qwen_qwen3-8b,10.63979,9.006514
+9,Khasi,mistralai_mistral-large-2512,9.235286,10.430692
+10,Marma,mistralai_mistral-large-2512,9.25301,9.6881075
+11,Rakhine,qwen_qwen3-8b,11.751858,9.481392
+12,Manipuri (Meitei),google_gemini-3-flash-preview,9.7814865,11.077164
+13,Manipuri (Meitei),google_gemini-3-flash-preview,10.167602,11.064124
+14,Tripura,google_gemini-3-flash-preview,8.1359215,11.39201
+15,Santal,google_gemini-3-flash-preview,10.477342,10.636381
+16,Manipuri (Meitei),qwen_qwen3-8b,11.128827,8.575106
+17,Rakhine,openai_gpt-5-mini,12.2691965,8.828192
+18,Tripura,mistralai_mistral-large-2512,7.6954722,8.000678
+19,Rakhine,mistralai_mistral-large-2512,12.063225,9.802515
+20,Marma,mistralai_mistral-large-2512,10.379807,10.253759
+21,Mro,google_gemini-3-flash-preview,7.343809,8.679004
+22,Rakhine,openai_gpt-5-mini,12.140044,10.616788
+23,Hajong,mistralai_mistral-large-2512,10.349602,9.963672
+24,Garo (Mandi),qwen_qwen3-8b,10.261691,10.379261
+25,Manipuri (Meitei),openai_gpt-5-mini,9.2304325,13.376432
+26,Santal,openai_gpt-5.1,11.389559,12.718929
+27,Santal,openai_gpt-5.1,11.026342,12.756462
+28,Manipuri (Meitei),google_gemini-3-flash-preview,12.679822,11.132186
+29,Bengali,qwen_qwen3-8b,11.193833,10.745724
+30,Marma,qwen_qwen3-8b,9.093403,9.018884
+31,Rakhine,openai_gpt-5-mini,12.716572,9.878701
+32,Garo (Mandi),qwen_qwen3-8b,11.8679085,8.456111
+33,Garo (Mandi),mistralai_mistral-large-2512,9.456745,11.433943
+34,Manipuri (Meitei),mistralai_mistral-large-2512,10.543312,11.352223
+35,Marma,openai_gpt-5-mini,6.8308372,8.06458
+36,Santal,openai_gpt-5.1,12.102547,12.464301
+37,Hajong,google_gemini-3-flash-preview,12.3958235,12.106528
+38,Santal,qwen_qwen3-8b,11.414855,8.184523
+39,Santal,google_gemini-3-flash-preview,10.527083,12.963623
+40,Khasi,openai_gpt-5-mini,9.366071,11.897166
+41,Rakhine,openai_gpt-5.1,11.929922,12.313534
+42,Rakhine,google_gemini-3-flash-preview,12.754612,9.753376
+43,Hajong,openai_gpt-5.1,10.564342,11.167699
+44,Bengali,google_gemini-3-flash-preview,11.9540825,8.473336
+45,Garo (Mandi),mistralai_mistral-large-2512,11.585421,10.571024
+46,Rakhine,qwen_qwen3-8b,10.947682,8.78308
+47,Hajong,openai_gpt-5.1,11.173021,12.641047
+48,Santal,openai_gpt-5.1,11.31332,12.509834
+49,Hajong,openai_gpt-5-mini,11.171888,9.007654
+50,Manipuri (Meitei),openai_gpt-5.1,11.467578,11.711179
+51,Chakma,mistralai_mistral-large-2512,9.687504,12.037754
+52,Tripura,openai_gpt-5.1,10.70871,11.968484
+53,Marma,google_gemini-3-flash-preview,8.682698,9.654196
+54,Manipuri (Meitei),openai_gpt-5-mini,9.179522,13.314337
+55,Santal,mistralai_mistral-large-2512,8.407078,9.127916
+56,Manipuri (Meitei),openai_gpt-5-mini,9.382469,12.450657
+57,Khasi,google_gemini-3-flash-preview,8.5971575,10.9057045
+58,Mro,qwen_qwen3-8b,10.418665,7.7880135
+59,Bengali,openai_gpt-5-mini,11.6836605,8.727973
+60,Chakma,mistralai_mistral-large-2512,9.664621,10.46056
+61,Garo (Mandi),google_gemini-3-flash-preview,10.257578,11.290726
+62,Tripura,openai_gpt-5.1,10.803654,11.915591
+63,Mro,openai_gpt-5-mini,12.883845,11.641495
+64,Tripura,openai_gpt-5.1,10.803511,13.085948
+65,Khasi,google_gemini-3-flash-preview,8.604742,10.924979
+66,Mro,openai_gpt-5.1,7.2578936,8.598737
+67,Marma,google_gemini-3-flash-preview,8.245201,9.810059
+68,Mro,openai_gpt-5-mini,10.98486,10.798959
+69,Chakma,openai_gpt-5-mini,10.155868,11.620346
+70,Bengali,openai_gpt-5.1,10.214407,12.184425
+71,Oraon (Kurukh),mistralai_mistral-large-2512,7.001564,8.011789
+72,Oraon (Kurukh),qwen_qwen3-8b,9.619518,9.331542
+73,Rakhine,google_gemini-3-flash-preview,9.040245,10.774178
+74,Chakma,openai_gpt-5-mini,11.380691,9.001135
+75,Oraon (Kurukh),google_gemini-3-flash-preview,9.819759,11.130546
+76,Santal,mistralai_mistral-large-2512,11.178344,9.148583
+77,Garo (Mandi),openai_gpt-5-mini,9.989377,13.210507
+78,Mro,openai_gpt-5-mini,9.608993,11.774279
+79,Santal,openai_gpt-5.1,7.7811456,8.550059
+80,Manipuri (Meitei),mistralai_mistral-large-2512,12.960315,11.659502
+81,Tripura,mistralai_mistral-large-2512,9.208581,9.939071
+82,Khasi,openai_gpt-5-mini,12.391854,11.247139
+83,Rakhine,openai_gpt-5.1,11.091537,13.010272
+84,Bengali,google_gemini-3-flash-preview,9.282584,11.307519
+85,Rakhine,google_gemini-3-flash-preview,9.124792,10.963005
+86,Bengali,qwen_qwen3-8b,9.045587,11.755238
+87,Khasi,openai_gpt-5.1,10.637398,12.063799
+88,Rakhine,openai_gpt-5.1,12.736178,9.92347
+89,Chakma,google_gemini-3-flash-preview,10.38228,12.149006
+90,Hajong,mistralai_mistral-large-2512,10.254306,10.156992
+91,Oraon (Kurukh),google_gemini-3-flash-preview,9.704013,11.277171
+92,Oraon (Kurukh),qwen_qwen3-8b,10.879197,8.690337
+93,Santal,google_gemini-3-flash-preview,9.285303,10.846674
+94,Khasi,openai_gpt-5-mini,9.452476,13.394848
+95,Bengali,qwen_qwen3-8b,11.002839,8.961559
+96,Khasi,openai_gpt-5.1,11.147996,11.953939
+97,Marma,openai_gpt-5.1,11.055604,12.3284855
+98,Santal,google_gemini-3-flash-preview,12.52337,11.821486
+99,Khasi,openai_gpt-5.1,11.136866,12.041207
+100,Marma,qwen_qwen3-8b,8.714205,9.100248
+101,Rakhine,mistralai_mistral-large-2512,12.139433,9.447693
+102,Marma,qwen_qwen3-8b,11.633912,7.93914
+103,Marma,google_gemini-3-flash-preview,8.27117,9.647021
+104,Bengali,google_gemini-3-flash-preview,12.053006,11.904522
+105,Khasi,openai_gpt-5-mini,9.025141,11.384076
+106,Hajong,openai_gpt-5-mini,9.227957,13.041526
+107,Manipuri (Meitei),google_gemini-3-flash-preview,10.090351,11.122234
+108,Manipuri (Meitei),openai_gpt-5.1,12.07637,11.715964
+109,Tripura,openai_gpt-5.1,11.697475,11.051427
+110,Hajong,google_gemini-3-flash-preview,10.165234,10.365491
+111,Santal,qwen_qwen3-8b,11.10267,10.058632
+112,Rakhine,google_gemini-3-flash-preview,12.099617,9.964571
+113,Bengali,mistralai_mistral-large-2512,8.801845,12.525968
+114,Oraon (Kurukh),mistralai_mistral-large-2512,8.636776,12.080384
+115,Mro,mistralai_mistral-large-2512,9.404969,9.809043
+116,Chakma,openai_gpt-5-mini,9.820626,12.389141
+117,Mro,google_gemini-3-flash-preview,8.412304,9.684736
+118,Chakma,qwen_qwen3-8b,12.756698,10.492764
+119,Garo (Mandi),qwen_qwen3-8b,10.09129,8.964462
+120,Tripura,mistralai_mistral-large-2512,8.550115,9.241468
+121,Rakhine,qwen_qwen3-8b,10.31285,9.368982
+122,Khasi,openai_gpt-5.1,10.265344,12.804982
+123,Garo (Mandi),mistralai_mistral-large-2512,9.173894,9.732644
+124,Bengali,openai_gpt-5-mini,6.885395,7.972985
+125,Garo (Mandi),mistralai_mistral-large-2512,8.505037,10.465447
+126,Rakhine,qwen_qwen3-8b,11.684436,9.459632
+127,Garo (Mandi),openai_gpt-5.1,11.511394,11.072035
+128,Khasi,mistralai_mistral-large-2512,12.187677,8.205302
+129,Rakhine,mistralai_mistral-large-2512,12.236247,8.326659
+130,Manipuri (Meitei),openai_gpt-5-mini,12.804474,11.365186
+131,Manipuri (Meitei),mistralai_mistral-large-2512,7.5695014,8.423428
+132,Mro,google_gemini-3-flash-preview,8.542614,9.776775
+133,Bengali,qwen_qwen3-8b,11.393637,10.012961
+134,Mro,google_gemini-3-flash-preview,8.277204,10.049425
+135,Santal,google_gemini-3-flash-preview,7.350024,8.186271
+136,Garo (Mandi),google_gemini-3-flash-preview,10.437529,11.316556
+137,Khasi,openai_gpt-5-mini,11.850061,10.688392
+138,Tripura,mistralai_mistral-large-2512,11.147015,11.048453
+139,Rakhine,mistralai_mistral-large-2512,12.103904,9.864917
+140,Garo (Mandi),openai_gpt-5-mini,9.875153,12.839258
+141,Santal,mistralai_mistral-large-2512,10.958507,9.489382
+142,Oraon (Kurukh),qwen_qwen3-8b,9.243924,9.359544
+143,Mro,openai_gpt-5-mini,6.79449,8.168754
+144,Garo (Mandi),openai_gpt-5-mini,9.599845,11.8727255
+145,Oraon (Kurukh),google_gemini-3-flash-preview,9.743863,10.853396
+146,Bengali,openai_gpt-5.1,12.073402,12.167974
+147,Tripura,mistralai_mistral-large-2512,11.600738,8.675577
+148,Rakhine,mistralai_mistral-large-2512,12.660382,9.658066
+149,Hajong,google_gemini-3-flash-preview,10.506399,10.617793
+150,Bengali,mistralai_mistral-large-2512,11.821858,10.448659
+151,Marma,openai_gpt-5.1,10.9566145,11.560319
+152,Oraon (Kurukh),mistralai_mistral-large-2512,11.167057,11.1100645
+153,Mro,qwen_qwen3-8b,11.061624,8.441634
+154,Tripura,openai_gpt-5-mini,9.146417,12.592128
+155,Manipuri (Meitei),openai_gpt-5-mini,6.791998,8.112114
+156,Marma,mistralai_mistral-large-2512,9.519165,10.002156
+157,Tripura,qwen_qwen3-8b,10.56837,7.8437195
+158,Chakma,openai_gpt-5.1,11.245749,12.249997
+159,Manipuri (Meitei),openai_gpt-5.1,10.425521,12.913956
+160,Chakma,openai_gpt-5.1,12.0940485,12.214567
+161,Garo (Mandi),openai_gpt-5.1,10.900812,11.748858
+162,Garo (Mandi),google_gemini-3-flash-preview,10.693951,10.832909
+163,Tripura,mistralai_mistral-large-2512,10.930709,10.864827
+164,Tripura,openai_gpt-5-mini,11.460719,10.119622
+165,Hajong,qwen_qwen3-8b,10.151639,8.376053
+166,Hajong,qwen_qwen3-8b,9.6410885,8.851307
+167,Bengali,qwen_qwen3-8b,10.357434,7.782345
+168,Tripura,google_gemini-3-flash-preview,8.208202,11.082895
+169,Oraon (Kurukh),google_gemini-3-flash-preview,7.5866985,8.473023
+170,Marma,openai_gpt-5.1,10.393881,13.1831
+171,Hajong,openai_gpt-5.1,11.94929,11.967375
+172,Rakhine,openai_gpt-5.1,10.030759,12.7478485
+173,Tripura,mistralai_mistral-large-2512,11.015605,10.327239
+174,Tripura,google_gemini-3-flash-preview,8.325351,11.00611
+175,Hajong,openai_gpt-5.1,11.691014,12.920182
+176,Santal,qwen_qwen3-8b,10.563751,9.109327
+177,Manipuri (Meitei),qwen_qwen3-8b,10.346108,9.397523
+178,Rakhine,mistralai_mistral-large-2512,7.3017607,7.9020624
+179,Bengali,openai_gpt-5.1,12.966098,11.907664
+180,Khasi,mistralai_mistral-large-2512,7.103946,7.8857956
+181,Manipuri (Meitei),qwen_qwen3-8b,10.120409,7.745862
+182,Khasi,qwen_qwen3-8b,10.284218,7.902875
+183,Marma,mistralai_mistral-large-2512,9.552906,10.212734
+184,Hajong,openai_gpt-5.1,11.277264,13.235479
+185,Tripura,qwen_qwen3-8b,8.363367,11.970386
+186,Rakhine,google_gemini-3-flash-preview,12.267875,10.056697
+187,Khasi,qwen_qwen3-8b,11.265539,8.093729
+188,Manipuri (Meitei),google_gemini-3-flash-preview,9.448551,10.714407
+189,Bengali,qwen_qwen3-8b,11.645887,7.9477987
+190,Tripura,google_gemini-3-flash-preview,8.113411,11.201958
+191,Chakma,google_gemini-3-flash-preview,8.851636,10.609898
+192,Khasi,mistralai_mistral-large-2512,10.079109,11.555564
+193,Tripura,google_gemini-3-flash-preview,8.19357,11.540993
+194,Rakhine,qwen_qwen3-8b,11.469948,9.317945
+195,Mro,mistralai_mistral-large-2512,12.005359,8.420601
+196,Santal,mistralai_mistral-large-2512,10.148303,11.58605
+197,Mro,openai_gpt-5.1,10.972897,11.805233
+198,Bengali,mistralai_mistral-large-2512,9.756733,11.323329
+199,Bengali,google_gemini-3-flash-preview,9.729955,11.142154
+200,Hajong,openai_gpt-5-mini,9.774632,12.402731
+201,Rakhine,mistralai_mistral-large-2512,12.846162,9.725956
+202,Chakma,openai_gpt-5.1,10.843919,11.889217
+203,Marma,openai_gpt-5-mini,8.965404,11.5233965
+204,Hajong,openai_gpt-5-mini,9.84246,12.061593
+205,Bengali,openai_gpt-5-mini,12.005826,10.7174015
+206,Garo (Mandi),openai_gpt-5.1,10.836175,13.2321
+207,Rakhine,openai_gpt-5-mini,12.224689,9.862401
+208,Garo (Mandi),google_gemini-3-flash-preview,9.5290785,11.610145
+209,Chakma,google_gemini-3-flash-preview,10.379967,13.097158
+210,Garo (Mandi),google_gemini-3-flash-preview,10.7344055,11.598919
+211,Rakhine,google_gemini-3-flash-preview,12.269626,9.797619
+212,Oraon (Kurukh),openai_gpt-5-mini,13.038225,11.871858
+213,Hajong,mistralai_mistral-large-2512,12.001537,8.353503
+214,Hajong,google_gemini-3-flash-preview,11.05942,11.17973
+215,Mro,openai_gpt-5.1,11.429956,11.704759
+216,Rakhine,google_gemini-3-flash-preview,12.1498165,9.967708
+217,Mro,qwen_qwen3-8b,11.653161,7.904166
+218,Chakma,google_gemini-3-flash-preview,7.0976596,8.005294
+219,Mro,openai_gpt-5.1,9.733238,10.555159
+220,Chakma,google_gemini-3-flash-preview,10.306136,12.346779
+221,Santal,openai_gpt-5-mini,6.6780033,8.165065
+222,Manipuri (Meitei),openai_gpt-5-mini,9.237705,13.417064
+223,Chakma,openai_gpt-5-mini,9.776413,13.0268755
+224,Rakhine,openai_gpt-5.1,12.655341,10.016498
+225,Hajong,openai_gpt-5.1,11.864104,8.901831
+226,Hajong,google_gemini-3-flash-preview,10.01258,9.820143
+227,Oraon (Kurukh),openai_gpt-5.1,11.057708,11.877174
+228,Hajong,openai_gpt-5-mini,9.572517,12.584258
+229,Marma,google_gemini-3-flash-preview,9.122285,10.16833
+230,Garo (Mandi),qwen_qwen3-8b,9.712241,12.727562
+231,Mro,qwen_qwen3-8b,7.326878,7.7660885
+232,Oraon (Kurukh),openai_gpt-5.1,11.675154,12.892052
+233,Mro,qwen_qwen3-8b,9.469626,8.553273
+234,Bengali,openai_gpt-5.1,11.380932,10.474815
+235,Oraon (Kurukh),openai_gpt-5.1,11.650206,13.011561
+236,Tripura,qwen_qwen3-8b,10.015704,8.693406
+237,Bengali,google_gemini-3-flash-preview,9.566097,13.522303
+238,Bengali,openai_gpt-5.1,11.703376,12.758377
+239,Santal,qwen_qwen3-8b,10.571168,8.776913
+240,Mro,qwen_qwen3-8b,10.205071,8.528407
+241,Tripura,openai_gpt-5-mini,8.1481695,11.477112
+242,Manipuri (Meitei),google_gemini-3-flash-preview,9.4128275,10.944491
+243,Chakma,google_gemini-3-flash-preview,10.42341,12.093372
+244,Garo (Mandi),qwen_qwen3-8b,10.517761,8.945519
+245,Hajong,qwen_qwen3-8b,8.951818,11.006649
+246,Manipuri (Meitei),openai_gpt-5-mini,11.815143,11.889881
+247,Chakma,openai_gpt-5-mini,7.206921,8.314992
+248,Khasi,openai_gpt-5-mini,9.708509,12.995683
+249,Chakma,openai_gpt-5-mini,12.153323,10.904414
+250,Marma,openai_gpt-5-mini,11.243677,8.808004
+251,Mro,openai_gpt-5-mini,9.818235,13.107946
+252,Hajong,qwen_qwen3-8b,10.36042,7.961039
+253,Tripura,google_gemini-3-flash-preview,8.036883,11.276401
+254,Garo (Mandi),mistralai_mistral-large-2512,9.613768,12.905194
+255,Rakhine,openai_gpt-5-mini,11.789134,8.646426
+256,Garo (Mandi),openai_gpt-5-mini,12.284201,11.178015
+257,Tripura,openai_gpt-5-mini,11.981882,10.799297
+258,Chakma,mistralai_mistral-large-2512,10.799419,11.304547
+259,Garo (Mandi),openai_gpt-5-mini,9.422917,13.559582
+260,Santal,google_gemini-3-flash-preview,10.551788,12.784469
+261,Bengali,qwen_qwen3-8b,10.445901,7.7980413
+262,Santal,mistralai_mistral-large-2512,11.755768,11.574101
+263,Garo (Mandi),mistralai_mistral-large-2512,11.347627,10.6742325
+264,Bengali,qwen_qwen3-8b,10.944402,8.815159
+265,Santal,qwen_qwen3-8b,7.3086395,7.755854
+266,Bengali,openai_gpt-5-mini,9.838462,12.718712
+267,Marma,openai_gpt-5-mini,9.444359,13.519362
+268,Tripura,openai_gpt-5.1,11.049646,11.192488
+269,Rakhine,openai_gpt-5-mini,12.805996,11.019098
+270,Hajong,qwen_qwen3-8b,10.307537,9.97728
+271,Khasi,openai_gpt-5.1,11.347869,11.7916
+272,Bengali,qwen_qwen3-8b,12.726386,11.128395
+273,Rakhine,openai_gpt-5.1,9.898874,10.657347
+274,Tripura,openai_gpt-5.1,12.160607,11.293356
+275,Mro,openai_gpt-5-mini,9.327722,13.573028
+276,Marma,openai_gpt-5.1,11.821719,9.818113
+277,Manipuri (Meitei),openai_gpt-5.1,11.933718,11.704843
+278,Khasi,mistralai_mistral-large-2512,11.620338,11.365342
+279,Hajong,google_gemini-3-flash-preview,7.1006546,8.101278
+280,Mro,qwen_qwen3-8b,9.999892,10.510328
+281,Garo (Mandi),qwen_qwen3-8b,10.42021,7.8521724
+282,Tripura,openai_gpt-5.1,8.112346,11.452042
+283,Hajong,qwen_qwen3-8b,10.349107,8.782795
+284,Manipuri (Meitei),qwen_qwen3-8b,9.197021,8.133665
+285,Garo (Mandi),mistralai_mistral-large-2512,11.605158,10.585188
+286,Khasi,openai_gpt-5-mini,6.819733,8.250159
+287,Chakma,google_gemini-3-flash-preview,8.869206,10.556738
+288,Marma,openai_gpt-5.1,10.798565,12.630404
+289,Rakhine,openai_gpt-5-mini,9.905967,11.927451
+290,Bengali,google_gemini-3-flash-preview,12.137116,8.845708
+291,Oraon (Kurukh),openai_gpt-5-mini,9.981343,11.704819
+292,Hajong,openai_gpt-5-mini,6.695487,8.205725
+293,Tripura,openai_gpt-5.1,12.3574705,12.121007
+294,Tripura,openai_gpt-5.1,11.355419,12.325451
+295,Marma,openai_gpt-5-mini,9.113111,12.625956
+296,Santal,mistralai_mistral-large-2512,7.685339,8.082819
+297,Manipuri (Meitei),mistralai_mistral-large-2512,12.440033,10.833648
+298,Garo (Mandi),google_gemini-3-flash-preview,10.364705,11.073651
+299,Chakma,qwen_qwen3-8b,10.293896,8.05537
+300,Oraon (Kurukh),openai_gpt-5.1,12.12736,12.687327
+301,Rakhine,openai_gpt-5.1,12.462121,10.189359
+302,Chakma,openai_gpt-5-mini,9.155999,12.98638
+303,Rakhine,openai_gpt-5-mini,10.013317,12.6676445
+304,Tripura,openai_gpt-5.1,11.759224,11.284284
+305,Chakma,mistralai_mistral-large-2512,7.7261133,8.006777
+306,Marma,mistralai_mistral-large-2512,7.2151713,8.117209
+307,Khasi,openai_gpt-5.1,10.62403,12.450041
+308,Oraon (Kurukh),openai_gpt-5-mini,9.794547,12.328751
+309,Garo (Mandi),openai_gpt-5.1,11.995044,10.997864
+310,Marma,openai_gpt-5-mini,9.884849,12.683993
+311,Bengali,mistralai_mistral-large-2512,11.309573,9.116286
+312,Manipuri (Meitei),openai_gpt-5.1,12.110563,11.792912
+313,Santal,mistralai_mistral-large-2512,12.016984,11.894704
+314,Hajong,google_gemini-3-flash-preview,9.451226,10.494331
+315,Oraon (Kurukh),openai_gpt-5-mini,9.227306,12.633454
+316,Tripura,openai_gpt-5-mini,6.845602,8.131656
+317,Marma,openai_gpt-5.1,10.875257,11.320542
+318,Khasi,google_gemini-3-flash-preview,8.61136,10.815373
+319,Manipuri (Meitei),qwen_qwen3-8b,9.627581,12.637657
+320,Chakma,openai_gpt-5.1,6.7631116,8.480102
+321,Marma,google_gemini-3-flash-preview,8.426102,9.569711
+322,Manipuri (Meitei),mistralai_mistral-large-2512,10.398329,11.281716
+323,Manipuri (Meitei),openai_gpt-5.1,11.378205,11.7380085
+324,Mro,mistralai_mistral-large-2512,9.135124,9.557212
+325,Marma,openai_gpt-5-mini,9.938808,11.991977
+326,Chakma,openai_gpt-5.1,10.4198265,12.349697
+327,Marma,qwen_qwen3-8b,10.99138,8.558671
+328,Garo (Mandi),openai_gpt-5-mini,9.109751,12.934979
+329,Santal,openai_gpt-5-mini,9.929346,13.133769
+330,Khasi,qwen_qwen3-8b,9.027818,9.592059
+331,Manipuri (Meitei),qwen_qwen3-8b,9.122019,9.13354
+332,Garo (Mandi),mistralai_mistral-large-2512,11.7978325,10.557679
+333,Chakma,mistralai_mistral-large-2512,9.3737545,9.813676
+334,Hajong,openai_gpt-5.1,10.9221735,12.770159
+335,Mro,mistralai_mistral-large-2512,9.323725,10.057978
+336,Hajong,qwen_qwen3-8b,12.4395895,9.581495
+337,Khasi,qwen_qwen3-8b,11.418074,8.491096
+338,Santal,mistralai_mistral-large-2512,9.128715,10.035508
+339,Garo (Mandi),openai_gpt-5.1,6.6922135,8.180071
+340,Marma,qwen_qwen3-8b,10.183031,8.029503
+341,Santal,mistralai_mistral-large-2512,7.6633735,8.137033
+342,Chakma,openai_gpt-5-mini,9.841649,12.341961
+343,Marma,google_gemini-3-flash-preview,8.209766,9.9825535
+344,Manipuri (Meitei),openai_gpt-5.1,11.896544,11.669654
+345,Marma,openai_gpt-5.1,10.001608,13.377805
+346,Manipuri (Meitei),openai_gpt-5.1,10.7805195,13.216004
+347,Chakma,openai_gpt-5.1,10.991978,12.145587
+348,Oraon (Kurukh),qwen_qwen3-8b,9.893743,8.322958
+349,Oraon (Kurukh),openai_gpt-5.1,11.628992,12.428813
+350,Hajong,openai_gpt-5-mini,11.12678,10.487348
+351,Mro,mistralai_mistral-large-2512,10.8605175,10.406392
+352,Tripura,qwen_qwen3-8b,9.927418,7.8763857
+353,Marma,mistralai_mistral-large-2512,9.987388,10.062269
+354,Santal,openai_gpt-5-mini,11.579691,8.7576065
+355,Marma,mistralai_mistral-large-2512,11.851898,8.290863
+356,Hajong,mistralai_mistral-large-2512,10.900226,10.277636
+357,Mro,openai_gpt-5-mini,9.074028,12.508749
+358,Manipuri (Meitei),google_gemini-3-flash-preview,7.047175,7.9560394
+359,Manipuri (Meitei),google_gemini-3-flash-preview,12.410266,10.764277
+360,Garo (Mandi),openai_gpt-5-mini,11.151339,11.145617
+361,Chakma,openai_gpt-5.1,10.497615,13.280407
+362,Mro,openai_gpt-5.1,11.15785,12.085349
+363,Bengali,google_gemini-3-flash-preview,10.0735235,11.079845
+364,Khasi,google_gemini-3-flash-preview,8.267187,10.658973
+365,Garo (Mandi),google_gemini-3-flash-preview,8.862712,10.215428
+366,Marma,qwen_qwen3-8b,10.260483,8.498186
+367,Santal,google_gemini-3-flash-preview,10.936459,12.457592
+368,Bengali,mistralai_mistral-large-2512,9.294632,11.461719
+369,Bengali,openai_gpt-5-mini,11.475289,10.847093
+370,Bengali,mistralai_mistral-large-2512,11.720717,11.836564
+371,Mro,openai_gpt-5.1,10.421653,13.27892
+372,Manipuri (Meitei),openai_gpt-5-mini,9.25241,11.987606
+373,Chakma,qwen_qwen3-8b,11.466049,8.063876
+374,Chakma,qwen_qwen3-8b,10.248766,9.640193
+375,Bengali,mistralai_mistral-large-2512,12.249763,8.320111
+376,Khasi,openai_gpt-5-mini,11.640126,8.825955
+377,Rakhine,qwen_qwen3-8b,9.300019,8.313258
+378,Khasi,google_gemini-3-flash-preview,6.8561773,8.315195
+379,Garo (Mandi),openai_gpt-5.1,9.329735,13.380267
+380,Chakma,mistralai_mistral-large-2512,11.958148,8.984056
+381,Mro,openai_gpt-5.1,9.165253,12.143836
+382,Marma,google_gemini-3-flash-preview,8.396719,9.5856695
+383,Oraon (Kurukh),openai_gpt-5.1,10.173624,12.689286
+384,Santal,google_gemini-3-flash-preview,9.005487,11.0604515
+385,Santal,openai_gpt-5-mini,9.986424,12.333503
+386,Chakma,mistralai_mistral-large-2512,9.462369,9.39615
+387,Oraon (Kurukh),mistralai_mistral-large-2512,10.347374,9.427133
+388,Chakma,qwen_qwen3-8b,8.285646,7.965079
+389,Santal,google_gemini-3-flash-preview,12.518199,11.599898
+390,Mro,qwen_qwen3-8b,10.899776,8.453508
+391,Tripura,mistralai_mistral-large-2512,8.8150425,12.024862
+392,Bengali,openai_gpt-5.1,10.841453,13.274006
+393,Manipuri (Meitei),openai_gpt-5-mini,11.370763,9.336648
+394,Oraon (Kurukh),mistralai_mistral-large-2512,9.96931,9.368165
+395,Marma,openai_gpt-5-mini,11.456782,10.286858
+396,Garo (Mandi),qwen_qwen3-8b,11.585925,7.9514976
+397,Khasi,google_gemini-3-flash-preview,8.426434,10.821084
+398,Rakhine,openai_gpt-5.1,12.72869,9.671792
+399,Rakhine,openai_gpt-5-mini,9.011413,12.03676
+400,Chakma,openai_gpt-5.1,10.980307,12.022441
+401,Garo (Mandi),mistralai_mistral-large-2512,7.885475,8.08602
+402,Marma,qwen_qwen3-8b,12.42769,8.452838
+403,Garo (Mandi),qwen_qwen3-8b,9.973666,8.0743475
+404,Garo (Mandi),mistralai_mistral-large-2512,11.562233,8.596358
+405,Chakma,qwen_qwen3-8b,10.8291445,9.64123
+406,Oraon (Kurukh),google_gemini-3-flash-preview,9.430613,10.978341
+407,Mro,google_gemini-3-flash-preview,8.45577,9.880631
+408,Bengali,openai_gpt-5.1,11.820693,9.38558
+409,Bengali,mistralai_mistral-large-2512,8.675453,12.4523115
+410,Chakma,qwen_qwen3-8b,11.319746,7.992997
+411,Mro,mistralai_mistral-large-2512,8.25446,8.979417
+412,Mro,mistralai_mistral-large-2512,9.29857,9.847228
+413,Oraon (Kurukh),qwen_qwen3-8b,10.2812195,7.9425435
+414,Santal,openai_gpt-5-mini,10.022509,12.253337
+415,Rakhine,google_gemini-3-flash-preview,9.50376,10.759524
+416,Hajong,mistralai_mistral-large-2512,10.471336,9.949506
+417,Rakhine,mistralai_mistral-large-2512,9.4224205,10.185935
+418,Garo (Mandi),google_gemini-3-flash-preview,7.3080173,8.648967
+419,Bengali,openai_gpt-5.1,11.792592,12.470185
+420,Khasi,qwen_qwen3-8b,11.039029,10.053824
+421,Mro,qwen_qwen3-8b,10.5253,8.438913
+422,Oraon (Kurukh),google_gemini-3-flash-preview,11.781734,12.927925
+423,Oraon (Kurukh),openai_gpt-5.1,10.652502,13.348519
+424,Chakma,mistralai_mistral-large-2512,11.960378,10.227284
+425,Mro,mistralai_mistral-large-2512,9.337583,9.8250675
+426,Manipuri (Meitei),qwen_qwen3-8b,10.08134,9.279785
+427,Hajong,openai_gpt-5.1,12.533303,9.364749
+428,Santal,qwen_qwen3-8b,9.005856,10.994912
+429,Santal,qwen_qwen3-8b,10.461925,8.86905
+430,Chakma,mistralai_mistral-large-2512,12.994935,11.8735
+431,Manipuri (Meitei),mistralai_mistral-large-2512,12.084398,8.493676
+432,Tripura,openai_gpt-5-mini,11.597177,8.761171
+433,Chakma,mistralai_mistral-large-2512,12.546537,8.652233
+434,Chakma,openai_gpt-5-mini,13.088272,11.819685
+435,Khasi,google_gemini-3-flash-preview,8.396825,10.919773
+436,Hajong,qwen_qwen3-8b,9.837434,8.677633
+437,Rakhine,mistralai_mistral-large-2512,11.997553,9.569377
+438,Rakhine,qwen_qwen3-8b,10.1612425,8.607485
+439,Manipuri (Meitei),mistralai_mistral-large-2512,11.487052,9.090148
+440,Bengali,mistralai_mistral-large-2512,11.728222,10.70598
+441,Bengali,openai_gpt-5-mini,9.758391,12.966044
+442,Santal,openai_gpt-5.1,11.56571,12.845306
+443,Tripura,qwen_qwen3-8b,10.414083,8.429136
+444,Mro,qwen_qwen3-8b,9.14912,8.105939
+445,Garo (Mandi),google_gemini-3-flash-preview,8.848867,10.595857
+446,Chakma,google_gemini-3-flash-preview,8.703796,10.286367
+447,Khasi,openai_gpt-5.1,12.017132,11.857842
+448,Khasi,qwen_qwen3-8b,9.727685,9.14755
+449,Santal,openai_gpt-5-mini,9.852856,12.055217
+450,Khasi,mistralai_mistral-large-2512,10.110325,11.547687
+451,Chakma,google_gemini-3-flash-preview,11.318638,11.075124
+452,Bengali,mistralai_mistral-large-2512,6.9700685,7.883034
+453,Hajong,mistralai_mistral-large-2512,11.847808,10.849158
+454,Tripura,openai_gpt-5-mini,9.201211,12.910022
+455,Bengali,openai_gpt-5-mini,11.812019,8.862121
+456,Santal,openai_gpt-5.1,10.695554,12.812184
+457,Marma,mistralai_mistral-large-2512,9.450909,9.7511425
+458,Chakma,qwen_qwen3-8b,9.114045,8.081522
+459,Oraon (Kurukh),openai_gpt-5-mini,9.431311,12.299914
+460,Bengali,google_gemini-3-flash-preview,7.0679626,7.9256134
+461,Hajong,openai_gpt-5-mini,13.0498,11.69331
+462,Oraon (Kurukh),google_gemini-3-flash-preview,10.52676,11.484779
+463,Hajong,mistralai_mistral-large-2512,10.1205,10.18281
+464,Oraon (Kurukh),openai_gpt-5-mini,9.290486,11.695359
+465,Tripura,openai_gpt-5-mini,9.14043,11.780454
+466,Chakma,openai_gpt-5-mini,9.007832,11.868836
+467,Khasi,mistralai_mistral-large-2512,12.0523205,8.269843
+468,Chakma,qwen_qwen3-8b,10.022874,8.167516
+469,Garo (Mandi),openai_gpt-5.1,11.215482,13.175579
+470,Chakma,qwen_qwen3-8b,10.270094,8.806432
+471,Mro,openai_gpt-5-mini,11.614209,8.523484
+472,Tripura,qwen_qwen3-8b,9.319924,8.9785185
+473,Bengali,google_gemini-3-flash-preview,8.650346,11.243879
+474,Khasi,openai_gpt-5.1,10.837486,10.970283
+475,Manipuri (Meitei),google_gemini-3-flash-preview,10.923952,11.4498
+476,Marma,mistralai_mistral-large-2512,9.353588,9.604549
+477,Oraon (Kurukh),google_gemini-3-flash-preview,9.675858,11.287313
+478,Marma,mistralai_mistral-large-2512,10.808508,10.24344
+479,Khasi,openai_gpt-5.1,10.99734,12.357938
+480,Garo (Mandi),openai_gpt-5-mini,11.642676,9.998086
+481,Garo (Mandi),google_gemini-3-flash-preview,10.550721,11.090674
+482,Mro,mistralai_mistral-large-2512,8.8814535,9.840597
+483,Garo (Mandi),qwen_qwen3-8b,10.343421,8.462429
+484,Tripura,google_gemini-3-flash-preview,7.0967107,7.921887
+485,Oraon (Kurukh),qwen_qwen3-8b,9.799139,8.291982
+486,Khasi,mistralai_mistral-large-2512,12.346128,11.288874
+487,Marma,qwen_qwen3-8b,10.066901,8.646366
+488,Oraon (Kurukh),qwen_qwen3-8b,10.102299,9.390407
+489,Oraon (Kurukh),openai_gpt-5.1,9.841767,11.7919445
+490,Mro,google_gemini-3-flash-preview,9.019065,12.529974
+491,Manipuri (Meitei),qwen_qwen3-8b,11.707595,8.153624
+492,Bengali,openai_gpt-5-mini,9.736654,11.739953
+493,Hajong,openai_gpt-5-mini,9.086118,11.870978
+494,Mro,google_gemini-3-flash-preview,8.458387,9.584872
+495,Manipuri (Meitei),google_gemini-3-flash-preview,10.023769,11.149997
+496,Rakhine,openai_gpt-5.1,9.504634,12.417387
+497,Khasi,qwen_qwen3-8b,9.90133,8.608511
+498,Garo (Mandi),openai_gpt-5.1,11.67737,11.306568
+499,Khasi,openai_gpt-5-mini,12.83262,11.313149
+500,Oraon (Kurukh),openai_gpt-5-mini,10.182305,12.967805
+501,Khasi,google_gemini-3-flash-preview,8.481318,10.851442
+502,Bengali,qwen_qwen3-8b,7.570198,7.94189
+503,Tripura,google_gemini-3-flash-preview,9.282594,11.253102
+504,Santal,openai_gpt-5.1,11.424225,12.460588
+505,Manipuri (Meitei),qwen_qwen3-8b,10.95487,9.320377
+506,Tripura,qwen_qwen3-8b,11.41961,10.623203
+507,Mro,openai_gpt-5-mini,11.033288,11.078031
+508,Santal,google_gemini-3-flash-preview,8.811746,10.403607
+509,Mro,openai_gpt-5-mini,9.907699,11.924169
+510,Khasi,mistralai_mistral-large-2512,9.081393,10.130932
+511,Santal,qwen_qwen3-8b,10.921698,9.170642
+512,Rakhine,openai_gpt-5-mini,12.844545,9.989555
+513,Rakhine,google_gemini-3-flash-preview,10.157306,10.78081
+514,Mro,openai_gpt-5.1,10.916614,11.8798895
+515,Tripura,mistralai_mistral-large-2512,8.452245,12.018049
+516,Bengali,openai_gpt-5-mini,13.11649,11.785729
+517,Tripura,qwen_qwen3-8b,10.485815,9.306425
+518,Rakhine,google_gemini-3-flash-preview,11.250471,9.913683
+519,Chakma,google_gemini-3-flash-preview,8.665345,10.230809
+520,Bengali,openai_gpt-5-mini,9.905616,12.411046
+521,Rakhine,mistralai_mistral-large-2512,12.364794,9.371694
+522,Rakhine,qwen_qwen3-8b,11.9840145,9.581379
+523,Oraon (Kurukh),google_gemini-3-flash-preview,9.690905,11.363515
+524,Oraon (Kurukh),openai_gpt-5.1,11.151165,13.177885
+525,Khasi,google_gemini-3-flash-preview,9.146188,10.471355
+526,Marma,google_gemini-3-flash-preview,7.60672,8.947187
+527,Rakhine,qwen_qwen3-8b,11.3900795,8.496368
+528,Santal,openai_gpt-5.1,12.131195,12.597117
+529,Chakma,openai_gpt-5.1,10.887072,11.842061
+530,Hajong,google_gemini-3-flash-preview,10.013366,10.273558
+531,Oraon (Kurukh),mistralai_mistral-large-2512,10.133196,9.623007
+532,Oraon (Kurukh),mistralai_mistral-large-2512,9.244501,9.932398
+533,Tripura,qwen_qwen3-8b,10.466917,8.465941
+534,Garo (Mandi),openai_gpt-5-mini,9.610951,13.501658
+535,Hajong,qwen_qwen3-8b,10.313003,9.9927
+536,Marma,openai_gpt-5.1,12.078191,12.220218
+537,Marma,qwen_qwen3-8b,9.268824,9.065284
+538,Marma,google_gemini-3-flash-preview,8.582376,9.917149
+539,Mro,openai_gpt-5.1,10.988384,12.361001
+540,Tripura,google_gemini-3-flash-preview,8.162488,11.214942
+541,Mro,google_gemini-3-flash-preview,8.471932,9.705672
+542,Oraon (Kurukh),openai_gpt-5-mini,10.54344,11.039177
+543,Santal,qwen_qwen3-8b,10.753828,8.319141
+544,Oraon (Kurukh),mistralai_mistral-large-2512,12.09347,8.339285
+545,Hajong,qwen_qwen3-8b,11.5777445,8.039166
+546,Oraon (Kurukh),openai_gpt-5.1,11.248455,10.456632
+547,Tripura,google_gemini-3-flash-preview,8.133072,11.455841
+548,Marma,openai_gpt-5.1,11.70246,12.283814
+549,Khasi,openai_gpt-5.1,11.492763,12.112324
+550,Chakma,openai_gpt-5.1,10.02827,12.502803
+551,Tripura,qwen_qwen3-8b,9.330679,8.23084
+552,Santal,openai_gpt-5-mini,10.20267,12.782621
+553,Bengali,google_gemini-3-flash-preview,10.007769,10.797617
+554,Oraon (Kurukh),mistralai_mistral-large-2512,10.85702,11.09933
+555,Garo (Mandi),openai_gpt-5.1,11.175014,13.135673
+556,Hajong,google_gemini-3-flash-preview,9.498698,10.793111
+557,Oraon (Kurukh),qwen_qwen3-8b,10.147493,8.623231
+558,Khasi,mistralai_mistral-large-2512,12.08561,8.20074
+559,Tripura,openai_gpt-5-mini,10.670605,10.573599
+560,Oraon (Kurukh),openai_gpt-5-mini,11.07581,9.012275
+561,Khasi,qwen_qwen3-8b,9.564306,9.2768
+562,Manipuri (Meitei),qwen_qwen3-8b,10.219768,9.4310255
+563,Manipuri (Meitei),mistralai_mistral-large-2512,12.091212,8.628501
+564,Tripura,openai_gpt-5-mini,10.377691,11.81396
+565,Bengali,openai_gpt-5.1,9.643283,12.0396
+566,Manipuri (Meitei),openai_gpt-5-mini,11.387442,11.395014
+567,Marma,openai_gpt-5.1,10.188096,13.353189
+568,Santal,openai_gpt-5.1,10.706735,13.256383
+569,Mro,openai_gpt-5.1,10.308166,12.676042
+570,Oraon (Kurukh),qwen_qwen3-8b,9.791269,8.798614
+571,Garo (Mandi),openai_gpt-5.1,10.963224,11.2300205
+572,Oraon (Kurukh),mistralai_mistral-large-2512,11.288399,10.918544
+573,Manipuri (Meitei),mistralai_mistral-large-2512,11.956257,8.458308
+574,Rakhine,openai_gpt-5.1,12.931103,10.108247
+575,Manipuri (Meitei),openai_gpt-5.1,11.351881,11.448208
+576,Manipuri (Meitei),mistralai_mistral-large-2512,9.32253,11.853915
+577,Mro,mistralai_mistral-large-2512,8.756318,9.406631
+578,Khasi,google_gemini-3-flash-preview,8.404725,10.811449
+579,Santal,openai_gpt-5-mini,12.613789,11.653963
+580,Mro,google_gemini-3-flash-preview,8.55802,9.705482
+581,Hajong,openai_gpt-5.1,11.412425,12.772606
+582,Garo (Mandi),qwen_qwen3-8b,9.2759695,8.221729
+583,Marma,openai_gpt-5-mini,11.952424,10.617164
+584,Marma,qwen_qwen3-8b,10.659511,9.965485
+585,Santal,openai_gpt-5-mini,11.333447,11.417637
+586,Khasi,openai_gpt-5-mini,11.9899645,10.991542
+587,Hajong,mistralai_mistral-large-2512,11.635309,10.813054
+588,Garo (Mandi),openai_gpt-5-mini,6.6683693,8.208246
+589,Mro,google_gemini-3-flash-preview,8.31325,9.934524
+590,Rakhine,qwen_qwen3-8b,11.684471,7.888933
+591,Bengali,openai_gpt-5.1,11.178913,12.929462
+592,Hajong,google_gemini-3-flash-preview,9.955126,10.425752
+593,Khasi,qwen_qwen3-8b,10.802373,9.588031
+594,Marma,openai_gpt-5-mini,12.839693,11.509557
+595,Hajong,openai_gpt-5.1,11.256942,11.467975
+596,Santal,mistralai_mistral-large-2512,11.911103,8.252233
+597,Marma,google_gemini-3-flash-preview,8.335197,9.661428
+598,Hajong,mistralai_mistral-large-2512,10.542587,9.9689
