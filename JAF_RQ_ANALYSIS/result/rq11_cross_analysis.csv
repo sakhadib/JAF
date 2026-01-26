@@ -1,0 +1,69 @@
+groupby,group,target_metric,r2_score,mae,n_samples
+model,google_gemini-3-flash-preview,Cultural Accuracy & Authenticity,-0.5875652796463118,0.7837062814881616,120
+model,google_gemini-3-flash-preview,Contextual & Temporal Appropriateness,0.3225793534034409,0.6120241432143155,120
+model,google_gemini-3-flash-preview,Narrative & Symbolic Coherence,-0.41228149256220337,0.5848096753432671,120
+model,google_gemini-3-flash-preview,Linguistic & Expressive Appropriateness (Bangla),-0.9660194437720484,0.8395675771780194,120
+model,mistralai_mistral-large-2512,Cultural Accuracy & Authenticity,-0.5151556183057024,0.444413213582228,120
+model,mistralai_mistral-large-2512,Contextual & Temporal Appropriateness,-0.32678625281221607,0.5620652629287002,120
+model,mistralai_mistral-large-2512,Narrative & Symbolic Coherence,-1.452899689349442,0.5986744419893552,120
+model,mistralai_mistral-large-2512,Linguistic & Expressive Appropriateness (Bangla),-0.6102357239271268,0.5508575281710103,120
+model,openai_gpt-5-mini,Cultural Accuracy & Authenticity,-0.5149607061882455,0.551298135914099,120
+model,openai_gpt-5-mini,Contextual & Temporal Appropriateness,-0.22875817410532262,0.4777628981317743,120
+model,openai_gpt-5-mini,Narrative & Symbolic Coherence,-0.35088656293681275,0.66888803975965,120
+model,openai_gpt-5-mini,Linguistic & Expressive Appropriateness (Bangla),-0.8184984261416826,0.6011889504082848,120
+model,openai_gpt-5.1,Cultural Accuracy & Authenticity,-1.1688511753110933,0.6013812840676703,120
+model,openai_gpt-5.1,Contextual & Temporal Appropriateness,-0.9679485680581179,0.4192228601281128,120
+model,openai_gpt-5.1,Narrative & Symbolic Coherence,-0.6066663906004532,0.3501539901943043,120
+model,openai_gpt-5.1,Linguistic & Expressive Appropriateness (Bangla),-0.2931528242392438,0.6360807821610579,120
+model,qwen_qwen3-8b,Cultural Accuracy & Authenticity,-0.18335161427850788,0.7538545090367786,119
+model,qwen_qwen3-8b,Contextual & Temporal Appropriateness,-0.1652573051708366,0.6370292244082605,119
+model,qwen_qwen3-8b,Narrative & Symbolic Coherence,0.1866031311734958,0.4026719453546915,119
+model,qwen_qwen3-8b,Linguistic & Expressive Appropriateness (Bangla),-0.5121561502809844,0.45436362322979,119
+culture,Bengali,Cultural Accuracy & Authenticity,-0.6301475857414394,0.7549254212375869,50
+culture,Bengali,Contextual & Temporal Appropriateness,0.18059517098782651,0.6438575145068312,50
+culture,Bengali,Narrative & Symbolic Coherence,-0.10993327588588309,0.5996154897715259,50
+culture,Bengali,Linguistic & Expressive Appropriateness (Bangla),0.22900483800658156,0.5475891269580988,50
+culture,Chakma,Cultural Accuracy & Authenticity,-0.067664591136118,0.4923704618579537,50
+culture,Chakma,Contextual & Temporal Appropriateness,0.1789015613209317,0.6861845357691077,50
+culture,Chakma,Narrative & Symbolic Coherence,0.2832067088322293,0.5182683665072133,50
+culture,Chakma,Linguistic & Expressive Appropriateness (Bangla),0.37588622133198346,0.4043805879294914,50
+culture,Garo (Mandi),Cultural Accuracy & Authenticity,0.06927052419900692,0.58217887617865,50
+culture,Garo (Mandi),Contextual & Temporal Appropriateness,0.3378223533283552,0.5578928486452889,50
+culture,Garo (Mandi),Narrative & Symbolic Coherence,0.15733852784591407,0.7231703917015007,50
+culture,Garo (Mandi),Linguistic & Expressive Appropriateness (Bangla),-1.0438215686455088,0.6468240785862401,50
+culture,Hajong,Cultural Accuracy & Authenticity,0.06812711198879018,0.3852593609039128,50
+culture,Hajong,Contextual & Temporal Appropriateness,0.09093559578691535,0.5170371494818292,50
+culture,Hajong,Narrative & Symbolic Coherence,0.2362323288316499,0.4180560857723118,50
+culture,Hajong,Linguistic & Expressive Appropriateness (Bangla),0.4191074241817794,0.4644604955919802,50
+culture,Khasi,Cultural Accuracy & Authenticity,-0.34257734991980615,0.6493375958819755,50
+culture,Khasi,Contextual & Temporal Appropriateness,0.2122561677017153,0.4257898261299764,50
+culture,Khasi,Narrative & Symbolic Coherence,0.0833561580876484,0.594234114056521,50
+culture,Khasi,Linguistic & Expressive Appropriateness (Bangla),-0.6651348125009169,0.45229879900347775,50
+culture,Manipuri (Meitei),Cultural Accuracy & Authenticity,-0.21689598697999646,0.5750017933234937,50
+culture,Manipuri (Meitei),Contextual & Temporal Appropriateness,0.6241749498503295,0.23954961998034388,50
+culture,Manipuri (Meitei),Narrative & Symbolic Coherence,-0.9677101966711881,0.3511047293408547,50
+culture,Manipuri (Meitei),Linguistic & Expressive Appropriateness (Bangla),0.28944060740741295,0.48968944800501985,50
+culture,Marma,Cultural Accuracy & Authenticity,0.22292759300034226,0.5012666936609713,50
+culture,Marma,Contextual & Temporal Appropriateness,0.18770160110977208,0.5830104708342476,50
+culture,Marma,Narrative & Symbolic Coherence,-0.19235061046534252,0.5114935848332672,50
+culture,Marma,Linguistic & Expressive Appropriateness (Bangla),0.30585688711291714,0.3188291530376399,50
+culture,Mro,Cultural Accuracy & Authenticity,0.06051734566582945,0.34873292682009843,50
+culture,Mro,Contextual & Temporal Appropriateness,0.17615071689756057,0.44516121189018865,50
+culture,Mro,Narrative & Symbolic Coherence,0.5551563842019289,0.3748793202177544,50
+culture,Mro,Linguistic & Expressive Appropriateness (Bangla),-0.02517491404362504,0.6030929582304708,50
+culture,Oraon (Kurukh),Cultural Accuracy & Authenticity,0.36139238235278515,0.48741995084160805,49
+culture,Oraon (Kurukh),Contextual & Temporal Appropriateness,0.24494711380287526,0.3847868524816025,49
+culture,Oraon (Kurukh),Narrative & Symbolic Coherence,-0.39295420130333625,0.4347459461307281,49
+culture,Oraon (Kurukh),Linguistic & Expressive Appropriateness (Bangla),-0.024273867247344594,0.4656859590770191,49
+culture,Rakhine,Cultural Accuracy & Authenticity,0.16496026685271348,0.7679501863621099,50
+culture,Rakhine,Contextual & Temporal Appropriateness,0.718731554979293,0.4813209341532286,50
+culture,Rakhine,Narrative & Symbolic Coherence,0.069815434863024,0.7600832336160223,50
+culture,Rakhine,Linguistic & Expressive Appropriateness (Bangla),0.4605717893786949,0.5543901361426287,50
+culture,Santal,Cultural Accuracy & Authenticity,0.04611656825980881,0.6620834087468621,50
+culture,Santal,Contextual & Temporal Appropriateness,0.01988206196904574,0.7306852948790934,50
+culture,Santal,Narrative & Symbolic Coherence,0.0004175941577153619,0.735641084903237,50
+culture,Santal,Linguistic & Expressive Appropriateness (Bangla),-0.6830606317740042,0.591235439612513,50
+culture,Tripura,Cultural Accuracy & Authenticity,-0.055044409006179906,0.5927085080817222,50
+culture,Tripura,Contextual & Temporal Appropriateness,0.08380509361554522,0.3540344571809722,50
+culture,Tripura,Narrative & Symbolic Coherence,-0.3874568109047576,0.737388537579385,50
+culture,Tripura,Linguistic & Expressive Appropriateness (Bangla),-0.18513270809483218,0.36945044356442996,50

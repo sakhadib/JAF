@@ -1,0 +1,661 @@
+story_type,culture_1,culture_2,cosine_distance,similarity
+Change and Continuity,Oraon (Kurukh),Santal,0.12945546035689193,0.8705445396431081
+Change and Continuity,Chakma,Tripura,0.13424702300076674,0.8657529769992333
+Change and Continuity,Hajong,Santal,0.1349220870135892,0.8650779129864108
+Change and Continuity,Hajong,Rakhine,0.14022055552525436,0.8597794444747456
+Change and Continuity,Khasi,Santal,0.1436951894225773,0.8563048105774227
+Change and Continuity,Chakma,Hajong,0.15156378457718733,0.8484362154228127
+Change and Continuity,Garo (Mandi),Marma,0.15203640774566163,0.8479635922543384
+Change and Continuity,Chakma,Oraon (Kurukh),0.1544694103689187,0.8455305896310813
+Change and Continuity,Hajong,Khasi,0.15472193410599522,0.8452780658940048
+Change and Continuity,Chakma,Marma,0.15576655548505625,0.8442334445149438
+Change and Continuity,Garo (Mandi),Khasi,0.15742542279165328,0.8425745772083467
+Change and Continuity,Hajong,Oraon (Kurukh),0.16070675978736637,0.8392932402126336
+Change and Continuity,Chakma,Santal,0.161055257491042,0.838944742508958
+Change and Continuity,Chakma,Garo (Mandi),0.16356496548614652,0.8364350345138535
+Change and Continuity,Garo (Mandi),Hajong,0.16460527896231592,0.8353947210376841
+Change and Continuity,Garo (Mandi),Santal,0.1655046663871631,0.8344953336128369
+Change and Continuity,Khasi,Rakhine,0.1665759243823659,0.8334240756176341
+Change and Continuity,Chakma,Khasi,0.1686455693545047,0.8313544306454953
+Change and Continuity,Garo (Mandi),Tripura,0.16963609975261718,0.8303639002473828
+Change and Continuity,Bengali,Hajong,0.1722227179213468,0.8277772820786532
+Change and Continuity,Khasi,Oraon (Kurukh),0.17295094883931483,0.8270490511606852
+Change and Continuity,Hajong,Marma,0.17515501863897642,0.8248449813610236
+Change and Continuity,Chakma,Rakhine,0.17566389325642295,0.824336106743577
+Change and Continuity,Hajong,Tripura,0.17681739135297536,0.8231826086470246
+Change and Continuity,Garo (Mandi),Rakhine,0.17782547496297452,0.8221745250370255
+Change and Continuity,Mro,Santal,0.1779555006549821,0.8220444993450179
+Change and Continuity,Bengali,Khasi,0.17900460222126457,0.8209953977787354
+Change and Continuity,Hajong,Mro,0.17906476402927896,0.820935235970721
+Change and Continuity,Marma,Mro,0.1805913313476929,0.8194086686523071
+Change and Continuity,Bengali,Chakma,0.18069736478764942,0.8193026352123506
+Change and Continuity,Garo (Mandi),Oraon (Kurukh),0.1810303030079632,0.8189696969920368
+Change and Continuity,Manipuri (Meitei),Rakhine,0.18218544908045953,0.8178145509195405
+Change and Continuity,Marma,Rakhine,0.18239668425611455,0.8176033157438855
+Change and Continuity,Chakma,Mro,0.18287644874891384,0.8171235512510862
+Change and Continuity,Bengali,Marma,0.18333265170759405,0.816667348292406
+Change and Continuity,Bengali,Santal,0.1854302598573374,0.8145697401426626
+Change and Continuity,Rakhine,Santal,0.1866136573535877,0.8133863426464123
+Change and Continuity,Bengali,Rakhine,0.1896702522289342,0.8103297477710658
+Change and Continuity,Khasi,Marma,0.19056339900817576,0.8094366009918242
+Change and Continuity,Hajong,Manipuri (Meitei),0.19190493548314003,0.80809506451686
+Change and Continuity,Manipuri (Meitei),Santal,0.1925023533262269,0.8074976466737731
+Change and Continuity,Marma,Santal,0.19400053172601028,0.8059994682739897
+Change and Continuity,Marma,Tripura,0.19437374975333155,0.8056262502466685
+Change and Continuity,Oraon (Kurukh),Rakhine,0.19468328381937894,0.8053167161806211
+Change and Continuity,Santal,Tripura,0.1956617510154005,0.8043382489845995
+Change and Continuity,Khasi,Tripura,0.19622725116014428,0.8037727488398557
+Change and Continuity,Garo (Mandi),Manipuri (Meitei),0.1966087865685674,0.8033912134314326
+Change and Continuity,Marma,Oraon (Kurukh),0.19697030535848903,0.803029694641511
+Change and Continuity,Khasi,Mro,0.19857081793963116,0.8014291820603688
+Change and Continuity,Mro,Oraon (Kurukh),0.1996554893150837,0.8003445106849163
+Change and Continuity,Manipuri (Meitei),Oraon (Kurukh),0.20057851341414001,0.79942148658586
+Change and Continuity,Bengali,Oraon (Kurukh),0.20218796115236737,0.7978120388476326
+Change and Continuity,Mro,Rakhine,0.2025605362570978,0.7974394637429022
+Change and Continuity,Rakhine,Tripura,0.20648120234615064,0.7935187976538494
+Change and Continuity,Manipuri (Meitei),Marma,0.20701268028645758,0.7929873197135424
+Change and Continuity,Garo (Mandi),Mro,0.20870864130929956,0.7912913586907004
+Change and Continuity,Mro,Tripura,0.2092321415013435,0.7907678584986565
+Change and Continuity,Oraon (Kurukh),Tripura,0.20976399253745626,0.7902360074625437
+Change and Continuity,Chakma,Manipuri (Meitei),0.21630455807296567,0.7836954419270343
+Change and Continuity,Bengali,Garo (Mandi),0.21797091672912838,0.7820290832708716
+Change and Continuity,Khasi,Manipuri (Meitei),0.22168291884903046,0.7783170811509695
+Change and Continuity,Bengali,Tripura,0.22558972051154036,0.7744102794884596
+Change and Continuity,Bengali,Manipuri (Meitei),0.22674878048115388,0.7732512195188461
+Change and Continuity,Manipuri (Meitei),Tripura,0.2307102576099349,0.7692897423900651
+Change and Continuity,Manipuri (Meitei),Mro,0.23659133229108276,0.7634086677089172
+Change and Continuity,Bengali,Mro,0.251139483454076,0.748860516545924
+Community Crisis,Marma,Mro,0.11569981048686107,0.8843001895131389
+Community Crisis,Khasi,Mro,0.11725620714568441,0.8827437928543156
+Community Crisis,Bengali,Santal,0.12051675253186056,0.8794832474681394
+Community Crisis,Garo (Mandi),Marma,0.1304880014828267,0.8695119985171733
+Community Crisis,Bengali,Oraon (Kurukh),0.13107503974627321,0.8689249602537268
+Community Crisis,Chakma,Marma,0.13208006849612763,0.8679199315038724
+Community Crisis,Chakma,Mro,0.13343228717205313,0.8665677128279469
+Community Crisis,Chakma,Santal,0.13474661210937255,0.8652533878906274
+Community Crisis,Oraon (Kurukh),Santal,0.13803885442723685,0.8619611455727632
+Community Crisis,Bengali,Chakma,0.1383405917941759,0.8616594082058241
+Community Crisis,Hajong,Marma,0.14080345630008673,0.8591965436999133
+Community Crisis,Chakma,Khasi,0.14098543824851562,0.8590145617514844
+Community Crisis,Chakma,Oraon (Kurukh),0.14115375724707635,0.8588462427529236
+Community Crisis,Bengali,Manipuri (Meitei),0.14130067809322766,0.8586993219067723
+Community Crisis,Chakma,Tripura,0.14308366419057517,0.8569163358094248
+Community Crisis,Chakma,Garo (Mandi),0.1453168570510769,0.8546831429489231
+Community Crisis,Mro,Tripura,0.1493980887624069,0.8506019112375931
+Community Crisis,Marma,Oraon (Kurukh),0.1499113235809606,0.8500886764190394
+Community Crisis,Manipuri (Meitei),Marma,0.1499513485941235,0.8500486514058765
+Community Crisis,Manipuri (Meitei),Santal,0.1564275312516954,0.8435724687483046
+Community Crisis,Manipuri (Meitei),Oraon (Kurukh),0.1578926179909369,0.8421073820090631
+Community Crisis,Marma,Tripura,0.15845910929736284,0.8415408907026372
+Community Crisis,Bengali,Tripura,0.15879385900107434,0.8412061409989257
+Community Crisis,Santal,Tripura,0.15997143296704608,0.8400285670329539
+Community Crisis,Hajong,Santal,0.16140119897403105,0.838598801025969
+Community Crisis,Bengali,Mro,0.161773959754981,0.838226040245019
+Community Crisis,Garo (Mandi),Mro,0.16184316485308325,0.8381568351469167
+Community Crisis,Marma,Santal,0.16255728348123066,0.8374427165187693
+Community Crisis,Bengali,Khasi,0.1628643360031281,0.8371356639968719
+Community Crisis,Mro,Santal,0.1639851650461085,0.8360148349538915
+Community Crisis,Garo (Mandi),Oraon (Kurukh),0.16404462975735334,0.8359553702426467
+Community Crisis,Manipuri (Meitei),Mro,0.1647980001853835,0.8352019998146165
+Community Crisis,Khasi,Oraon (Kurukh),0.1653428565168027,0.8346571434831973
+Community Crisis,Chakma,Hajong,0.16599669697268826,0.8340033030273117
+Community Crisis,Garo (Mandi),Hajong,0.16625143690523247,0.8337485630947675
+Community Crisis,Khasi,Santal,0.16740787901735232,0.8325921209826477
+Community Crisis,Khasi,Tripura,0.1674952180605419,0.8325047819394581
+Community Crisis,Chakma,Manipuri (Meitei),0.16824608457307955,0.8317539154269205
+Community Crisis,Garo (Mandi),Santal,0.16890576543655567,0.8310942345634443
+Community Crisis,Oraon (Kurukh),Tripura,0.1695218340106015,0.8304781659893985
+Community Crisis,Garo (Mandi),Manipuri (Meitei),0.17004511230725594,0.8299548876927441
+Community Crisis,Khasi,Manipuri (Meitei),0.17035096674014238,0.8296490332598576
+Community Crisis,Khasi,Marma,0.17151881648368106,0.8284811835163189
+Community Crisis,Bengali,Marma,0.17203139347124574,0.8279686065287543
+Community Crisis,Bengali,Hajong,0.17240698599723414,0.8275930140027659
+Community Crisis,Mro,Oraon (Kurukh),0.17295535880689272,0.8270446411931073
+Community Crisis,Hajong,Manipuri (Meitei),0.17298218521560027,0.8270178147843997
+Community Crisis,Hajong,Oraon (Kurukh),0.17539186913988736,0.8246081308601126
+Community Crisis,Hajong,Mro,0.17798572655367884,0.8220142734463212
+Community Crisis,Bengali,Garo (Mandi),0.17807019520733058,0.8219298047926694
+Community Crisis,Chakma,Rakhine,0.18262831826549963,0.8173716817345004
+Community Crisis,Manipuri (Meitei),Tripura,0.18394926479507445,0.8160507352049255
+Community Crisis,Rakhine,Santal,0.186136993316095,0.813863006683905
+Community Crisis,Garo (Mandi),Tripura,0.18661912373291656,0.8133808762670834
+Community Crisis,Hajong,Khasi,0.1872282481239419,0.8127717518760581
+Community Crisis,Bengali,Rakhine,0.18763331684985174,0.8123666831501483
+Community Crisis,Rakhine,Tripura,0.18888838002939423,0.8111116199706058
+Community Crisis,Garo (Mandi),Khasi,0.19493914468820184,0.8050608553117982
+Community Crisis,Oraon (Kurukh),Rakhine,0.19639319285595036,0.8036068071440496
+Community Crisis,Marma,Rakhine,0.1975037181714162,0.8024962818285838
+Community Crisis,Hajong,Tripura,0.1975838797230437,0.8024161202769563
+Community Crisis,Garo (Mandi),Rakhine,0.19883592132081118,0.8011640786791888
+Community Crisis,Hajong,Rakhine,0.20388138605513428,0.7961186139448657
+Community Crisis,Manipuri (Meitei),Rakhine,0.20948228629543197,0.790517713704568
+Community Crisis,Khasi,Rakhine,0.2103365750142019,0.7896634249857981
+Community Crisis,Mro,Rakhine,0.21178050027755435,0.7882194997224456
+Trickster or Clever Figure,Chakma,Tripura,0.11039820746246032,0.8896017925375397
+Trickster or Clever Figure,Marma,Mro,0.120903252545977,0.879096747454023
+Trickster or Clever Figure,Oraon (Kurukh),Tripura,0.1220535651907847,0.8779464348092153
+Trickster or Clever Figure,Khasi,Oraon (Kurukh),0.12923349010729968,0.8707665098927003
+Trickster or Clever Figure,Oraon (Kurukh),Santal,0.12955567729862794,0.8704443227013721
+Trickster or Clever Figure,Hajong,Oraon (Kurukh),0.13049494290359753,0.8695050570964025
+Trickster or Clever Figure,Chakma,Oraon (Kurukh),0.13353963624510212,0.8664603637548979
+Trickster or Clever Figure,Garo (Mandi),Oraon (Kurukh),0.1385247220491409,0.8614752779508591
+Trickster or Clever Figure,Marma,Tripura,0.14022631783366646,0.8597736821663335
+Trickster or Clever Figure,Mro,Tripura,0.1454417633433106,0.8545582366566894
+Trickster or Clever Figure,Garo (Mandi),Tripura,0.14961434534178208,0.8503856546582179
+Trickster or Clever Figure,Chakma,Mro,0.15243183852557585,0.8475681614744242
+Trickster or Clever Figure,Khasi,Tripura,0.15422760262758273,0.8457723973724173
+Trickster or Clever Figure,Marma,Oraon (Kurukh),0.1561166968168275,0.8438833031831725
+Trickster or Clever Figure,Garo (Mandi),Khasi,0.15631050756327203,0.843689492436728
+Trickster or Clever Figure,Mro,Oraon (Kurukh),0.1566645858385718,0.8433354141614282
+Trickster or Clever Figure,Hajong,Mro,0.1575603536783884,0.8424396463216116
+Trickster or Clever Figure,Hajong,Tripura,0.1587194825265834,0.8412805174734166
+Trickster or Clever Figure,Hajong,Khasi,0.15909897075706048,0.8409010292429395
+Trickster or Clever Figure,Garo (Mandi),Marma,0.15924443516856746,0.8407555648314325
+Trickster or Clever Figure,Chakma,Garo (Mandi),0.1609517396169574,0.8390482603830426
+Trickster or Clever Figure,Garo (Mandi),Mro,0.16270415253598636,0.8372958474640136
+Trickster or Clever Figure,Chakma,Hajong,0.16619097044028786,0.8338090295597121
+Trickster or Clever Figure,Chakma,Khasi,0.16675993372330933,0.8332400662766907
+Trickster or Clever Figure,Santal,Tripura,0.16847298861124238,0.8315270113887576
+Trickster or Clever Figure,Marma,Santal,0.1686615736135606,0.8313384263864394
+Trickster or Clever Figure,Bengali,Hajong,0.16894443412140114,0.8310555658785989
+Trickster or Clever Figure,Bengali,Oraon (Kurukh),0.16977368020182249,0.8302263197981775
+Trickster or Clever Figure,Hajong,Santal,0.17052348156581765,0.8294765184341824
+Trickster or Clever Figure,Chakma,Marma,0.17071350411545472,0.8292864958845453
+Trickster or Clever Figure,Chakma,Santal,0.17076702796589838,0.8292329720341016
+Trickster or Clever Figure,Hajong,Manipuri (Meitei),0.17153559425426024,0.8284644057457398
+Trickster or Clever Figure,Bengali,Tripura,0.17154297692502107,0.8284570230749789
+Trickster or Clever Figure,Khasi,Mro,0.17217030048956006,0.8278296995104399
+Trickster or Clever Figure,Hajong,Marma,0.17307950117103366,0.8269204988289663
+Trickster or Clever Figure,Garo (Mandi),Hajong,0.17324789164049093,0.8267521083595091
+Trickster or Clever Figure,Bengali,Khasi,0.17581673044604962,0.8241832695539504
+Trickster or Clever Figure,Hajong,Rakhine,0.17747336921586532,0.8225266307841347
+Trickster or Clever Figure,Bengali,Marma,0.18305058436955857,0.8169494156304414
+Trickster or Clever Figure,Chakma,Rakhine,0.18470847652413247,0.8152915234758675
+Trickster or Clever Figure,Mro,Santal,0.18617495184435928,0.8138250481556407
+Trickster or Clever Figure,Bengali,Garo (Mandi),0.1879595049978653,0.8120404950021347
+Trickster or Clever Figure,Manipuri (Meitei),Oraon (Kurukh),0.19003490870295325,0.8099650912970467
+Trickster or Clever Figure,Khasi,Marma,0.1905730249655464,0.8094269750344536
+Trickster or Clever Figure,Bengali,Chakma,0.19108074927596697,0.808919250724033
+Trickster or Clever Figure,Rakhine,Santal,0.1919967680445599,0.8080032319554401
+Trickster or Clever Figure,Oraon (Kurukh),Rakhine,0.19373145819660276,0.8062685418033972
+Trickster or Clever Figure,Khasi,Santal,0.19426682841930576,0.8057331715806942
+Trickster or Clever Figure,Bengali,Mro,0.1948184551728387,0.8051815448271613
+Trickster or Clever Figure,Marma,Rakhine,0.1966550136295081,0.8033449863704919
+Trickster or Clever Figure,Bengali,Santal,0.19689012505901815,0.8031098749409818
+Trickster or Clever Figure,Rakhine,Tripura,0.1973362315165076,0.8026637684834924
+Trickster or Clever Figure,Mro,Rakhine,0.19765059036176047,0.8023494096382395
+Trickster or Clever Figure,Garo (Mandi),Santal,0.19810143592034746,0.8018985640796525
+Trickster or Clever Figure,Manipuri (Meitei),Tripura,0.20125956949892698,0.798740430501073
+Trickster or Clever Figure,Khasi,Manipuri (Meitei),0.20195545316210828,0.7980445468378917
+Trickster or Clever Figure,Chakma,Manipuri (Meitei),0.20436908137929533,0.7956309186207047
+Trickster or Clever Figure,Manipuri (Meitei),Marma,0.20492351539534337,0.7950764846046566
+Trickster or Clever Figure,Bengali,Rakhine,0.20642012108372,0.79357987891628
+Trickster or Clever Figure,Garo (Mandi),Rakhine,0.208776272079079,0.791223727920921
+Trickster or Clever Figure,Manipuri (Meitei),Rakhine,0.21128399973283596,0.788716000267164
+Trickster or Clever Figure,Manipuri (Meitei),Santal,0.21499698776834208,0.7850030122316579
+Trickster or Clever Figure,Garo (Mandi),Manipuri (Meitei),0.22013697454046743,0.7798630254595326
+Trickster or Clever Figure,Manipuri (Meitei),Mro,0.2213165633329559,0.7786834366670441
+Trickster or Clever Figure,Bengali,Manipuri (Meitei),0.22567816847747968,0.7743218315225203
+Trickster or Clever Figure,Khasi,Rakhine,0.24438635582287038,0.7556136441771296
+Sacred or Forbidden Space,Garo (Mandi),Hajong,0.13605917885832386,0.8639408211416761
+Sacred or Forbidden Space,Manipuri (Meitei),Rakhine,0.13787855151043593,0.8621214484895641
+Sacred or Forbidden Space,Garo (Mandi),Khasi,0.13917609829883015,0.8608239017011698
+Sacred or Forbidden Space,Marma,Mro,0.13965344711635141,0.8603465528836486
+Sacred or Forbidden Space,Marma,Rakhine,0.14659492681334396,0.853405073186656
+Sacred or Forbidden Space,Bengali,Garo (Mandi),0.150297108123424,0.849702891876576
+Sacred or Forbidden Space,Hajong,Khasi,0.15095653875651294,0.8490434612434871
+Sacred or Forbidden Space,Chakma,Garo (Mandi),0.1521718903160011,0.8478281096839989
+Sacred or Forbidden Space,Khasi,Santal,0.1529605810907929,0.8470394189092071
+Sacred or Forbidden Space,Garo (Mandi),Mro,0.15336699538482435,0.8466330046151757
+Sacred or Forbidden Space,Hajong,Santal,0.15350282932092185,0.8464971706790781
+Sacred or Forbidden Space,Garo (Mandi),Oraon (Kurukh),0.15374781273010707,0.8462521872698929
+Sacred or Forbidden Space,Bengali,Rakhine,0.15397698605064225,0.8460230139493577
+Sacred or Forbidden Space,Garo (Mandi),Santal,0.1569670261035535,0.8430329738964465
+Sacred or Forbidden Space,Oraon (Kurukh),Santal,0.15794367238382412,0.8420563276161759
+Sacred or Forbidden Space,Garo (Mandi),Rakhine,0.15841892481916864,0.8415810751808314
+Sacred or Forbidden Space,Khasi,Rakhine,0.15976705779327827,0.8402329422067217
+Sacred or Forbidden Space,Oraon (Kurukh),Tripura,0.16080452626496444,0.8391954737350356
+Sacred or Forbidden Space,Bengali,Manipuri (Meitei),0.16102711700649464,0.8389728829935054
+Sacred or Forbidden Space,Khasi,Oraon (Kurukh),0.1616541747534962,0.8383458252465038
+Sacred or Forbidden Space,Hajong,Rakhine,0.16179930077500781,0.8382006992249922
+Sacred or Forbidden Space,Garo (Mandi),Tripura,0.16186701153409278,0.8381329884659072
+Sacred or Forbidden Space,Khasi,Tripura,0.1625817751534635,0.8374182248465365
+Sacred or Forbidden Space,Rakhine,Santal,0.16282401451406103,0.837175985485939
+Sacred or Forbidden Space,Khasi,Marma,0.165289959381691,0.834710040618309
+Sacred or Forbidden Space,Marma,Oraon (Kurukh),0.16581605288742418,0.8341839471125758
+Sacred or Forbidden Space,Hajong,Oraon (Kurukh),0.1658789680072389,0.8341210319927611
+Sacred or Forbidden Space,Chakma,Mro,0.16767485269886562,0.8323251473011344
+Sacred or Forbidden Space,Garo (Mandi),Marma,0.17005171359882076,0.8299482864011792
+Sacred or Forbidden Space,Bengali,Hajong,0.17185750581462078,0.8281424941853792
+Sacred or Forbidden Space,Marma,Tripura,0.1722129616174437,0.8277870383825563
+Sacred or Forbidden Space,Bengali,Marma,0.1757254099170369,0.8242745900829631
+Sacred or Forbidden Space,Hajong,Marma,0.17664306011770692,0.8233569398822931
+Sacred or Forbidden Space,Bengali,Santal,0.1766492978405404,0.8233507021594596
+Sacred or Forbidden Space,Chakma,Tripura,0.17680426589470466,0.8231957341052953
+Sacred or Forbidden Space,Hajong,Mro,0.1780873144796381,0.8219126855203619
+Sacred or Forbidden Space,Chakma,Oraon (Kurukh),0.17885747635396754,0.8211425236460325
+Sacred or Forbidden Space,Mro,Rakhine,0.17887885569972062,0.8211211443002794
+Sacred or Forbidden Space,Manipuri (Meitei),Santal,0.17892851197131876,0.8210714880286812
+Sacred or Forbidden Space,Hajong,Tripura,0.17906465449222986,0.8209353455077701
+Sacred or Forbidden Space,Mro,Oraon (Kurukh),0.17945161433676082,0.8205483856632392
+Sacred or Forbidden Space,Chakma,Rakhine,0.17995791294406605,0.820042087055934
+Sacred or Forbidden Space,Santal,Tripura,0.1805976139270361,0.8194023860729639
+Sacred or Forbidden Space,Chakma,Khasi,0.18082390929695347,0.8191760907030465
+Sacred or Forbidden Space,Mro,Tripura,0.18265788348398404,0.817342116516016
+Sacred or Forbidden Space,Hajong,Manipuri (Meitei),0.18346138111666987,0.8165386188833301
+Sacred or Forbidden Space,Bengali,Mro,0.1841615156123625,0.8158384843876375
+Sacred or Forbidden Space,Manipuri (Meitei),Oraon (Kurukh),0.18435320587480186,0.8156467941251981
+Sacred or Forbidden Space,Garo (Mandi),Manipuri (Meitei),0.18484595632415124,0.8151540436758488
+Sacred or Forbidden Space,Khasi,Mro,0.18582210573809066,0.8141778942619093
+Sacred or Forbidden Space,Chakma,Hajong,0.1863506794879285,0.8136493205120715
+Sacred or Forbidden Space,Marma,Santal,0.18719094745854126,0.8128090525414587
+Sacred or Forbidden Space,Chakma,Marma,0.18762132247412933,0.8123786775258707
+Sacred or Forbidden Space,Bengali,Khasi,0.18810063591388537,0.8118993640861146
+Sacred or Forbidden Space,Manipuri (Meitei),Marma,0.1900275697949071,0.8099724302050929
+Sacred or Forbidden Space,Bengali,Chakma,0.19075727489280137,0.8092427251071986
+Sacred or Forbidden Space,Chakma,Manipuri (Meitei),0.1909881759413654,0.8090118240586346
+Sacred or Forbidden Space,Manipuri (Meitei),Mro,0.19131059253163007,0.8086894074683699
+Sacred or Forbidden Space,Khasi,Manipuri (Meitei),0.1920086477200288,0.8079913522799712
+Sacred or Forbidden Space,Chakma,Santal,0.19449180587112758,0.8055081941288724
+Sacred or Forbidden Space,Oraon (Kurukh),Rakhine,0.19552484687843086,0.8044751531215691
+Sacred or Forbidden Space,Rakhine,Tripura,0.20209229784606508,0.7979077021539349
+Sacred or Forbidden Space,Manipuri (Meitei),Tripura,0.20858885910824498,0.791411140891755
+Sacred or Forbidden Space,Mro,Santal,0.209128632461694,0.790871367538306
+Sacred or Forbidden Space,Bengali,Oraon (Kurukh),0.21389928726065677,0.7861007127393432
+Sacred or Forbidden Space,Bengali,Tripura,0.2260346985507664,0.7739653014492336
+Everyday Life Narrative,Marma,Mro,0.15862196738250067,0.8413780326174993
+Everyday Life Narrative,Chakma,Mro,0.15910688325884925,0.8408931167411507
+Everyday Life Narrative,Bengali,Oraon (Kurukh),0.16154486421990244,0.8384551357800976
+Everyday Life Narrative,Chakma,Oraon (Kurukh),0.16381308541450523,0.8361869145854948
+Everyday Life Narrative,Chakma,Manipuri (Meitei),0.16490867128794484,0.8350913287120552
+Everyday Life Narrative,Bengali,Chakma,0.16585617293822807,0.8341438270617719
+Everyday Life Narrative,Hajong,Oraon (Kurukh),0.1669906356447204,0.8330093643552796
+Everyday Life Narrative,Khasi,Manipuri (Meitei),0.1696591295161205,0.8303408704838795
+Everyday Life Narrative,Chakma,Hajong,0.17003133280276672,0.8299686671972333
+Everyday Life Narrative,Bengali,Hajong,0.17090608812537522,0.8290939118746248
+Everyday Life Narrative,Marma,Tripura,0.1722571923327363,0.8277428076672637
+Everyday Life Narrative,Marma,Oraon (Kurukh),0.17262425016825478,0.8273757498317452
+Everyday Life Narrative,Chakma,Garo (Mandi),0.1746042930089493,0.8253957069910507
+Everyday Life Narrative,Mro,Oraon (Kurukh),0.17812261844070476,0.8218773815592952
+Everyday Life Narrative,Khasi,Mro,0.1798024005810791,0.8201975994189209
+Everyday Life Narrative,Hajong,Marma,0.18025122282472605,0.819748777175274
+Everyday Life Narrative,Mro,Tripura,0.180254215916118,0.819745784083882
+Everyday Life Narrative,Chakma,Marma,0.18129432179590232,0.8187056782040977
+Everyday Life Narrative,Manipuri (Meitei),Rakhine,0.1838656567767103,0.8161343432232897
+Everyday Life Narrative,Hajong,Mro,0.1862125775187211,0.8137874224812789
+Everyday Life Narrative,Chakma,Khasi,0.18751332648469898,0.812486673515301
+Everyday Life Narrative,Chakma,Tripura,0.19259221218445088,0.8074077878155491
+Everyday Life Narrative,Garo (Mandi),Oraon (Kurukh),0.1941096546544684,0.8058903453455316
+Everyday Life Narrative,Oraon (Kurukh),Santal,0.1955130189128954,0.8044869810871046
+Everyday Life Narrative,Manipuri (Meitei),Oraon (Kurukh),0.1956307890950617,0.8043692109049383
+Everyday Life Narrative,Garo (Mandi),Khasi,0.1958795355813081,0.8041204644186919
+Everyday Life Narrative,Bengali,Mro,0.19630041759532468,0.8036995824046753
+Everyday Life Narrative,Hajong,Manipuri (Meitei),0.19768108528189332,0.8023189147181067
+Everyday Life Narrative,Manipuri (Meitei),Mro,0.19801460136546556,0.8019853986345344
+Everyday Life Narrative,Hajong,Rakhine,0.19810988249032457,0.8018901175096754
+Everyday Life Narrative,Garo (Mandi),Marma,0.20002374857797367,0.7999762514220263
+Everyday Life Narrative,Manipuri (Meitei),Marma,0.20101481736632598,0.798985182633674
+Everyday Life Narrative,Khasi,Oraon (Kurukh),0.20132365647959383,0.7986763435204062
+Everyday Life Narrative,Garo (Mandi),Mro,0.20297801338798582,0.7970219866120142
+Everyday Life Narrative,Manipuri (Meitei),Tripura,0.20653451899664965,0.7934654810033503
+Everyday Life Narrative,Khasi,Marma,0.20662900600194978,0.7933709939980502
+Everyday Life Narrative,Garo (Mandi),Manipuri (Meitei),0.20709830362823334,0.7929016963717667
+Everyday Life Narrative,Hajong,Khasi,0.20748759302703168,0.7925124069729683
+Everyday Life Narrative,Oraon (Kurukh),Tripura,0.20789487188829148,0.7921051281117085
+Everyday Life Narrative,Hajong,Tripura,0.20866413920881566,0.7913358607911843
+Everyday Life Narrative,Bengali,Marma,0.2094403345888297,0.7905596654111703
+Everyday Life Narrative,Bengali,Garo (Mandi),0.21045430781562657,0.7895456921843734
+Everyday Life Narrative,Bengali,Santal,0.211261991560592,0.788738008439408
+Everyday Life Narrative,Khasi,Santal,0.21244695579018902,0.787553044209811
+Everyday Life Narrative,Khasi,Tripura,0.21368159933314657,0.7863184006668534
+Everyday Life Narrative,Khasi,Rakhine,0.2148210210780812,0.7851789789219188
+Everyday Life Narrative,Chakma,Rakhine,0.21555731541141188,0.7844426845885881
+Everyday Life Narrative,Garo (Mandi),Hajong,0.21614201043653836,0.7838579895634616
+Everyday Life Narrative,Hajong,Santal,0.21741032295463336,0.7825896770453666
+Everyday Life Narrative,Bengali,Manipuri (Meitei),0.21817062991282132,0.7818293700871787
+Everyday Life Narrative,Bengali,Khasi,0.2189243323467488,0.7810756676532512
+Everyday Life Narrative,Chakma,Santal,0.22186907384208054,0.7781309261579195
+Everyday Life Narrative,Garo (Mandi),Santal,0.2223722609071026,0.7776277390928974
+Everyday Life Narrative,Santal,Tripura,0.22244788440016827,0.7775521155998317
+Everyday Life Narrative,Mro,Santal,0.22304037382688902,0.776959626173111
+Everyday Life Narrative,Manipuri (Meitei),Santal,0.22583664186253005,0.77416335813747
+Everyday Life Narrative,Mro,Rakhine,0.2271494923466637,0.7728505076533363
+Everyday Life Narrative,Marma,Santal,0.22734657191136343,0.7726534280886366
+Everyday Life Narrative,Marma,Rakhine,0.2289365078158233,0.7710634921841767
+Everyday Life Narrative,Oraon (Kurukh),Rakhine,0.23372013524286162,0.7662798647571384
+Everyday Life Narrative,Bengali,Tripura,0.23816257750976078,0.7618374224902392
+Everyday Life Narrative,Garo (Mandi),Tripura,0.24035452406638635,0.7596454759336136
+Everyday Life Narrative,Garo (Mandi),Rakhine,0.24065499937338497,0.759345000626615
+Everyday Life Narrative,Rakhine,Tripura,0.24646789417447246,0.7535321058255275
+Everyday Life Narrative,Rakhine,Santal,0.2718105012198907,0.7281894987801093
+Everyday Life Narrative,Bengali,Rakhine,0.2753620934753388,0.7246379065246612
+Wisdom of an Elder,Marma,Mro,0.139916794737715,0.860083205262285
+Wisdom of an Elder,Marma,Tripura,0.14609220275652635,0.8539077972434737
+Wisdom of an Elder,Garo (Mandi),Marma,0.15317252410708215,0.8468274758929178
+Wisdom of an Elder,Chakma,Marma,0.15992731409019467,0.8400726859098053
+Wisdom of an Elder,Garo (Mandi),Mro,0.1609073193585694,0.8390926806414306
+Wisdom of an Elder,Bengali,Tripura,0.1639528295660314,0.8360471704339686
+Wisdom of an Elder,Garo (Mandi),Oraon (Kurukh),0.16514671982587859,0.8348532801741214
+Wisdom of an Elder,Hajong,Marma,0.16653871709731738,0.8334612829026826
+Wisdom of an Elder,Garo (Mandi),Manipuri (Meitei),0.170400007549678,0.829599992450322
+Wisdom of an Elder,Chakma,Tripura,0.1707734538068585,0.8292265461931415
+Wisdom of an Elder,Garo (Mandi),Santal,0.1723878644915553,0.8276121355084447
+Wisdom of an Elder,Mro,Tripura,0.1736375877292683,0.8263624122707317
+Wisdom of an Elder,Garo (Mandi),Tripura,0.1745321328037185,0.8254678671962815
+Wisdom of an Elder,Chakma,Mro,0.17642687349226172,0.8235731265077383
+Wisdom of an Elder,Khasi,Marma,0.17865045541899138,0.8213495445810086
+Wisdom of an Elder,Oraon (Kurukh),Santal,0.1817773618342149,0.8182226381657851
+Wisdom of an Elder,Marma,Oraon (Kurukh),0.18181689909753185,0.8181831009024682
+Wisdom of an Elder,Chakma,Garo (Mandi),0.1847418977618731,0.8152581022381269
+Wisdom of an Elder,Marma,Santal,0.18505807283215836,0.8149419271678416
+Wisdom of an Elder,Manipuri (Meitei),Marma,0.18508594560950875,0.8149140543904912
+Wisdom of an Elder,Hajong,Tripura,0.18727000547281936,0.8127299945271806
+Wisdom of an Elder,Hajong,Santal,0.18952441592012625,0.8104755840798737
+Wisdom of an Elder,Santal,Tripura,0.19071322490403553,0.8092867750959645
+Wisdom of an Elder,Chakma,Hajong,0.1926314437966784,0.8073685562033216
+Wisdom of an Elder,Hajong,Khasi,0.19378021407772594,0.8062197859222741
+Wisdom of an Elder,Bengali,Chakma,0.19608519995831986,0.8039148000416801
+Wisdom of an Elder,Khasi,Manipuri (Meitei),0.19625098367150517,0.8037490163284948
+Wisdom of an Elder,Garo (Mandi),Hajong,0.1967666013454078,0.8032333986545922
+Wisdom of an Elder,Chakma,Oraon (Kurukh),0.19776172816156778,0.8022382718384322
+Wisdom of an Elder,Hajong,Mro,0.19796270506361413,0.8020372949363859
+Wisdom of an Elder,Khasi,Mro,0.19833729994460303,0.801662700055397
+Wisdom of an Elder,Hajong,Manipuri (Meitei),0.2009789013921225,0.7990210986078775
+Wisdom of an Elder,Garo (Mandi),Khasi,0.20144650307526646,0.7985534969247335
+Wisdom of an Elder,Bengali,Santal,0.20253654902810736,0.7974634509718926
+Wisdom of an Elder,Bengali,Marma,0.2028860940963949,0.7971139059036051
+Wisdom of an Elder,Hajong,Oraon (Kurukh),0.20424222090355493,0.7957577790964451
+Wisdom of an Elder,Chakma,Manipuri (Meitei),0.20454700215231236,0.7954529978476876
+Wisdom of an Elder,Bengali,Hajong,0.20587996626786087,0.7941200337321391
+Wisdom of an Elder,Bengali,Mro,0.20612032973832894,0.793879670261671
+Wisdom of an Elder,Manipuri (Meitei),Santal,0.20783102537213682,0.7921689746278632
+Wisdom of an Elder,Khasi,Tripura,0.20804989408316776,0.7919501059168322
+Wisdom of an Elder,Oraon (Kurukh),Tripura,0.20835754766752812,0.7916424523324719
+Wisdom of an Elder,Khasi,Santal,0.2091850926562998,0.7908149073437002
+Wisdom of an Elder,Bengali,Garo (Mandi),0.21158589023140928,0.7884141097685907
+Wisdom of an Elder,Manipuri (Meitei),Mro,0.21168197149113133,0.7883180285088687
+Wisdom of an Elder,Manipuri (Meitei),Oraon (Kurukh),0.2159825903181538,0.7840174096818462
+Wisdom of an Elder,Manipuri (Meitei),Tripura,0.2161908883515079,0.7838091116484921
+Wisdom of an Elder,Bengali,Khasi,0.2177724682641078,0.7822275317358922
+Wisdom of an Elder,Chakma,Santal,0.21886388851754246,0.7811361114824575
+Wisdom of an Elder,Bengali,Oraon (Kurukh),0.22047527870873262,0.7795247212912674
+Wisdom of an Elder,Mro,Santal,0.22107517805735766,0.7789248219426423
+Wisdom of an Elder,Bengali,Manipuri (Meitei),0.2236958500122862,0.7763041499877138
+Wisdom of an Elder,Mro,Oraon (Kurukh),0.2241220305221906,0.7758779694778094
+Wisdom of an Elder,Chakma,Khasi,0.22551855806764065,0.7744814419323593
+Wisdom of an Elder,Marma,Rakhine,0.22790238508296046,0.7720976149170395
+Wisdom of an Elder,Khasi,Oraon (Kurukh),0.23335689052957642,0.7666431094704236
+Wisdom of an Elder,Rakhine,Tripura,0.2353867242222919,0.7646132757777081
+Wisdom of an Elder,Mro,Rakhine,0.24417833145655232,0.7558216685434477
+Wisdom of an Elder,Garo (Mandi),Rakhine,0.2467103506143572,0.7532896493856428
+Wisdom of an Elder,Rakhine,Santal,0.2547648419983224,0.7452351580016776
+Wisdom of an Elder,Manipuri (Meitei),Rakhine,0.2561687929365217,0.7438312070634783
+Wisdom of an Elder,Chakma,Rakhine,0.2563361812603818,0.7436638187396182
+Wisdom of an Elder,Hajong,Rakhine,0.2620812577410371,0.7379187422589629
+Wisdom of an Elder,Bengali,Rakhine,0.2799449532449575,0.7200550467550425
+Wisdom of an Elder,Oraon (Kurukh),Rakhine,0.2898627044948714,0.7101372955051286
+Wisdom of an Elder,Khasi,Rakhine,0.29228544232445797,0.707714557675542
+Origin Story,Marma,Mro,0.11591419379633794,0.8840858062036621
+Origin Story,Chakma,Khasi,0.1527248176382079,0.8472751823617921
+Origin Story,Chakma,Mro,0.15744352776240167,0.8425564722375983
+Origin Story,Chakma,Marma,0.15745431719107184,0.8425456828089282
+Origin Story,Oraon (Kurukh),Santal,0.1673911130577369,0.8326088869422631
+Origin Story,Khasi,Marma,0.1693655366087944,0.8306344633912056
+Origin Story,Chakma,Garo (Mandi),0.17084744675860708,0.8291525532413929
+Origin Story,Garo (Mandi),Khasi,0.17127904370943225,0.8287209562905677
+Origin Story,Garo (Mandi),Mro,0.17236028627675704,0.827639713723243
+Origin Story,Garo (Mandi),Hajong,0.17239855986659036,0.8276014401334096
+Origin Story,Khasi,Mro,0.17242873679089543,0.8275712632091046
+Origin Story,Hajong,Khasi,0.17939901817057946,0.8206009818294205
+Origin Story,Chakma,Tripura,0.18019163446612518,0.8198083655338748
+Origin Story,Garo (Mandi),Marma,0.1803649022834144,0.8196350977165856
+Origin Story,Chakma,Hajong,0.18231148955046594,0.8176885104495341
+Origin Story,Hajong,Santal,0.18233633152106554,0.8176636684789345
+Origin Story,Bengali,Santal,0.19046117562775433,0.8095388243722457
+Origin Story,Chakma,Santal,0.19080286329754303,0.809197136702457
+Origin Story,Garo (Mandi),Santal,0.19706425999538957,0.8029357400046104
+Origin Story,Mro,Oraon (Kurukh),0.20444191428728442,0.7955580857127156
+Origin Story,Bengali,Manipuri (Meitei),0.2061831359962737,0.7938168640037263
+Origin Story,Bengali,Chakma,0.20672926198060426,0.7932707380193957
+Origin Story,Marma,Santal,0.20840811422500982,0.7915918857749902
+Origin Story,Mro,Tripura,0.2094776908489826,0.7905223091510174
+Origin Story,Marma,Tripura,0.21112884501388318,0.7888711549861168
+Origin Story,Hajong,Marma,0.2118428190914613,0.7881571809085387
+Origin Story,Bengali,Rakhine,0.2144218506938308,0.7855781493061692
+Origin Story,Hajong,Mro,0.2168680275546936,0.7831319724453064
+Origin Story,Manipuri (Meitei),Santal,0.21697776928495172,0.7830222307150483
+Origin Story,Manipuri (Meitei),Rakhine,0.21711099788674038,0.7828890021132596
+Origin Story,Khasi,Santal,0.21727918604020546,0.7827208139597945
+Origin Story,Mro,Santal,0.21850082305484575,0.7814991769451543
+Origin Story,Manipuri (Meitei),Marma,0.2197039738786558,0.7802960261213442
+Origin Story,Chakma,Manipuri (Meitei),0.22086083009697532,0.7791391699030247
+Origin Story,Chakma,Oraon (Kurukh),0.22164731092677437,0.7783526890732256
+Origin Story,Garo (Mandi),Oraon (Kurukh),0.22239146902375584,0.7776085309762442
+Origin Story,Bengali,Tripura,0.22350761643675965,0.7764923835632404
+Origin Story,Bengali,Garo (Mandi),0.22372393930985113,0.7762760606901489
+Origin Story,Bengali,Hajong,0.2244691198789993,0.7755308801210007
+Origin Story,Khasi,Oraon (Kurukh),0.22634481722060806,0.7736551827793919
+Origin Story,Manipuri (Meitei),Mro,0.2280087428441172,0.7719912571558828
+Origin Story,Santal,Tripura,0.22841176424111231,0.7715882357588877
+Origin Story,Garo (Mandi),Manipuri (Meitei),0.22863419988568712,0.7713658001143129
+Origin Story,Khasi,Manipuri (Meitei),0.23027247347579338,0.7697275265242066
+Origin Story,Garo (Mandi),Rakhine,0.23118648270960074,0.7688135172903993
+Origin Story,Marma,Oraon (Kurukh),0.2325024198080834,0.7674975801919166
+Origin Story,Hajong,Manipuri (Meitei),0.23268323554705972,0.7673167644529403
+Origin Story,Bengali,Khasi,0.23414759929756568,0.7658524007024343
+Origin Story,Khasi,Tripura,0.23683350289438576,0.7631664971056142
+Origin Story,Manipuri (Meitei),Tripura,0.2370024556325867,0.7629975443674133
+Origin Story,Bengali,Mro,0.23730038584789737,0.7626996141521026
+Origin Story,Chakma,Rakhine,0.24102584480830935,0.7589741551916906
+Origin Story,Rakhine,Santal,0.24117603844119984,0.7588239615588002
+Origin Story,Garo (Mandi),Tripura,0.24118330277492595,0.758816697225074
+Origin Story,Hajong,Rakhine,0.24332523068230993,0.7566747693176901
+Origin Story,Bengali,Oraon (Kurukh),0.24381266851890615,0.7561873314810938
+Origin Story,Bengali,Marma,0.24462711752113908,0.7553728824788609
+Origin Story,Marma,Rakhine,0.24679732347847028,0.7532026765215297
+Origin Story,Hajong,Oraon (Kurukh),0.24720277123861645,0.7527972287613836
+Origin Story,Khasi,Rakhine,0.24760434678186105,0.752395653218139
+Origin Story,Mro,Rakhine,0.24969445277938396,0.750305547220616
+Origin Story,Rakhine,Tripura,0.2523487795446375,0.7476512204553625
+Origin Story,Oraon (Kurukh),Tripura,0.2546044042751674,0.7453955957248326
+Origin Story,Hajong,Tripura,0.25799320307694396,0.742006796923056
+Origin Story,Oraon (Kurukh),Rakhine,0.2598675559778174,0.7401324440221826
+Origin Story,Manipuri (Meitei),Oraon (Kurukh),0.2702942913260348,0.7297057086739652
+Moral Transgression and Consequence,Marma,Mro,0.134645641454067,0.865354358545933
+Moral Transgression and Consequence,Chakma,Santal,0.1408257821386777,0.8591742178613223
+Moral Transgression and Consequence,Garo (Mandi),Marma,0.14117871745610766,0.8588212825438923
+Moral Transgression and Consequence,Chakma,Marma,0.14135234375091021,0.8586476562490898
+Moral Transgression and Consequence,Mro,Tripura,0.14175702038300741,0.8582429796169926
+Moral Transgression and Consequence,Chakma,Oraon (Kurukh),0.1421042397391632,0.8578957602608368
+Moral Transgression and Consequence,Oraon (Kurukh),Santal,0.14763217106244741,0.8523678289375526
+Moral Transgression and Consequence,Khasi,Mro,0.14823992722656343,0.8517600727734366
+Moral Transgression and Consequence,Chakma,Rakhine,0.1493093903299738,0.8506906096700262
+Moral Transgression and Consequence,Garo (Mandi),Mro,0.1506370556002281,0.8493629443997719
+Moral Transgression and Consequence,Marma,Rakhine,0.15110339914057724,0.8488966008594228
+Moral Transgression and Consequence,Khasi,Tripura,0.15163365001190798,0.848366349988092
+Moral Transgression and Consequence,Marma,Tripura,0.15378241217948407,0.8462175878205159
+Moral Transgression and Consequence,Marma,Santal,0.15614567283122271,0.8438543271687773
+Moral Transgression and Consequence,Hajong,Marma,0.1595019021527797,0.8404980978472203
+Moral Transgression and Consequence,Hajong,Tripura,0.16120049399980485,0.8387995060001951
+Moral Transgression and Consequence,Chakma,Garo (Mandi),0.1613432536876941,0.8386567463123059
+Moral Transgression and Consequence,Chakma,Khasi,0.16430349355316787,0.8356965064468321
+Moral Transgression and Consequence,Chakma,Mro,0.16560401175997175,0.8343959882400283
+Moral Transgression and Consequence,Hajong,Santal,0.16881919059338513,0.8311808094066149
+Moral Transgression and Consequence,Chakma,Tripura,0.16901614865681447,0.8309838513431855
+Moral Transgression and Consequence,Rakhine,Santal,0.1695577910105649,0.8304422089894351
+Moral Transgression and Consequence,Marma,Oraon (Kurukh),0.1720369218796196,0.8279630781203804
+Moral Transgression and Consequence,Bengali,Chakma,0.17411665553545141,0.8258833444645486
+Moral Transgression and Consequence,Chakma,Hajong,0.17413903033100286,0.8258609696689971
+Moral Transgression and Consequence,Garo (Mandi),Santal,0.17424880457520553,0.8257511954247945
+Moral Transgression and Consequence,Hajong,Mro,0.17429276653481263,0.8257072334651874
+Moral Transgression and Consequence,Oraon (Kurukh),Rakhine,0.17574391141206136,0.8242560885879386
+Moral Transgression and Consequence,Santal,Tripura,0.17925479104991993,0.8207452089500801
+Moral Transgression and Consequence,Khasi,Marma,0.17941252613385827,0.8205874738661417
+Moral Transgression and Consequence,Bengali,Oraon (Kurukh),0.18103698900162923,0.8189630109983708
+Moral Transgression and Consequence,Bengali,Santal,0.18162166548821623,0.8183783345117838
+Moral Transgression and Consequence,Hajong,Khasi,0.18193433980544915,0.8180656601945508
+Moral Transgression and Consequence,Garo (Mandi),Tripura,0.18353660088567558,0.8164633991143244
+Moral Transgression and Consequence,Bengali,Rakhine,0.1836425966999129,0.8163574033000871
+Moral Transgression and Consequence,Bengali,Marma,0.18557846847398796,0.814421531526012
+Moral Transgression and Consequence,Mro,Rakhine,0.18627667596040365,0.8137233240395964
+Moral Transgression and Consequence,Garo (Mandi),Khasi,0.18666052451121717,0.8133394754887828
+Moral Transgression and Consequence,Bengali,Tripura,0.1868961070888312,0.8131038929111688
+Moral Transgression and Consequence,Oraon (Kurukh),Tripura,0.18890660487248345,0.8110933951275165
+Moral Transgression and Consequence,Khasi,Manipuri (Meitei),0.18939013882809363,0.8106098611719064
+Moral Transgression and Consequence,Mro,Santal,0.19026858685552095,0.809731413144479
+Moral Transgression and Consequence,Hajong,Oraon (Kurukh),0.19152913704556007,0.8084708629544399
+Moral Transgression and Consequence,Manipuri (Meitei),Rakhine,0.19208297802981866,0.8079170219701813
+Moral Transgression and Consequence,Khasi,Santal,0.1923074300317844,0.8076925699682156
+Moral Transgression and Consequence,Bengali,Khasi,0.19415976217660558,0.8058402378233944
+Moral Transgression and Consequence,Mro,Oraon (Kurukh),0.1956563402347048,0.8043436597652952
+Moral Transgression and Consequence,Garo (Mandi),Rakhine,0.19566257833422684,0.8043374216657732
+Moral Transgression and Consequence,Hajong,Rakhine,0.19570993582281482,0.8042900641771852
+Moral Transgression and Consequence,Bengali,Hajong,0.19665264472361632,0.8033473552763837
+Moral Transgression and Consequence,Manipuri (Meitei),Tripura,0.19756155052691426,0.8024384494730857
+Moral Transgression and Consequence,Manipuri (Meitei),Santal,0.20081002361773703,0.799189976382263
+Moral Transgression and Consequence,Khasi,Rakhine,0.20087844975057811,0.7991215502494219
+Moral Transgression and Consequence,Hajong,Manipuri (Meitei),0.202852250078689,0.797147749921311
+Moral Transgression and Consequence,Garo (Mandi),Hajong,0.20302120388864842,0.7969787961113516
+Moral Transgression and Consequence,Manipuri (Meitei),Marma,0.20341595407992108,0.7965840459200789
+Moral Transgression and Consequence,Chakma,Manipuri (Meitei),0.20480184604905038,0.7951981539509496
+Moral Transgression and Consequence,Khasi,Oraon (Kurukh),0.20725918570477675,0.7927408142952233
+Moral Transgression and Consequence,Garo (Mandi),Oraon (Kurukh),0.2097239117681975,0.7902760882318025
+Moral Transgression and Consequence,Bengali,Mro,0.2101685107471517,0.7898314892528483
+Moral Transgression and Consequence,Rakhine,Tripura,0.2113658397276803,0.7886341602723197
+Moral Transgression and Consequence,Manipuri (Meitei),Mro,0.21402635608740794,0.7859736439125921
+Moral Transgression and Consequence,Garo (Mandi),Manipuri (Meitei),0.21487916017091335,0.7851208398290866
+Moral Transgression and Consequence,Bengali,Manipuri (Meitei),0.21865576588841218,0.7813442341115878
+Moral Transgression and Consequence,Manipuri (Meitei),Oraon (Kurukh),0.22149670002241684,0.7785032999775832
+Moral Transgression and Consequence,Bengali,Garo (Mandi),0.23145437381151568,0.7685456261884843
+Human–Nature Relationship,Marma,Mro,0.10322883743397604,0.896771162566024
+Human–Nature Relationship,Chakma,Marma,0.1069602585354158,0.8930397414645842
+Human–Nature Relationship,Manipuri (Meitei),Oraon (Kurukh),0.11431703642435054,0.8856829635756495
+Human–Nature Relationship,Chakma,Garo (Mandi),0.11497475858059514,0.8850252414194049
+Human–Nature Relationship,Garo (Mandi),Santal,0.11655126717772823,0.8834487328222718
+Human–Nature Relationship,Marma,Rakhine,0.1169166896196363,0.8830833103803637
+Human–Nature Relationship,Marma,Oraon (Kurukh),0.11775969228967198,0.882240307710328
+Human–Nature Relationship,Khasi,Marma,0.11941782288463265,0.8805821771153673
+Human–Nature Relationship,Mro,Oraon (Kurukh),0.11979826262246385,0.8802017373775362
+Human–Nature Relationship,Chakma,Oraon (Kurukh),0.12199590395578974,0.8780040960442103
+Human–Nature Relationship,Hajong,Rakhine,0.12406387521104068,0.8759361247889593
+Human–Nature Relationship,Chakma,Tripura,0.12464232488375004,0.87535767511625
+Human–Nature Relationship,Manipuri (Meitei),Rakhine,0.12468358072010599,0.875316419279894
+Human–Nature Relationship,Marma,Santal,0.12515325789566,0.87484674210434
+Human–Nature Relationship,Oraon (Kurukh),Rakhine,0.12623942740126615,0.8737605725987339
+Human–Nature Relationship,Bengali,Santal,0.1265128531184554,0.8734871468815446
+Human–Nature Relationship,Hajong,Khasi,0.12660505193129057,0.8733949480687094
+Human–Nature Relationship,Garo (Mandi),Khasi,0.12662384764708645,0.8733761523529135
+Human–Nature Relationship,Chakma,Santal,0.12675697313989354,0.8732430268601065
+Human–Nature Relationship,Bengali,Oraon (Kurukh),0.12683249969144283,0.8731675003085572
+Human–Nature Relationship,Mro,Rakhine,0.1273887883758934,0.8726112116241066
+Human–Nature Relationship,Bengali,Rakhine,0.1275516558206391,0.8724483441793609
+Human–Nature Relationship,Garo (Mandi),Oraon (Kurukh),0.1281417125737715,0.8718582874262285
+Human–Nature Relationship,Chakma,Rakhine,0.12819669015503599,0.871803309844964
+Human–Nature Relationship,Bengali,Chakma,0.12822641271814017,0.8717735872818598
+Human–Nature Relationship,Chakma,Mro,0.12835416333548966,0.8716458366645103
+Human–Nature Relationship,Manipuri (Meitei),Marma,0.12907606174260788,0.8709239382573921
+Human–Nature Relationship,Hajong,Mro,0.13099282298492843,0.8690071770150716
+Human–Nature Relationship,Hajong,Oraon (Kurukh),0.13184180218847763,0.8681581978115224
+Human–Nature Relationship,Khasi,Oraon (Kurukh),0.1321122830915915,0.8678877169084085
+Human–Nature Relationship,Garo (Mandi),Rakhine,0.1328021162909372,0.8671978837090628
+Human–Nature Relationship,Bengali,Marma,0.1336056236550911,0.8663943763449089
+Human–Nature Relationship,Chakma,Khasi,0.13471974598316738,0.8652802540168326
+Human–Nature Relationship,Chakma,Hajong,0.1360573601708659,0.8639426398291341
+Human–Nature Relationship,Oraon (Kurukh),Santal,0.13640902462217253,0.8635909753778275
+Human–Nature Relationship,Marma,Tripura,0.13641082703245067,0.8635891729675493
+Human–Nature Relationship,Garo (Mandi),Marma,0.13677469810201914,0.8632253018979809
+Human–Nature Relationship,Khasi,Santal,0.13786749453812874,0.8621325054618713
+Human–Nature Relationship,Khasi,Mro,0.13801925773178414,0.8619807422682159
+Human–Nature Relationship,Khasi,Tripura,0.14006178299193717,0.8599382170080628
+Human–Nature Relationship,Khasi,Rakhine,0.14076672991164263,0.8592332700883574
+Human–Nature Relationship,Garo (Mandi),Mro,0.1408298644559457,0.8591701355440543
+Human–Nature Relationship,Hajong,Marma,0.1421274962080803,0.8578725037919197
+Human–Nature Relationship,Bengali,Manipuri (Meitei),0.14213101096716896,0.857868989032831
+Human–Nature Relationship,Garo (Mandi),Manipuri (Meitei),0.1426987818620824,0.8573012181379176
+Human–Nature Relationship,Garo (Mandi),Hajong,0.14295652368682155,0.8570434763131785
+Human–Nature Relationship,Oraon (Kurukh),Tripura,0.14351051702053852,0.8564894829794615
+Human–Nature Relationship,Hajong,Manipuri (Meitei),0.14366234072973627,0.8563376592702637
+Human–Nature Relationship,Manipuri (Meitei),Mro,0.14458127322191716,0.8554187267780828
+Human–Nature Relationship,Hajong,Santal,0.14476103101326987,0.8552389689867301
+Human–Nature Relationship,Chakma,Manipuri (Meitei),0.14568705779353064,0.8543129422064694
+Human–Nature Relationship,Bengali,Garo (Mandi),0.14601783310632444,0.8539821668936756
+Human–Nature Relationship,Khasi,Manipuri (Meitei),0.14697756448703903,0.853022435512961
+Human–Nature Relationship,Garo (Mandi),Tripura,0.14817491125860283,0.8518250887413972
+Human–Nature Relationship,Mro,Tripura,0.15019929428760836,0.8498007057123916
+Human–Nature Relationship,Mro,Santal,0.15320612645071952,0.8467938735492805
+Human–Nature Relationship,Manipuri (Meitei),Tripura,0.153318466278071,0.846681533721929
+Human–Nature Relationship,Rakhine,Santal,0.15340071137629063,0.8465992886237094
+Human–Nature Relationship,Bengali,Hajong,0.1593778255845011,0.8406221744154989
+Human–Nature Relationship,Manipuri (Meitei),Santal,0.1609647146102695,0.8390352853897305
+Human–Nature Relationship,Hajong,Tripura,0.16112433798498615,0.8388756620150138
+Human–Nature Relationship,Bengali,Khasi,0.16288131976025622,0.8371186802397438
+Human–Nature Relationship,Santal,Tripura,0.16417743672230267,0.8358225632776973
+Human–Nature Relationship,Bengali,Mro,0.1645407411017209,0.8354592588982791
+Human–Nature Relationship,Rakhine,Tripura,0.1652626103096656,0.8347373896903344
+Human–Nature Relationship,Bengali,Tripura,0.1858940756106071,0.8141059243893929
+Rite of Passage,Chakma,Garo (Mandi),0.14317677816536278,0.8568232218346372
+Rite of Passage,Bengali,Chakma,0.14927122242047697,0.850728777579523
+Rite of Passage,Chakma,Marma,0.15140793487392923,0.8485920651260708
+Rite of Passage,Garo (Mandi),Khasi,0.16676985274450318,0.8332301472554968
+Rite of Passage,Marma,Tripura,0.16724998473627917,0.8327500152637208
+Rite of Passage,Chakma,Tripura,0.1680295745670095,0.8319704254329905
+Rite of Passage,Bengali,Rakhine,0.1712962949193858,0.8287037050806142
+Rite of Passage,Bengali,Garo (Mandi),0.17261107373758922,0.8273889262624108
+Rite of Passage,Bengali,Marma,0.17504687697468635,0.8249531230253137
+Rite of Passage,Chakma,Santal,0.1805773181811774,0.8194226818188226
+Rite of Passage,Bengali,Tripura,0.18095091677368935,0.8190490832263106
+Rite of Passage,Garo (Mandi),Tripura,0.1813546866447736,0.8186453133552264
+Rite of Passage,Chakma,Khasi,0.18183270537013185,0.8181672946298681
+Rite of Passage,Garo (Mandi),Mro,0.18397807519967468,0.8160219248003253
+Rite of Passage,Chakma,Mro,0.18489330002730864,0.8151066999726914
+Rite of Passage,Garo (Mandi),Marma,0.19033982787424408,0.8096601721257559
+Rite of Passage,Bengali,Hajong,0.19053319919876666,0.8094668008012333
+Rite of Passage,Garo (Mandi),Santal,0.19058829624869755,0.8094117037513024
+Rite of Passage,Chakma,Hajong,0.1920484281393382,0.8079515718606618
+Rite of Passage,Oraon (Kurukh),Santal,0.19345469910841273,0.8065453008915873
+Rite of Passage,Bengali,Khasi,0.19368301010159272,0.8063169898984073
+Rite of Passage,Hajong,Marma,0.1987189928907055,0.8012810071092945
+Rite of Passage,Khasi,Marma,0.19956610866842017,0.8004338913315798
+Rite of Passage,Garo (Mandi),Oraon (Kurukh),0.1996343548553351,0.8003656451446649
+Rite of Passage,Hajong,Santal,0.2010188616419155,0.7989811383580845
+Rite of Passage,Khasi,Manipuri (Meitei),0.20200917577439814,0.7979908242256019
+Rite of Passage,Chakma,Oraon (Kurukh),0.202270518208005,0.797729481791995
+Rite of Passage,Rakhine,Tripura,0.20235071501632873,0.7976492849836713
+Rite of Passage,Mro,Santal,0.20235854693994648,0.7976414530600535
+Rite of Passage,Mro,Oraon (Kurukh),0.20717145555208394,0.7928285444479161
+Rite of Passage,Chakma,Manipuri (Meitei),0.20726073908581222,0.7927392609141878
+Rite of Passage,Khasi,Tripura,0.20781144416851438,0.7921885558314856
+Rite of Passage,Marma,Mro,0.20840414903845195,0.791595850961548
+Rite of Passage,Marma,Rakhine,0.21174340479986697,0.788256595200133
+Rite of Passage,Hajong,Khasi,0.21235316618047717,0.7876468338195228
+Rite of Passage,Garo (Mandi),Rakhine,0.21275103814063456,0.7872489618593654
+Rite of Passage,Hajong,Mro,0.2130315476397563,0.7869684523602437
+Rite of Passage,Manipuri (Meitei),Marma,0.21321582242088322,0.7867841775791168
+Rite of Passage,Marma,Santal,0.21451426796676065,0.7854857320332393
+Rite of Passage,Chakma,Rakhine,0.21482129193433785,0.7851787080656621
+Rite of Passage,Khasi,Mro,0.21544499201529133,0.7845550079847087
+Rite of Passage,Hajong,Oraon (Kurukh),0.21814530576421642,0.7818546942357836
+Rite of Passage,Manipuri (Meitei),Mro,0.2192716513133961,0.7807283486866039
+Rite of Passage,Manipuri (Meitei),Tripura,0.21995723670591472,0.7800427632940853
+Rite of Passage,Santal,Tripura,0.2219795270636168,0.7780204729363832
+Rite of Passage,Hajong,Manipuri (Meitei),0.22272368785187713,0.7772763121481229
+Rite of Passage,Garo (Mandi),Manipuri (Meitei),0.22364982721116577,0.7763501727888342
+Rite of Passage,Garo (Mandi),Hajong,0.22429643473760563,0.7757035652623944
+Rite of Passage,Bengali,Manipuri (Meitei),0.22564751814240924,0.7743524818575908
+Rite of Passage,Marma,Oraon (Kurukh),0.22684239782011129,0.7731576021798887
+Rite of Passage,Hajong,Tripura,0.229866850551129,0.770133149448871
+Rite of Passage,Bengali,Santal,0.22995864674136202,0.770041353258638
+Rite of Passage,Khasi,Santal,0.2332395800751178,0.7667604199248822
+Rite of Passage,Rakhine,Santal,0.23406805319009427,0.7659319468099057
+Rite of Passage,Hajong,Rakhine,0.23489055357057564,0.7651094464294244
+Rite of Passage,Khasi,Rakhine,0.23776302683265216,0.7622369731673478
+Rite of Passage,Bengali,Mro,0.23787747622987931,0.7621225237701207
+Rite of Passage,Oraon (Kurukh),Tripura,0.24431276841878458,0.7556872315812154
+Rite of Passage,Mro,Tripura,0.24783108301350099,0.752168916986499
+Rite of Passage,Manipuri (Meitei),Rakhine,0.2483614258523993,0.7516385741476007
+Rite of Passage,Bengali,Oraon (Kurukh),0.2508741765468103,0.7491258234531897
+Rite of Passage,Manipuri (Meitei),Santal,0.2523082481998793,0.7476917518001207
+Rite of Passage,Manipuri (Meitei),Oraon (Kurukh),0.25691848623162206,0.7430815137683779
+Rite of Passage,Oraon (Kurukh),Rakhine,0.25857060053661574,0.7414293994633843
+Rite of Passage,Khasi,Oraon (Kurukh),0.2601221018313904,0.7398778981686096
+Rite of Passage,Mro,Rakhine,0.2662629512934951,0.7337370487065049

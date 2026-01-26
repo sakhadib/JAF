@@ -1,0 +1,2 @@
+research_question,main_question,n_samples,average_r2_all,max_r2_achieved,best_predicted_metric,best_metric_r2,worst_predicted_metric,worst_metric_r2,n_significant_correlations,total_correlations,pct_significant,embeddings_predictive,interpretation
+RQ11: Automated Score Prediction (AI Judge),Can embeddings predict human evaluation scores?,1,-0.09449994953506029,0.15253897712462194,Contextual & Temporal Appropriateness,0.15253897712462194,Cultural Accuracy & Authenticity,0.08789739983544398,4343,12288,35.34342447916667,True,Embeddings capture some quality signals

@@ -1,0 +1,2 @@
+best_overall_embedding,best_overall_embedding_short,best_overall_r2,best_overall_dimension,recommendation,reasoning,best_for_cultural,best_for_contextual,best_for_narrative,best_for_linguistic,significantly_better
+mistralai_mistral-embed-2312,Mistral,0.20322053316239672,1024,Use Mistral for automated cultural evaluation,Achieves highest mean R² of 0.2032 across all metrics,Mistral,Mistral,OpenAI-Small,Mistral,False

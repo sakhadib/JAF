@@ -1,0 +1,3 @@
+region,n_cultures_in_region,mean_intra_region_distance,std_intra_region_distance,mean_inter_region_distance,std_inter_region_distance,intra_vs_inter_ratio,t_statistic,p_value,significant_difference,regional_clustering
+Chittagong Hill Tracts,3,0.047727220949138026,0.006615912181126466,0.06279726466574498,0.01453500765951099,0.7600206984042818,-1.7152845992956485,0.09734129399978136,False,True
+Sylhet (border areas),2,0.07833730078036771,0.0,0.06975652221200054,0.009412930648812802,1.1230104124498768,0.8670996063334037,0.3967064619235506,False,False

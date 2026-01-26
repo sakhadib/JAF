@@ -1,0 +1,6 @@
+metric,metric_short,cosine_correlation,cosine_p_value,cosine_significant,euclidean_correlation,euclidean_p_value,euclidean_significant
+Cultural Accuracy & Authenticity,cultural_accuracy,-0.10494985314044278,0.010160198471576584,True,-0.11620217007229357,0.0044036515008134556,True
+Contextual & Temporal Appropriateness,contextual_appropriateness,-0.1259364561459748,0.0020144491039356797,True,-0.1362277833072744,0.0008295709875477611,True
+Narrative & Symbolic Coherence,narrative_coherence,-0.13537342646465222,0.0008951087808216446,True,-0.1476418546887833,0.0002880704475798841,True
+Linguistic & Expressive Appropriateness (Bangla),linguistic_fluency,-0.16874126064387665,3.3098298688313226e-05,True,-0.18193369829604988,7.43359378547698e-06,True
+Average Score,average_score,-0.16259306275638022,6.396105873008019e-05,True,-0.17688435422844215,1.33376450564767e-05,True

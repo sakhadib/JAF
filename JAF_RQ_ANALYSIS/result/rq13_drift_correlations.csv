@@ -1,0 +1,6 @@
+metric,metric_short,pearson_r,pearson_p_value,pearson_significant,spearman_rho,spearman_p_value,spearman_significant
+Cultural Accuracy & Authenticity,cultural_accuracy,0.06084996418975422,0.1368725452055267,False,0.06843266110385403,0.0942648885542375,False
+Contextual & Temporal Appropriateness,contextual_appropriateness,0.10612798804777857,0.009340162621677396,True,0.11769609159876804,0.0039195500847063304,True
+Narrative & Symbolic Coherence,narrative_coherence,0.06968742363792094,0.08836750306248689,False,0.09590227507680472,0.01889132517507216,True
+Linguistic & Expressive Appropriateness (Bangla),linguistic_fluency,0.08904000546584116,0.029332782366491107,True,0.11386047505363794,0.005271900239702867,True
+Average Score,average_score,0.09958361504183162,0.014759412480685186,True,0.1029214361499216,0.011722726565053194,True

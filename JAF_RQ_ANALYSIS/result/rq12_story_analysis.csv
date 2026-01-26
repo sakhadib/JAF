@@ -1,0 +1,600 @@
+model,culture,story_type,region,average_score,cosine_distance_from_ideal,euclidean_distance_from_ideal,isolation_forest_outlier,isolation_forest_score,lof_outlier,lof_score,distance_quartile,Cultural Accuracy & Authenticity,Contextual & Temporal Appropriateness,Narrative & Symbolic Coherence,Linguistic & Expressive Appropriateness (Bangla)
+google_gemini-3-flash-preview,Bengali,Everyday Life Narrative,Bangladesh-Scoped,2.75,0.503158017445007,0.931646164267942,True,-0.4521015136288582,False,-1.0623730616747118,Q4 (Farthest),2,4,3,2
+google_gemini-3-flash-preview,Bengali,Origin Story,Bangladesh-Scoped,4.5,0.17749419606160088,0.5689094798210872,False,-0.4388160024575049,False,-1.0259299145329832,Q1 (Closest),5,4,5,4
+google_gemini-3-flash-preview,Bengali,Human–Nature Relationship,Bangladesh-Scoped,5.0,0.15276740067296568,0.5313475559914544,False,-0.4284670081096348,False,-1.00007059037116,Q1 (Closest),5,5,5,5
+google_gemini-3-flash-preview,Bengali,Moral Transgression and Consequence,Bangladesh-Scoped,4.75,0.16267505871897203,0.5467079697947872,False,-0.4241515730533081,False,-1.018830056079439,Q1 (Closest),5,5,4,5
+google_gemini-3-flash-preview,Bengali,Wisdom of an Elder,Bangladesh-Scoped,3.5,0.4893351280369769,0.9191633381400927,False,-0.44238528615685674,True,-1.1282752828479343,Q3,4,4,3,3
+google_gemini-3-flash-preview,Bengali,Community Crisis,Bangladesh-Scoped,3.5,0.3087332198030571,0.7368905663254576,False,-0.4152263093396202,False,-1.0176463082704525,Q1 (Closest),4,4,3,3
+google_gemini-3-flash-preview,Bengali,Rite of Passage,Bangladesh-Scoped,2.25,0.5193694053311706,0.9460760451185717,False,-0.4419747500303484,True,-1.088571483623523,Q4 (Farthest),2,3,3,1
+google_gemini-3-flash-preview,Bengali,Trickster or Clever Figure,Bangladesh-Scoped,3.5,0.375063346925148,0.8086224475285382,False,-0.41661954139015006,False,-0.9997334608455217,Q1 (Closest),5,3,4,2
+google_gemini-3-flash-preview,Bengali,Sacred or Forbidden Space,Bangladesh-Scoped,0.75,0.28825698501917363,0.7132911240454314,False,-0.41297031045504173,False,-0.9983684881910084,Q1 (Closest),1,0,1,1
+google_gemini-3-flash-preview,Bengali,Change and Continuity,Bangladesh-Scoped,2.0,0.2748615974857329,0.6974206044000552,False,-0.4289782126532516,False,-1.0029610231384767,Q1 (Closest),3,3,1,1
+mistralai_mistral-large-2512,Bengali,Origin Story,Bangladesh-Scoped,1.5,0.3779739050770303,0.8116248388719276,False,-0.4347790559544418,True,-1.0799798381642922,Q1 (Closest),2,1,2,1
+mistralai_mistral-large-2512,Bengali,Trickster or Clever Figure,Bangladesh-Scoped,1.5,0.4934078489668533,0.9228587773938158,False,-0.4490247228021991,False,-0.9979777322542972,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Bengali,Human–Nature Relationship,Bangladesh-Scoped,1.75,0.34553859813335386,0.7775109472438295,False,-0.4240917656601052,False,-1.0067374590276874,Q1 (Closest),1,2,2,2
+mistralai_mistral-large-2512,Bengali,Moral Transgression and Consequence,Bangladesh-Scoped,1.5,0.48197775272980603,0.912449679607968,False,-0.4391876658708049,False,-1.0425028815093729,Q3,2,2,1,1
+mistralai_mistral-large-2512,Bengali,Wisdom of an Elder,Bangladesh-Scoped,1.75,0.5611394240282241,0.9822796256647844,False,-0.4457384221736589,True,-1.070880502377336,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Bengali,Community Crisis,Bangladesh-Scoped,1.25,0.4494012883802241,0.8821093310844658,False,-0.42023916883410833,False,-1.044251132367873,Q3,1,2,2,0
+mistralai_mistral-large-2512,Bengali,Rite of Passage,Bangladesh-Scoped,1.5,0.5736969628555377,0.992905600961411,True,-0.45904295375087956,False,-1.044252972376696,Q4 (Farthest),2,1,2,1
+mistralai_mistral-large-2512,Bengali,Sacred or Forbidden Space,Bangladesh-Scoped,1.75,0.4484093215708985,0.8811690588142648,False,-0.42908691300730123,False,-1.0660726122854542,Q3,2,2,2,1
+mistralai_mistral-large-2512,Bengali,Everyday Life Narrative,Bangladesh-Scoped,1.75,0.46564146624194813,0.8973629372565548,False,-0.4468280558184946,False,-1.0294028589552624,Q3,3,1,2,1
+mistralai_mistral-large-2512,Bengali,Change and Continuity,Bangladesh-Scoped,0.75,0.5340243173894088,0.9589336458220449,True,-0.4578393213809321,True,-1.128884791141264,Q4 (Farthest),1,1,1,0
+openai_gpt-5-mini,Bengali,Origin Story,Bangladesh-Scoped,1.5,0.3968596154295517,0.8308429532271348,False,-0.426503155327723,False,-1.0199355930613283,Q1 (Closest),2,2,1,1
+openai_gpt-5-mini,Bengali,Human–Nature Relationship,Bangladesh-Scoped,1.75,0.36341243615744356,0.7964905415964055,False,-0.4316632709019778,False,-1.0083766823885396,Q1 (Closest),3,2,1,1
+openai_gpt-5-mini,Bengali,Moral Transgression and Consequence,Bangladesh-Scoped,1.75,0.3875496187289229,0.8214252915054988,False,-0.41873671219686615,False,-1.021163255658177,Q1 (Closest),2,2,2,1
+openai_gpt-5-mini,Bengali,Wisdom of an Elder,Bangladesh-Scoped,2.0,0.45160350024669604,0.8841931632071117,False,-0.43537709219863185,False,-1.040308354080414,Q3,3,2,2,1
+openai_gpt-5-mini,Bengali,Community Crisis,Bangladesh-Scoped,2.0,0.34353508412017897,0.77535453581329,False,-0.3964255528766766,False,-1.0026950037439195,Q1 (Closest),3,2,2,1
+openai_gpt-5-mini,Bengali,Rite of Passage,Bangladesh-Scoped,1.75,0.5968586921347844,1.0122121998485039,False,-0.424250381224687,False,-1.0119703587006592,Q4 (Farthest),2,2,2,1
+openai_gpt-5-mini,Bengali,Trickster or Clever Figure,Bangladesh-Scoped,0.25,0.4574293099837201,0.8896823300850255,False,-0.4317950867800238,False,-1.000718509672549,Q3,1,0,0,0
+openai_gpt-5-mini,Bengali,Sacred or Forbidden Space,Bangladesh-Scoped,1.5,0.41039986908730375,0.8443523519312002,False,-0.4204088271611815,False,-1.0086054688017654,Q2,2,2,1,1
+openai_gpt-5-mini,Bengali,Everyday Life Narrative,Bangladesh-Scoped,1.25,0.45486292588729105,0.8872684246102732,False,-0.41466307855594514,False,-1.038681829816943,Q3,2,1,1,1
+openai_gpt-5-mini,Bengali,Change and Continuity,Bangladesh-Scoped,2.0,0.3790156752558328,0.8126967846490863,False,-0.41268582909392315,False,-1.004468495170386,Q1 (Closest),3,2,2,1
+openai_gpt-5.1,Bengali,Origin Story,Bangladesh-Scoped,2.5,0.3478995857288435,0.7800444604043694,False,-0.42190652178397015,False,-1.0157326772208397,Q1 (Closest),2,3,3,2
+openai_gpt-5.1,Bengali,Human–Nature Relationship,Bangladesh-Scoped,2.5,0.3863166670878647,0.8201699912940833,False,-0.43918965537537746,False,-1.0014655947076132,Q1 (Closest),3,3,2,2
+openai_gpt-5.1,Bengali,Moral Transgression and Consequence,Bangladesh-Scoped,2.25,0.42164403379958637,0.8554087598330796,False,-0.4397679261991226,False,-1.0430042144308718,Q2,2,3,2,2
+openai_gpt-5.1,Bengali,Wisdom of an Elder,Bangladesh-Scoped,2.5,0.3504212432048396,0.7827413359273088,False,-0.4410229716451713,False,-1.0177661675182443,Q1 (Closest),3,3,2,2
+openai_gpt-5.1,Bengali,Community Crisis,Bangladesh-Scoped,2.5,0.38193673820564955,0.8156949563251156,False,-0.41914033572338255,False,-0.9986932054300519,Q1 (Closest),3,2,3,2
+openai_gpt-5.1,Bengali,Rite of Passage,Bangladesh-Scoped,2.25,0.45703738659009785,0.8893141196924699,False,-0.42841867788758276,False,-1.0074199424698578,Q3,3,2,2,2
+openai_gpt-5.1,Bengali,Trickster or Clever Figure,Bangladesh-Scoped,3.0,0.4517599511965815,0.8843410127662045,False,-0.4479684537884423,False,-1.0528540261517787,Q3,3,3,3,3
+openai_gpt-5.1,Bengali,Sacred or Forbidden Space,Bangladesh-Scoped,3.25,0.47822827304341964,0.9090090902724395,False,-0.4313511076134691,False,-1.0321646769400412,Q3,4,3,3,3
+openai_gpt-5.1,Bengali,Everyday Life Narrative,Bangladesh-Scoped,2.5,0.5204244155003535,0.9470074905537268,False,-0.4325092440185559,False,-1.0366735319116729,Q4 (Farthest),2,3,3,2
+openai_gpt-5.1,Bengali,Change and Continuity,Bangladesh-Scoped,2.5,0.41893595976475073,0.8527589234782269,False,-0.42463997031670603,False,-1.0020607983296717,Q2,3,3,2,2
+qwen_qwen3-8b,Bengali,Origin Story,Bangladesh-Scoped,1.25,0.4812985720230747,0.9118274011996391,True,-0.45800081377672225,True,-1.0975084208565766,Q3,1,2,1,1
+qwen_qwen3-8b,Bengali,Moral Transgression and Consequence,Bangladesh-Scoped,1.25,0.4913861533366576,0.9210262364039015,True,-0.4556895395548587,False,-1.0665942522988856,Q4 (Farthest),2,1,1,1
+qwen_qwen3-8b,Bengali,Human–Nature Relationship,Bangladesh-Scoped,1.5,0.4491688244187444,0.8818890510075199,False,-0.4296095934720643,False,-1.0349832006477344,Q3,1,2,1,2
+qwen_qwen3-8b,Bengali,Wisdom of an Elder,Bangladesh-Scoped,1.5,0.5030474316403533,0.9315469390588655,False,-0.42174600614930025,False,-1.044772864159561,Q4 (Farthest),1,2,2,1
+qwen_qwen3-8b,Bengali,Community Crisis,Bangladesh-Scoped,1.25,0.5115381286082619,0.9391329908524362,False,-0.43316408801637246,False,-1.0619994922781022,Q4 (Farthest),1,2,1,1
+qwen_qwen3-8b,Bengali,Rite of Passage,Bangladesh-Scoped,1.0,0.4770417994867966,0.9079177108495533,False,-0.4328059397416451,False,-1.0604277372287663,Q3,1,1,1,1
+qwen_qwen3-8b,Bengali,Trickster or Clever Figure,Bangladesh-Scoped,1.5,0.5321875999796717,0.9573316546789576,True,-0.45987404598096465,False,-1.0623539740841683,Q4 (Farthest),2,2,1,1
+qwen_qwen3-8b,Bengali,Sacred or Forbidden Space,Bangladesh-Scoped,1.5,0.4251717188942664,0.8588481608986569,False,-0.43067996956466337,False,-1.0425095714388406,Q2,1,2,2,1
+qwen_qwen3-8b,Bengali,Everyday Life Narrative,Bangladesh-Scoped,2.0,0.5435593785537671,0.9672075058251809,True,-0.45424945840099923,True,-1.117287835546279,Q4 (Farthest),3,2,2,1
+qwen_qwen3-8b,Bengali,Change and Continuity,Bangladesh-Scoped,2.25,0.5233794504226259,0.9496115581819979,False,-0.44079339145022484,True,-1.0902660699981113,Q4 (Farthest),3,3,2,1
+google_gemini-3-flash-preview,Chakma,Origin Story,Chittagong Hill Tracts,1.5,0.39507621101232493,0.8290472340939162,False,-0.4016131463732779,False,-0.9967982286957126,Q1 (Closest),1,2,1,2
+google_gemini-3-flash-preview,Chakma,Human–Nature Relationship,Chittagong Hill Tracts,2.25,0.44732329610287336,0.8801384985001691,True,-0.4515698069722811,False,-1.0200206287101996,Q3,3,3,2,1
+google_gemini-3-flash-preview,Chakma,Moral Transgression and Consequence,Chittagong Hill Tracts,1.75,0.38691597786796916,0.8207803676284805,False,-0.4305809866653281,False,-1.0130718190598589,Q1 (Closest),2,2,2,1
+google_gemini-3-flash-preview,Chakma,Wisdom of an Elder,Chittagong Hill Tracts,2.5,0.47315849103869634,0.9043362725939444,False,-0.4315113285710808,False,-1.0176456118640755,Q3,3,3,2,2
+google_gemini-3-flash-preview,Chakma,Community Crisis,Chittagong Hill Tracts,2.0,0.4418167045044631,0.8748943662461921,False,-0.4036898863459075,False,-1.0128600991096346,Q2,2,3,2,1
+google_gemini-3-flash-preview,Chakma,Rite of Passage,Chittagong Hill Tracts,1.75,0.39484631482307964,0.8288153949775806,False,-0.4212944764981497,False,-1.0299857907593202,Q1 (Closest),2,1,3,1
+google_gemini-3-flash-preview,Chakma,Trickster or Clever Figure,Chittagong Hill Tracts,2.0,0.40814144226136084,0.8421140997659607,False,-0.42585811645939137,False,-0.9998117368176578,Q2,3,2,2,1
+google_gemini-3-flash-preview,Chakma,Sacred or Forbidden Space,Chittagong Hill Tracts,1.5,0.4668159150576009,0.8984560258402131,False,-0.4068752799650536,False,-1.0394097532736033,Q3,2,2,2,0
+google_gemini-3-flash-preview,Chakma,Everyday Life Narrative,Chittagong Hill Tracts,1.75,0.4376253067151875,0.8708816263268292,False,-0.41994458366900866,False,-0.9951660972307584,Q2,3,2,2,0
+google_gemini-3-flash-preview,Chakma,Change and Continuity,Chittagong Hill Tracts,1.5,0.43932236809532776,0.8725085823221707,False,-0.42737475498113336,False,-1.0231248629632468,Q2,2,2,1,1
+mistralai_mistral-large-2512,Chakma,Wisdom of an Elder,Chittagong Hill Tracts,1.75,0.48776343189234095,0.9177332817836875,True,-0.45040002152862824,True,-1.0822155694899858,Q3,2,2,2,1
+mistralai_mistral-large-2512,Chakma,Origin Story,Chittagong Hill Tracts,1.5,0.5349786283644051,0.9597649131752821,False,-0.4374508306224826,True,-1.0856668327636763,Q4 (Farthest),2,1,2,1
+mistralai_mistral-large-2512,Chakma,Human–Nature Relationship,Chittagong Hill Tracts,1.75,0.4354132657003069,0.8687563873756916,False,-0.4103609007697029,False,-1.0129243173780789,Q2,3,1,2,1
+mistralai_mistral-large-2512,Chakma,Moral Transgression and Consequence,Chittagong Hill Tracts,1.5,0.44141418806018884,0.8745098223833366,False,-0.4421936692103998,False,-1.0471608395908742,Q2,2,1,1,2
+mistralai_mistral-large-2512,Chakma,Community Crisis,Chittagong Hill Tracts,1.25,0.41921611408853354,0.8530334320280758,False,-0.4361105279610859,False,-1.0311187365745182,Q2,2,2,1,0
+mistralai_mistral-large-2512,Chakma,Rite of Passage,Chittagong Hill Tracts,1.25,0.4768214606286034,0.9077148800752085,False,-0.43338860668536294,False,-1.022420435933069,Q3,2,1,1,1
+mistralai_mistral-large-2512,Chakma,Trickster or Clever Figure,Chittagong Hill Tracts,2.25,0.5261555461461885,0.9520514647110686,True,-0.45483415541068506,False,-1.0642398682263396,Q4 (Farthest),3,2,2,2
+mistralai_mistral-large-2512,Chakma,Sacred or Forbidden Space,Chittagong Hill Tracts,1.5,0.39950912447301423,0.8335035968394527,False,-0.42665311156104235,False,-0.9998491810439368,Q1 (Closest),2,2,1,1
+mistralai_mistral-large-2512,Chakma,Everyday Life Narrative,Chittagong Hill Tracts,0.75,0.5580574632795072,0.9796540510184735,False,-0.43876178209168787,False,-1.0258476388179856,Q4 (Farthest),1,1,1,0
+mistralai_mistral-large-2512,Chakma,Change and Continuity,Chittagong Hill Tracts,1.5,0.5241299847364496,0.950271851841662,False,-0.4318232585942943,False,-1.020918828705501,Q4 (Farthest),2,1,2,1
+openai_gpt-5-mini,Chakma,Origin Story,Chittagong Hill Tracts,1.75,0.42116255934252644,0.8549382227398714,False,-0.41442404063155636,False,-1.005633497749918,Q2,2,2,2,1
+openai_gpt-5-mini,Chakma,Moral Transgression and Consequence,Chittagong Hill Tracts,2.0,0.37871122510768773,0.8123836573289268,False,-0.4242077907493713,False,-0.9888890474875132,Q1 (Closest),2,2,2,2
+openai_gpt-5-mini,Chakma,Wisdom of an Elder,Chittagong Hill Tracts,2.0,0.49214055711996474,0.9217105002681958,False,-0.43859955149797575,False,-1.0333463199139925,Q4 (Farthest),3,2,2,1
+openai_gpt-5-mini,Chakma,Community Crisis,Chittagong Hill Tracts,2.0,0.4120350052632834,0.8459691450762381,False,-0.41534938442427044,False,-0.9881025886164364,Q2,3,2,2,1
+openai_gpt-5-mini,Chakma,Rite of Passage,Chittagong Hill Tracts,2.0,0.5361849286527955,0.9608147174244126,True,-0.45275464014284705,False,-1.0174443821745556,Q4 (Farthest),3,2,2,1
+openai_gpt-5-mini,Chakma,Trickster or Clever Figure,Chittagong Hill Tracts,1.25,0.42427245491462795,0.857972685867831,False,-0.4163132942088543,False,-1.0098812144420166,Q2,2,1,1,1
+openai_gpt-5-mini,Chakma,Sacred or Forbidden Space,Chittagong Hill Tracts,1.25,0.40441415567441585,0.8384070982700401,False,-0.424447436675233,False,-1.0324601608216006,Q2,2,1,1,1
+openai_gpt-5-mini,Chakma,Everyday Life Narrative,Chittagong Hill Tracts,2.0,0.46975068966977984,0.9011816429124795,False,-0.4322186548993218,False,-1.0383378574413142,Q3,3,2,2,1
+openai_gpt-5-mini,Chakma,Human–Nature Relationship,Chittagong Hill Tracts,1.5,0.3454052298937852,0.7773675978328832,False,-0.4216962182874929,False,-0.9858681380033099,Q1 (Closest),2,1,1,2
+openai_gpt-5-mini,Chakma,Change and Continuity,Chittagong Hill Tracts,1.5,0.39840617301475045,0.8323970602164154,False,-0.41630106612546497,False,-1.0083331515743794,Q1 (Closest),2,2,1,1
+openai_gpt-5.1,Chakma,Origin Story,Chittagong Hill Tracts,2.75,0.45223418671163373,0.8847890865574438,False,-0.42654115340602217,False,-1.0011482816670378,Q3,3,3,2,3
+openai_gpt-5.1,Chakma,Human–Nature Relationship,Chittagong Hill Tracts,3.25,0.4673037521974647,0.8989096623245789,False,-0.42833182150663646,False,-0.9985551852303607,Q3,4,3,3,3
+openai_gpt-5.1,Chakma,Moral Transgression and Consequence,Chittagong Hill Tracts,2.75,0.41264139737540506,0.8465679116334428,False,-0.4343590832058836,False,-1.0136287703978997,Q2,3,3,3,2
+openai_gpt-5.1,Chakma,Wisdom of an Elder,Chittagong Hill Tracts,2.5,0.4358066906327861,0.8691347565724887,False,-0.4408409336655739,False,-1.0031392311922664,Q2,3,2,3,2
+openai_gpt-5.1,Chakma,Community Crisis,Chittagong Hill Tracts,2.75,0.40457035499232563,0.83856274837596,False,-0.40476325798099294,False,-0.9879530525071688,Q2,3,3,3,2
+openai_gpt-5.1,Chakma,Rite of Passage,Chittagong Hill Tracts,3.25,0.5212397912773696,0.9477267722341507,False,-0.4253890325190249,False,-1.014716997822873,Q4 (Farthest),4,3,3,3
+openai_gpt-5.1,Chakma,Trickster or Clever Figure,Chittagong Hill Tracts,2.75,0.4984848510927973,0.9274448184598337,False,-0.4343066284739198,False,-1.022297194246048,Q4 (Farthest),3,3,2,3
+openai_gpt-5.1,Chakma,Sacred or Forbidden Space,Chittagong Hill Tracts,2.5,0.44584896020603293,0.878737465465325,False,-0.42274641825401255,False,-1.0503970347590725,Q2,2,3,3,2
+openai_gpt-5.1,Chakma,Everyday Life Narrative,Chittagong Hill Tracts,2.75,0.41792912689287265,0.8517716761588314,False,-0.4495354468194309,False,-1.0109240691892576,Q2,3,3,3,2
+openai_gpt-5.1,Chakma,Change and Continuity,Chittagong Hill Tracts,2.75,0.3744090121756306,0.8079459684926777,False,-0.424596672106841,False,-0.9921075876089599,Q1 (Closest),3,3,3,2
+qwen_qwen3-8b,Chakma,Origin Story,Chittagong Hill Tracts,1.5,0.4148702591497839,0.8487652600081275,False,-0.42890776508640727,False,-1.0193616734985795,Q2,2,1,2,1
+qwen_qwen3-8b,Chakma,Human–Nature Relationship,Chittagong Hill Tracts,1.25,0.3297912719574797,0.7603969613466043,False,-0.4412609149360148,False,-1.0037260185521015,Q1 (Closest),1,1,2,1
+qwen_qwen3-8b,Chakma,Moral Transgression and Consequence,Chittagong Hill Tracts,1.75,0.5141582927634842,0.9414617068178152,True,-0.45838986984122937,True,-1.084848120490344,Q4 (Farthest),2,2,2,1
+qwen_qwen3-8b,Chakma,Wisdom of an Elder,Chittagong Hill Tracts,1.5,0.4854563642751517,0.9156300930138327,True,-0.4613762974287466,False,-1.0521509760640202,Q3,2,2,1,1
+qwen_qwen3-8b,Chakma,Community Crisis,Chittagong Hill Tracts,1.25,0.40279617716279015,0.8367927888114851,False,-0.43992400387636216,False,-1.0097459935823299,Q1 (Closest),1,1,2,1
+qwen_qwen3-8b,Chakma,Rite of Passage,Chittagong Hill Tracts,1.5,0.5176271864613835,0.9445358166267915,False,-0.4470907134183475,True,-1.076823204625488,Q4 (Farthest),1,2,2,1
+qwen_qwen3-8b,Chakma,Trickster or Clever Figure,Chittagong Hill Tracts,1.75,0.5316895297960218,0.9568967879464556,True,-0.4635933595658171,False,-1.0400865880492856,Q4 (Farthest),2,2,2,1
+qwen_qwen3-8b,Chakma,Sacred or Forbidden Space,Chittagong Hill Tracts,1.5,0.4562557444008395,0.8885793245002132,False,-0.4359636124425908,False,-1.0602879192272825,Q3,2,2,1,1
+qwen_qwen3-8b,Chakma,Everyday Life Narrative,Chittagong Hill Tracts,2.0,0.5193827789675038,0.9460878565719628,True,-0.45556245690407743,False,-1.0621064243274172,Q4 (Farthest),3,2,2,1
+qwen_qwen3-8b,Chakma,Change and Continuity,Chittagong Hill Tracts,2.25,0.4372984053830161,0.8705678763404019,False,-0.4219956906663626,False,-1.0497345441818533,Q2,3,3,2,1
+google_gemini-3-flash-preview,Garo (Mandi),Origin Story,"Mymensingh, Sherpur",2.5,0.3681933863453588,0.8014910851370695,False,-0.4173432630153625,False,-1.0043171790840728,Q1 (Closest),3,3,2,2
+google_gemini-3-flash-preview,Garo (Mandi),Human–Nature Relationship,"Mymensingh, Sherpur",2.75,0.41132867547535357,0.8452711083009166,False,-0.42403938897086674,False,-1.0105949419761349,Q2,3,3,3,2
+google_gemini-3-flash-preview,Garo (Mandi),Moral Transgression and Consequence,"Mymensingh, Sherpur",0.5,0.4710942459465156,0.9024267298906068,False,-0.4494197533954475,False,-1.0646066366075044,Q3,0,1,1,0
+google_gemini-3-flash-preview,Garo (Mandi),Wisdom of an Elder,"Mymensingh, Sherpur",0.75,0.3476413128214768,0.7797677100911264,False,-0.4160411657780778,False,-0.998226190474381,Q1 (Closest),1,1,1,0
+google_gemini-3-flash-preview,Garo (Mandi),Community Crisis,"Mymensingh, Sherpur",1.5,0.3823244917178955,0.8160920919405128,False,-0.41221861850088465,False,-1.0141667888535615,Q1 (Closest),2,1,2,1
+google_gemini-3-flash-preview,Garo (Mandi),Rite of Passage,"Mymensingh, Sherpur",1.5,0.39258176460911887,0.8265289802116956,False,-0.42816517684790495,False,-1.0050872276638987,Q1 (Closest),1,2,2,1
+google_gemini-3-flash-preview,Garo (Mandi),Sacred or Forbidden Space,"Mymensingh, Sherpur",2.0,0.3713319054712667,0.8047568410009196,False,-0.421039627866146,False,-0.9918569837015809,Q1 (Closest),3,2,2,1
+google_gemini-3-flash-preview,Garo (Mandi),Everyday Life Narrative,"Mymensingh, Sherpur",1.5,0.3941159773731212,0.8280787248833139,False,-0.4246536176899541,False,-1.0073679044732526,Q1 (Closest),1,1,2,2
+google_gemini-3-flash-preview,Garo (Mandi),Change and Continuity,"Mymensingh, Sherpur",1.5,0.456168386775718,0.888497152348932,False,-0.42600760903588303,False,-1.0310168704737577,Q3,2,2,1,1
+google_gemini-3-flash-preview,Garo (Mandi),Trickster or Clever Figure,"Mymensingh, Sherpur",1.5,0.4416978976274958,0.8747808829756312,False,-0.42766625970466005,False,-1.0186080309502747,Q2,2,2,2,0
+mistralai_mistral-large-2512,Garo (Mandi),Sacred or Forbidden Space,"Mymensingh, Sherpur",1.75,0.4313425333187608,0.8648317322443333,False,-0.44237583566427996,True,-1.0770739744340596,Q2,2,2,1,2
+mistralai_mistral-large-2512,Garo (Mandi),Change and Continuity,"Mymensingh, Sherpur",2.0,0.4937253250593171,0.9231462433819816,False,-0.4187143725326062,False,-1.0253136821842497,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Garo (Mandi),Origin Story,"Mymensingh, Sherpur",2.0,0.5648158547884807,0.9854024327134596,False,-0.44797970535853576,False,-1.0574487653309412,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Garo (Mandi),Moral Transgression and Consequence,"Mymensingh, Sherpur",2.5,0.4518261600367306,0.8844035760104554,False,-0.43231397497944896,False,-1.0051146390270165,Q3,3,3,2,2
+mistralai_mistral-large-2512,Garo (Mandi),Human–Nature Relationship,"Mymensingh, Sherpur",1.75,0.35776634408576036,0.7905443651825349,False,-0.4113471007207301,False,-0.9957631684955597,Q1 (Closest),2,2,2,1
+mistralai_mistral-large-2512,Garo (Mandi),Wisdom of an Elder,"Mymensingh, Sherpur",2.5,0.5531213395622268,0.9754342608741294,False,-0.4241776649448427,False,-1.0558897252287,Q4 (Farthest),3,3,2,2
+mistralai_mistral-large-2512,Garo (Mandi),Community Crisis,"Mymensingh, Sherpur",2.0,0.5627963068169155,0.9836882355507485,True,-0.4595572429006194,True,-1.1107517693718871,Q4 (Farthest),2,2,2,2
+mistralai_mistral-large-2512,Garo (Mandi),Rite of Passage,"Mymensingh, Sherpur",1.5,0.5078863472220846,0.9358778619506788,False,-0.4275788797796848,False,-1.0327238347059913,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Garo (Mandi),Trickster or Clever Figure,"Mymensingh, Sherpur",2.0,0.5777980960056126,0.9963513896341234,False,-0.4302538602856629,True,-1.072431760830792,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Garo (Mandi),Everyday Life Narrative,"Mymensingh, Sherpur",2.0,0.5562592636083453,0.9781189194524786,False,-0.44417184846967406,True,-1.0852933088375638,Q4 (Farthest),3,2,2,1
+openai_gpt-5-mini,Garo (Mandi),Origin Story,"Mymensingh, Sherpur",1.25,0.3885360184914166,0.8224282055581433,False,-0.42293355319696635,False,-1.0179373588540797,Q1 (Closest),2,1,1,1
+openai_gpt-5-mini,Garo (Mandi),Human–Nature Relationship,"Mymensingh, Sherpur",2.25,0.36644554392907613,0.7996665994381553,False,-0.4202141370801876,False,-1.0084111301123366,Q1 (Closest),3,2,2,2
+openai_gpt-5-mini,Garo (Mandi),Moral Transgression and Consequence,"Mymensingh, Sherpur",1.25,0.3500927698172509,0.7823906179222839,False,-0.4046493320664911,False,-1.0022934467719704,Q1 (Closest),2,1,1,1
+openai_gpt-5-mini,Garo (Mandi),Wisdom of an Elder,"Mymensingh, Sherpur",1.0,0.3897893402462196,0.8237007237592469,False,-0.43554250843749764,False,-1.0042926774235061,Q1 (Closest),1,1,1,1
+openai_gpt-5-mini,Garo (Mandi),Community Crisis,"Mymensingh, Sherpur",1.75,0.404497107009545,0.8384897700047822,False,-0.40673512823197394,False,-0.9879383076916698,Q2,2,2,2,1
+openai_gpt-5-mini,Garo (Mandi),Rite of Passage,"Mymensingh, Sherpur",1.75,0.44834313619149435,0.8811063169115527,False,-0.43146527659803857,False,-1.0204750972173255,Q3,2,2,1,2
+openai_gpt-5-mini,Garo (Mandi),Trickster or Clever Figure,"Mymensingh, Sherpur",1.75,0.5059783736761913,0.9341725677836705,False,-0.4440454971035973,False,-1.0341554664286898,Q4 (Farthest),2,2,2,1
+openai_gpt-5-mini,Garo (Mandi),Sacred or Forbidden Space,"Mymensingh, Sherpur",1.5,0.4255711169401548,0.8592366881421987,False,-0.41292113838032296,False,-0.9947020785325442,Q2,2,2,1,1
+openai_gpt-5-mini,Garo (Mandi),Everyday Life Narrative,"Mymensingh, Sherpur",2.25,0.4057386232730372,0.8397262369777657,False,-0.4255959472262295,False,-1.0231536780521904,Q2,3,2,2,2
+openai_gpt-5-mini,Garo (Mandi),Change and Continuity,"Mymensingh, Sherpur",1.75,0.4248530285756452,0.8585380276089842,False,-0.42960185463487327,False,-1.0013604807195446,Q2,2,2,2,1
+openai_gpt-5.1,Garo (Mandi),Origin Story,"Mymensingh, Sherpur",3.25,0.5648751412913062,0.9854526879159065,False,-0.42767450970698,False,-1.0624001443076572,Q4 (Farthest),4,4,3,2
+openai_gpt-5.1,Garo (Mandi),Human–Nature Relationship,"Mymensingh, Sherpur",3.0,0.43280532181690845,0.8662440508831805,False,-0.4236941950091216,False,-1.0120038663873134,Q2,4,4,3,1
+openai_gpt-5.1,Garo (Mandi),Moral Transgression and Consequence,"Mymensingh, Sherpur",2.75,0.4460777218110119,0.8789550042196828,False,-0.44320795799653695,False,-1.0321587355748232,Q2,3,3,3,2
+openai_gpt-5.1,Garo (Mandi),Wisdom of an Elder,"Mymensingh, Sherpur",2.5,0.4830420612116423,0.9134238951476235,False,-0.43332214088782617,False,-1.028951830770136,Q3,3,3,2,2
+openai_gpt-5.1,Garo (Mandi),Community Crisis,"Mymensingh, Sherpur",3.25,0.4485048438161159,0.881259623905254,False,-0.4350283223611866,False,-0.9952969730010848,Q3,4,3,3,3
+openai_gpt-5.1,Garo (Mandi),Rite of Passage,"Mymensingh, Sherpur",2.75,0.5742496265164168,0.9933707041545884,False,-0.42338640572045355,False,-1.0361934180263968,Q4 (Farthest),3,3,3,2
+openai_gpt-5.1,Garo (Mandi),Trickster or Clever Figure,"Mymensingh, Sherpur",2.75,0.5285342125220431,0.9541371052299117,False,-0.4279534896258389,False,-1.0153025361245926,Q4 (Farthest),3,3,3,2
+openai_gpt-5.1,Garo (Mandi),Sacred or Forbidden Space,"Mymensingh, Sherpur",2.75,0.3419388259328989,0.7736321098805007,False,-0.41301250822311614,False,-1.0097451363318866,Q1 (Closest),2,3,3,3
+openai_gpt-5.1,Garo (Mandi),Everyday Life Narrative,"Mymensingh, Sherpur",2.75,0.465550203864426,0.8972779227350366,False,-0.4178699954722566,False,-1.0350573061855055,Q3,2,3,3,3
+openai_gpt-5.1,Garo (Mandi),Change and Continuity,"Mymensingh, Sherpur",3.0,0.46352623140605853,0.8953909355541381,False,-0.4106602015258588,False,-1.0022229876357929,Q3,3,3,4,2
+qwen_qwen3-8b,Garo (Mandi),Origin Story,"Mymensingh, Sherpur",1.5,0.46115801662276934,0.893177930788988,True,-0.45954413804696587,False,-1.0609762160680476,Q3,2,2,1,1
+qwen_qwen3-8b,Garo (Mandi),Human–Nature Relationship,"Mymensingh, Sherpur",1.25,0.41497813278734164,0.8488715113524734,False,-0.41715508034767396,False,-1.0141050629833495,Q2,2,1,1,1
+qwen_qwen3-8b,Garo (Mandi),Moral Transgression and Consequence,"Mymensingh, Sherpur",2.25,0.5265759214453405,0.952420441646621,False,-0.44900053775608334,False,-1.044552326781742,Q4 (Farthest),3,3,2,1
+qwen_qwen3-8b,Garo (Mandi),Wisdom of an Elder,"Mymensingh, Sherpur",1.75,0.38875096817887644,0.8226465726394078,False,-0.42099686318736146,False,-1.0119840160973816,Q1 (Closest),2,2,2,1
+qwen_qwen3-8b,Garo (Mandi),Community Crisis,"Mymensingh, Sherpur",1.0,0.47031030487650616,0.9017004071995642,False,-0.42973393353193784,True,-1.094286342442032,Q3,1,1,1,1
+qwen_qwen3-8b,Garo (Mandi),Rite of Passage,"Mymensingh, Sherpur",1.5,0.5078640789623681,0.9358579271661623,False,-0.44242681550426244,True,-1.0775230585860245,Q4 (Farthest),2,2,1,1
+qwen_qwen3-8b,Garo (Mandi),Trickster or Clever Figure,"Mymensingh, Sherpur",2.0,0.40645436266005996,0.8404381975649879,False,-0.41309618477715104,False,-1.0233567914961947,Q2,2,2,2,2
+qwen_qwen3-8b,Garo (Mandi),Sacred or Forbidden Space,"Mymensingh, Sherpur",1.0,0.4708719534329585,0.9022208028531585,False,-0.4430144502786949,True,-1.08621170379062,Q3,1,1,1,1
+qwen_qwen3-8b,Garo (Mandi),Everyday Life Narrative,"Mymensingh, Sherpur",1.25,0.4966575844036928,0.9257968708753261,True,-0.4516857766217213,False,-1.049091426824955,Q4 (Farthest),2,1,1,1
+qwen_qwen3-8b,Garo (Mandi),Change and Continuity,"Mymensingh, Sherpur",1.5,0.47409046419417367,0.9051970495682041,False,-0.43513036697238155,False,-1.067345530747006,Q3,2,1,2,1
+google_gemini-3-flash-preview,Hajong,Origin Story,Mymensingh,2.0,0.46486118989001735,0.8966359856368297,False,-0.41592043726548933,False,-1.0193539144143593,Q3,3,2,1,2
+google_gemini-3-flash-preview,Hajong,Human–Nature Relationship,Mymensingh,1.5,0.41649692438515784,0.8503653893825279,False,-0.43407210829327003,False,-1.014105745745255,Q2,2,2,1,1
+google_gemini-3-flash-preview,Hajong,Moral Transgression and Consequence,Mymensingh,1.75,0.45317792364169607,0.8856799613593662,False,-0.42405031071627514,False,-1.0177068818389805,Q3,3,1,2,1
+google_gemini-3-flash-preview,Hajong,Wisdom of an Elder,Mymensingh,1.75,0.43465726937634463,0.8680288625225192,False,-0.4298989093838411,False,-1.051997702877555,Q2,2,2,2,1
+google_gemini-3-flash-preview,Hajong,Community Crisis,Mymensingh,1.75,0.45208968231785707,0.8846525605570376,False,-0.43985951015320296,False,-1.0274534453795454,Q3,3,1,2,1
+google_gemini-3-flash-preview,Hajong,Rite of Passage,Mymensingh,1.75,0.4908613979979485,0.9205499780048144,True,-0.45324378483711436,False,-1.055757093821362,Q4 (Farthest),2,1,2,2
+google_gemini-3-flash-preview,Hajong,Trickster or Clever Figure,Mymensingh,1.5,0.43402323294417644,0.8674182132959392,False,-0.41972496622909644,False,-0.9968719478646879,Q2,3,1,1,1
+google_gemini-3-flash-preview,Hajong,Sacred or Forbidden Space,Mymensingh,1.75,0.29636462024212584,0.722727535959909,False,-0.43057190658855615,False,-0.9980678115647781,Q1 (Closest),3,2,2,0
+google_gemini-3-flash-preview,Hajong,Everyday Life Narrative,Mymensingh,2.0,0.4546658950870587,0.8870828511909059,False,-0.4136603446047259,False,-1.0239943423393356,Q3,3,2,2,1
+google_gemini-3-flash-preview,Hajong,Change and Continuity,Mymensingh,2.0,0.4296292308407017,0.8631745524623917,False,-0.4162668332612147,False,-1.0168158618006615,Q2,3,2,2,1
+mistralai_mistral-large-2512,Hajong,Wisdom of an Elder,Mymensingh,1.75,0.476641402786146,0.9075490868988908,False,-0.4299074031228814,False,-1.0163311632092196,Q3,2,2,2,1
+mistralai_mistral-large-2512,Hajong,Community Crisis,Mymensingh,1.25,0.4451119461937705,0.8780363292356067,False,-0.4157868766068181,False,-1.0186564204609736,Q2,2,1,1,1
+mistralai_mistral-large-2512,Hajong,Sacred or Forbidden Space,Mymensingh,1.5,0.5082541152804374,0.9362061595802161,False,-0.4412285097918729,False,-1.0416909904594767,Q4 (Farthest),2,2,2,0
+mistralai_mistral-large-2512,Hajong,Change and Continuity,Mymensingh,2.25,0.4534649873336287,0.8859507831946328,False,-0.43348741294428805,False,-1.0286087196714218,Q3,3,3,2,1
+mistralai_mistral-large-2512,Hajong,Origin Story,Mymensingh,2.0,0.5203735232472977,0.946962605450051,True,-0.45279144514052644,False,-1.0463630560937458,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Hajong,Human–Nature Relationship,Mymensingh,1.75,0.4508949516575713,0.8835232555888473,False,-0.43798585950312535,False,-1.0106435244350211,Q3,2,2,2,1
+mistralai_mistral-large-2512,Hajong,Moral Transgression and Consequence,Mymensingh,1.75,0.477370437347584,0.9082201380105505,False,-0.4323770740909609,False,-1.0297723576032332,Q3,2,2,2,1
+mistralai_mistral-large-2512,Hajong,Rite of Passage,Mymensingh,2.0,0.5440125048877683,0.9675989741101643,False,-0.4332947269950588,False,-1.015892937412871,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Hajong,Trickster or Clever Figure,Mymensingh,1.75,0.5864321196441988,1.0035671008017577,False,-0.4499357023095352,False,-1.028742786698968,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Hajong,Everyday Life Narrative,Mymensingh,1.75,0.49533061356408636,0.9245983214272067,False,-0.4296461513500913,False,-1.0201572570673183,Q4 (Farthest),2,2,2,1
+openai_gpt-5-mini,Hajong,Origin Story,Mymensingh,2.0,0.32693538894165475,0.7572518446814747,False,-0.41797090118751945,False,-1.0052800329154195,Q1 (Closest),2,2,2,2
+openai_gpt-5-mini,Hajong,Human–Nature Relationship,Mymensingh,2.25,0.36245485976452874,0.7954852145480557,False,-0.4328822727929976,False,-0.9919198485860712,Q1 (Closest),3,2,2,2
+openai_gpt-5-mini,Hajong,Moral Transgression and Consequence,Mymensingh,2.25,0.38518832859444874,0.8190194344444552,False,-0.41318048910889554,False,-1.01915172042214,Q1 (Closest),3,2,2,2
+openai_gpt-5-mini,Hajong,Wisdom of an Elder,Mymensingh,1.5,0.4694095046052077,0.9008651878656355,False,-0.4369844845340818,False,-1.0561910557830572,Q3,2,2,1,1
+openai_gpt-5-mini,Hajong,Community Crisis,Mymensingh,2.25,0.4028459561640735,0.8368425193203871,False,-0.42555008215598267,False,-1.000362263166792,Q1 (Closest),3,2,2,2
+openai_gpt-5-mini,Hajong,Rite of Passage,Mymensingh,2.5,0.41519408655013723,0.8490841058109643,False,-0.4284762940081458,False,-1.0277633553924617,Q2,3,3,2,2
+openai_gpt-5-mini,Hajong,Trickster or Clever Figure,Mymensingh,2.5,0.45763660681178453,0.8898770474392037,False,-0.42895591906961544,False,-0.9995077312071032,Q3,3,2,3,2
+openai_gpt-5-mini,Hajong,Sacred or Forbidden Space,Mymensingh,2.75,0.3979070118902506,0.8318957876264915,False,-0.4355969711539906,False,-0.997746479618751,Q1 (Closest),3,3,3,2
+openai_gpt-5-mini,Hajong,Everyday Life Narrative,Mymensingh,2.25,0.4320756280113288,0.8655398529593125,False,-0.42382403989382283,False,-1.0090774423207145,Q2,2,2,3,2
+openai_gpt-5-mini,Hajong,Change and Continuity,Mymensingh,2.5,0.3346424340913906,0.7657099241000964,False,-0.4139499775755685,False,-0.9979855995086128,Q1 (Closest),3,2,3,2
+openai_gpt-5.1,Hajong,Origin Story,Mymensingh,2.5,0.4686533284872775,0.9001634577214919,True,-0.45074197564103263,False,-1.0509550020141019,Q3,2,3,3,2
+openai_gpt-5.1,Hajong,Human–Nature Relationship,Mymensingh,3.0,0.3403711482177826,0.7719369040701539,False,-0.42402048284455823,False,-0.9948180817769237,Q1 (Closest),3,3,3,3
+openai_gpt-5.1,Hajong,Moral Transgression and Consequence,Mymensingh,3.0,0.35139199241397656,0.7837770770158937,False,-0.41501284667427757,False,-1.0030219619521303,Q1 (Closest),3,3,3,3
+openai_gpt-5.1,Hajong,Wisdom of an Elder,Mymensingh,3.0,0.4537548802839131,0.8862242029846228,False,-0.4296794347888877,False,-1.0653159036725155,Q3,4,3,3,2
+openai_gpt-5.1,Hajong,Community Crisis,Mymensingh,2.75,0.4327151546219362,0.8661570777506795,False,-0.43515615111909667,False,-1.0049739965931905,Q2,4,2,3,2
+openai_gpt-5.1,Hajong,Rite of Passage,Mymensingh,3.5,0.4777294040795055,0.9085503661271852,False,-0.44204181828436884,False,-1.0194156517499704,Q3,4,4,3,3
+openai_gpt-5.1,Hajong,Trickster or Clever Figure,Mymensingh,3.25,0.4504109922283147,0.883065339444413,False,-0.4366067487145795,False,-1.0340808733997353,Q3,3,4,3,3
+openai_gpt-5.1,Hajong,Sacred or Forbidden Space,Mymensingh,3.25,0.4759326354618384,0.9068961811358788,False,-0.43156201195231847,False,-1.048373218973604,Q3,3,4,3,3
+openai_gpt-5.1,Hajong,Everyday Life Narrative,Mymensingh,3.25,0.4436414580160303,0.8766356512108258,False,-0.4347642687951297,False,-1.0199830290956444,Q2,3,4,3,3
+openai_gpt-5.1,Hajong,Change and Continuity,Mymensingh,3.25,0.39165882658393214,0.8255952485644867,False,-0.4115098811995474,False,-1.0034780425323893,Q1 (Closest),3,4,3,3
+qwen_qwen3-8b,Hajong,Origin Story,Mymensingh,1.75,0.34195377644476843,0.7736483196085691,False,-0.41689551249732154,False,-0.9985488201003726,Q1 (Closest),2,2,2,1
+qwen_qwen3-8b,Hajong,Human–Nature Relationship,Mymensingh,2.5,0.4832738569344265,0.9136359611918844,True,-0.4535248276281492,False,-1.0277227526483093,Q3,3,2,3,2
+qwen_qwen3-8b,Hajong,Moral Transgression and Consequence,Mymensingh,2.0,0.4408012293196639,0.8739238726625923,False,-0.4403089940287596,False,-1.0607918592929417,Q2,3,2,2,1
+qwen_qwen3-8b,Hajong,Wisdom of an Elder,Mymensingh,1.75,0.47310112314959896,0.904283213709485,False,-0.43872178530343525,True,-1.0761191796296703,Q3,2,2,1,2
+qwen_qwen3-8b,Hajong,Community Crisis,Mymensingh,1.25,0.4819363829337463,0.9124117211674175,False,-0.4447236780306831,False,-1.0439712733489608,Q3,2,1,1,1
+qwen_qwen3-8b,Hajong,Rite of Passage,Mymensingh,1.5,0.43661718345870515,0.8699136837521743,False,-0.4445983800316984,False,-1.0599133002039836,Q2,2,2,1,1
+qwen_qwen3-8b,Hajong,Trickster or Clever Figure,Mymensingh,1.75,0.4608313622238501,0.8928722126203845,False,-0.425788022749809,False,-1.0265490279019491,Q3,2,2,2,1
+qwen_qwen3-8b,Hajong,Sacred or Forbidden Space,Mymensingh,2.0,0.515175666026026,0.9423643057902826,False,-0.4464451459431987,True,-1.0727443335050455,Q4 (Farthest),3,2,2,1
+qwen_qwen3-8b,Hajong,Everyday Life Narrative,Mymensingh,1.75,0.4637402795666452,0.8955907224461145,False,-0.44860918531453237,False,-1.0679711333379225,Q3,2,2,2,1
+qwen_qwen3-8b,Hajong,Change and Continuity,Mymensingh,2.0,0.4779586074454526,0.9087611605598672,False,-0.44285926417686167,False,-1.0435180547430167,Q3,2,3,2,1
+google_gemini-3-flash-preview,Khasi,Origin Story,Sylhet (border areas),1.5,0.46727310295891167,0.8988811750304356,False,-0.42381116193447926,False,-1.0107721383775796,Q3,2,2,1,1
+google_gemini-3-flash-preview,Khasi,Human–Nature Relationship,Sylhet (border areas),1.25,0.3550779535270929,0.7876973655809231,False,-0.4238851204447819,False,-0.9968244145686563,Q1 (Closest),1,2,1,1
+google_gemini-3-flash-preview,Khasi,Moral Transgression and Consequence,Sylhet (border areas),1.75,0.38255181995567766,0.8163248509338521,False,-0.4327254414751021,False,-1.0089557293720501,Q1 (Closest),2,2,2,1
+google_gemini-3-flash-preview,Khasi,Wisdom of an Elder,Sylhet (border areas),1.25,0.5031320731308605,0.9316228788448736,False,-0.4444304006141605,False,-1.0496595393092405,Q4 (Farthest),2,2,1,0
+google_gemini-3-flash-preview,Khasi,Community Crisis,Sylhet (border areas),1.25,0.4613377926919918,0.8933460819817113,False,-0.42940127361936187,False,-1.0173294227281855,Q3,2,1,2,0
+google_gemini-3-flash-preview,Khasi,Rite of Passage,Sylhet (border areas),1.5,0.49115578872004517,0.9208171775875201,False,-0.4330341399194292,False,-1.0314375526257147,Q4 (Farthest),2,1,2,1
+google_gemini-3-flash-preview,Khasi,Trickster or Clever Figure,Sylhet (border areas),2.0,0.4647258484876092,0.8965098575703624,False,-0.42840945798103686,False,-0.9949239617512567,Q3,2,2,2,2
+google_gemini-3-flash-preview,Khasi,Sacred or Forbidden Space,Sylhet (border areas),1.25,0.3731863059469276,0.8066802602286305,False,-0.42829481497307265,False,-0.9964884897558667,Q1 (Closest),2,1,2,0
+google_gemini-3-flash-preview,Khasi,Everyday Life Narrative,Sylhet (border areas),1.75,0.4062477004378052,0.8402327176332611,False,-0.40062465284046495,False,-1.0106273208214351,Q2,2,2,2,1
+google_gemini-3-flash-preview,Khasi,Change and Continuity,Sylhet (border areas),1.75,0.44306437403088283,0.8760853045616606,False,-0.4424127886125185,False,-1.0177737049733078,Q2,2,2,2,1
+mistralai_mistral-large-2512,Khasi,Origin Story,Sylhet (border areas),2.5,0.47332769630143146,0.9044925943149915,False,-0.44653974681130326,False,-1.0558394348157338,Q3,3,3,2,2
+mistralai_mistral-large-2512,Khasi,Human–Nature Relationship,Sylhet (border areas),1.0,0.41348733573258856,0.8474026276375193,False,-0.40528801624401,False,-1.0154961640591893,Q2,2,1,1,0
+mistralai_mistral-large-2512,Khasi,Moral Transgression and Consequence,Sylhet (border areas),1.75,0.38064957311190095,0.814375152707179,False,-0.42227171021340204,True,-1.0714201932825296,Q1 (Closest),2,2,2,1
+mistralai_mistral-large-2512,Khasi,Wisdom of an Elder,Sylhet (border areas),2.0,0.4741902011771181,0.9052891464494691,False,-0.442761331940125,False,-1.0264257291507786,Q3,3,2,2,1
+mistralai_mistral-large-2512,Khasi,Community Crisis,Sylhet (border areas),1.75,0.35521409364698997,0.7878417737488759,False,-0.42022328182115853,False,-1.0045770291594809,Q1 (Closest),2,2,2,1
+mistralai_mistral-large-2512,Khasi,Rite of Passage,Sylhet (border areas),2.25,0.5171126002258645,0.9440804636132961,False,-0.4388361356003106,False,-1.0232525416197735,Q4 (Farthest),3,3,2,1
+mistralai_mistral-large-2512,Khasi,Trickster or Clever Figure,Sylhet (border areas),2.0,0.4302838980250987,0.8638081651983455,False,-0.4446805710349624,False,-0.9970405728357035,Q2,3,2,2,1
+mistralai_mistral-large-2512,Khasi,Sacred or Forbidden Space,Sylhet (border areas),1.5,0.44540056043680176,0.8783109419447874,False,-0.4328138432145549,False,-1.0294915412898877,Q2,2,1,2,1
+mistralai_mistral-large-2512,Khasi,Everyday Life Narrative,Sylhet (border areas),1.5,0.5101483647880884,0.9378955136911633,True,-0.4559614014848087,True,-1.0845334675308735,Q4 (Farthest),2,1,2,1
+mistralai_mistral-large-2512,Khasi,Change and Continuity,Sylhet (border areas),1.75,0.46560844541245494,0.8973322100450692,False,-0.44467423661312,True,-1.1095767194355606,Q3,2,2,1,2
+openai_gpt-5-mini,Khasi,Origin Story,Sylhet (border areas),1.5,0.43773761267180666,0.8709894028692937,False,-0.42178965607508556,False,-1.008600368349824,Q2,1,1,2,2
+openai_gpt-5-mini,Khasi,Human–Nature Relationship,Sylhet (border areas),1.25,0.3445094849973197,0.7764040747958558,False,-0.4112504687850402,False,-0.9893795618315562,Q1 (Closest),2,1,1,1
+openai_gpt-5-mini,Khasi,Moral Transgression and Consequence,Sylhet (border areas),1.0,0.5192470712138195,0.9459679540455481,False,-0.4375130145019023,False,-1.0278748532884354,Q4 (Farthest),1,1,1,1
+openai_gpt-5-mini,Khasi,Wisdom of an Elder,Sylhet (border areas),2.25,0.45392024356373384,0.886380108489296,False,-0.41389174026684794,False,-1.009695926025827,Q3,3,2,2,2
+openai_gpt-5-mini,Khasi,Community Crisis,Sylhet (border areas),2.0,0.3479830758510748,0.7801338999457484,False,-0.39847965878038266,False,-0.9865691291128649,Q1 (Closest),2,3,2,1
+openai_gpt-5-mini,Khasi,Rite of Passage,Sylhet (border areas),1.5,0.4499614717736775,0.8826398686461171,False,-0.4226311793807178,False,-1.0415054162063977,Q3,2,2,1,1
+openai_gpt-5-mini,Khasi,Trickster or Clever Figure,Sylhet (border areas),1.5,0.4665025207786193,0.8981644646110682,False,-0.4213222880442247,False,-0.9976509050392446,Q3,2,2,1,1
+openai_gpt-5-mini,Khasi,Sacred or Forbidden Space,Sylhet (border areas),2.0,0.3992336127927044,0.833227363880511,False,-0.4016631104638611,False,-0.9982446234839392,Q1 (Closest),3,2,2,1
+openai_gpt-5-mini,Khasi,Everyday Life Narrative,Sylhet (border areas),2.25,0.4589215074777908,0.8910828975211379,False,-0.4341747034429233,False,-1.0119674107477603,Q3,3,2,2,2
+openai_gpt-5-mini,Khasi,Change and Continuity,Sylhet (border areas),1.75,0.43307645644948056,0.866505598418975,False,-0.4139038109769647,False,-1.0049396820827297,Q2,2,2,1,2
+openai_gpt-5.1,Khasi,Origin Story,Sylhet (border areas),2.75,0.5503093101184082,0.973022135670983,False,-0.4158675270907244,False,-1.0367966002194424,Q4 (Farthest),4,3,3,1
+openai_gpt-5.1,Khasi,Human–Nature Relationship,Sylhet (border areas),2.25,0.32739168558891873,0.7577551805356496,False,-0.4224897425898871,False,-0.991140558070932,Q1 (Closest),2,3,3,1
+openai_gpt-5.1,Khasi,Moral Transgression and Consequence,Sylhet (border areas),2.25,0.4798835827151625,0.910529637939855,False,-0.4092683504212115,False,-1.0270047059090315,Q3,3,2,3,1
+openai_gpt-5.1,Khasi,Wisdom of an Elder,Sylhet (border areas),3.0,0.5318693605667982,0.9570538067415454,False,-0.41950681852255545,False,-1.030922018252424,Q4 (Farthest),3,4,3,2
+openai_gpt-5.1,Khasi,Community Crisis,Sylhet (border areas),3.25,0.41243904847086565,0.8463681701902913,False,-0.40986606518114327,False,-0.9898896901070989,Q2,4,3,3,3
+openai_gpt-5.1,Khasi,Rite of Passage,Sylhet (border areas),2.5,0.5066235631499607,0.9347495393572759,False,-0.43272025939582814,False,-1.015723447934804,Q4 (Farthest),3,3,3,1
+openai_gpt-5.1,Khasi,Trickster or Clever Figure,Sylhet (border areas),3.0,0.45128628095917545,0.8838932846990979,False,-0.4100035015860491,False,-1.0350928385393001,Q3,4,3,3,2
+openai_gpt-5.1,Khasi,Sacred or Forbidden Space,Sylhet (border areas),3.0,0.38190742756679286,0.8156649033293737,False,-0.4198351296548818,False,-1.0007836029553188,Q1 (Closest),4,4,3,1
+openai_gpt-5.1,Khasi,Everyday Life Narrative,Sylhet (border areas),1.75,0.5042615286683503,0.9326354516742217,False,-0.4123798248342784,False,-1.017928448594125,Q4 (Farthest),2,2,2,1
+openai_gpt-5.1,Khasi,Change and Continuity,Sylhet (border areas),2.25,0.40095193730311696,0.8349490100473755,False,-0.41644632158652867,False,-1.0036733749756546,Q1 (Closest),2,3,3,1
+qwen_qwen3-8b,Khasi,Origin Story,Sylhet (border areas),1.75,0.49356818999594876,0.9230039956177262,False,-0.43280057622539586,True,-1.0818358424496872,Q4 (Farthest),2,2,1,2
+qwen_qwen3-8b,Khasi,Human–Nature Relationship,Sylhet (border areas),1.75,0.4053325150688839,0.8393220059394761,False,-0.42348901328395033,False,-1.0191466297638339,Q2,2,2,2,1
+qwen_qwen3-8b,Khasi,Moral Transgression and Consequence,Sylhet (border areas),1.5,0.43848106383375296,0.8717024071121083,False,-0.4154693952795036,False,-1.0297579094645886,Q2,2,1,1,2
+qwen_qwen3-8b,Khasi,Wisdom of an Elder,Sylhet (border areas),1.75,0.47063576554131925,0.9020020610267183,True,-0.4522528348170152,True,-1.0893634167263353,Q3,2,2,2,1
+qwen_qwen3-8b,Khasi,Community Crisis,Sylhet (border areas),1.75,0.49256811796952427,0.9220980722186909,False,-0.4281397462549519,False,-1.0528939155160943,Q4 (Farthest),2,2,2,1
+qwen_qwen3-8b,Khasi,Rite of Passage,Sylhet (border areas),1.75,0.5143558940869393,0.941637053047468,True,-0.45397988496499103,True,-1.0877613447249548,Q4 (Farthest),2,2,2,1
+qwen_qwen3-8b,Khasi,Trickster or Clever Figure,Sylhet (border areas),2.5,0.5645596559100999,0.9851851126274137,True,-0.45786006094382364,True,-1.0943009855305672,Q4 (Farthest),3,3,2,2
+qwen_qwen3-8b,Khasi,Sacred or Forbidden Space,Sylhet (border areas),2.5,0.5000783601127949,0.9288795580902414,True,-0.4507900059488129,False,-1.060163377814691,Q4 (Farthest),2,3,3,2
+qwen_qwen3-8b,Khasi,Everyday Life Narrative,Sylhet (border areas),2.5,0.529476344892513,0.9549619049395545,True,-0.461999962617064,False,-1.067932098503002,Q4 (Farthest),3,3,2,2
+qwen_qwen3-8b,Khasi,Change and Continuity,Sylhet (border areas),2.0,0.5199467315851205,0.9465858441684379,False,-0.4441735023598901,True,-1.1043781349495752,Q4 (Farthest),2,3,2,1
+google_gemini-3-flash-preview,Manipuri (Meitei),Origin Story,Sylhet (border areas),1.75,0.3541915727976359,0.786756446700258,False,-0.43995477166323865,False,-1.0337602394745615,Q1 (Closest),2,2,2,1
+google_gemini-3-flash-preview,Manipuri (Meitei),Human–Nature Relationship,Sylhet (border areas),1.75,0.3736886192789133,0.8072003853850372,False,-0.42974655185213934,False,-1.004353431484597,Q1 (Closest),2,1,2,2
+google_gemini-3-flash-preview,Manipuri (Meitei),Moral Transgression and Consequence,Sylhet (border areas),1.25,0.30767376872380103,0.7356880365290694,False,-0.4155153324558013,False,-1.0014752955793793,Q1 (Closest),1,2,2,0
+google_gemini-3-flash-preview,Manipuri (Meitei),Wisdom of an Elder,Sylhet (border areas),1.25,0.4810645204831957,0.9116128543955849,False,-0.4297559334132658,False,-1.0610351022771312,Q3,2,2,1,0
+google_gemini-3-flash-preview,Manipuri (Meitei),Community Crisis,Sylhet (border areas),2.0,0.27449711862408366,0.6969837043237997,False,-0.408166560667497,False,-0.9907505940218447,Q1 (Closest),2,3,2,1
+google_gemini-3-flash-preview,Manipuri (Meitei),Rite of Passage,Sylhet (border areas),1.5,0.41416454932960467,0.848070138420089,False,-0.42716183294085147,False,-1.028401499468365,Q2,2,1,2,1
+google_gemini-3-flash-preview,Manipuri (Meitei),Sacred or Forbidden Space,Sylhet (border areas),2.25,0.31641627895844593,0.745552767433498,False,-0.4203401295726688,False,-0.9954011888597659,Q1 (Closest),3,2,2,2
+google_gemini-3-flash-preview,Manipuri (Meitei),Everyday Life Narrative,Sylhet (border areas),1.5,0.39076282717789124,0.8246878198959292,False,-0.42094723669261647,False,-1.0159907037827935,Q1 (Closest),2,2,1,1
+google_gemini-3-flash-preview,Manipuri (Meitei),Change and Continuity,Sylhet (border areas),1.75,0.3772212552550638,0.810849529029978,False,-0.41902607530156827,False,-1.0255068110272485,Q1 (Closest),3,2,2,0
+google_gemini-3-flash-preview,Manipuri (Meitei),Trickster or Clever Figure,Sylhet (border areas),1.5,0.44912622119717793,0.8818486962116827,False,-0.4282860927703933,False,-1.01117699748522,Q3,2,1,2,1
+mistralai_mistral-large-2512,Manipuri (Meitei),Origin Story,Sylhet (border areas),1.25,0.4453083756336552,0.8782232534043226,True,-0.45392402890524225,True,-1.0924082495412513,Q2,2,1,1,1
+mistralai_mistral-large-2512,Manipuri (Meitei),Human–Nature Relationship,Sylhet (border areas),1.75,0.38675537634732304,0.8206168388028517,False,-0.4140634605296377,False,-1.0038751029420578,Q1 (Closest),2,2,2,1
+mistralai_mistral-large-2512,Manipuri (Meitei),Moral Transgression and Consequence,Sylhet (border areas),1.5,0.49460423381087215,0.9239415451951952,False,-0.4331810579154612,False,-1.0575519828204107,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Manipuri (Meitei),Wisdom of an Elder,Sylhet (border areas),2.0,0.48861775027590415,0.9185109345705412,True,-0.45739387488802163,False,-1.0699913065274569,Q3,3,2,2,1
+mistralai_mistral-large-2512,Manipuri (Meitei),Community Crisis,Sylhet (border areas),1.0,0.45454605136620374,0.8869699274285626,False,-0.42591524371659145,False,-1.0293858967920646,Q3,2,1,1,0
+mistralai_mistral-large-2512,Manipuri (Meitei),Rite of Passage,Sylhet (border areas),1.75,0.6062267034895095,1.0199171791826067,True,-0.45594865593992945,True,-1.0768832308503595,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Manipuri (Meitei),Trickster or Clever Figure,Sylhet (border areas),0.75,0.5945857688722707,1.0103338999975737,True,-0.4598901417740018,True,-1.07519421375933,Q4 (Farthest),1,1,1,0
+mistralai_mistral-large-2512,Manipuri (Meitei),Sacred or Forbidden Space,Sylhet (border areas),1.75,0.46363648114265055,0.8954938157271848,False,-0.43985094273279546,False,-1.048437236141364,Q3,2,2,2,1
+mistralai_mistral-large-2512,Manipuri (Meitei),Everyday Life Narrative,Sylhet (border areas),2.0,0.5744145514789201,0.9935094526141073,False,-0.4456316465941857,False,-1.046665669059398,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Manipuri (Meitei),Change and Continuity,Sylhet (border areas),1.75,0.43891856230894866,0.8721217511501735,False,-0.43915258864818557,False,-1.0430945327235128,Q2,2,2,2,1
+openai_gpt-5-mini,Manipuri (Meitei),Origin Story,Sylhet (border areas),1.75,0.3960202163906822,0.8299981966379355,False,-0.43411128328239107,False,-1.0346329523594295,Q1 (Closest),2,2,2,1
+openai_gpt-5-mini,Manipuri (Meitei),Human–Nature Relationship,Sylhet (border areas),1.75,0.3153732170838299,0.7443826956192499,False,-0.40390962292232113,False,-0.9928413072176203,Q1 (Closest),2,2,2,1
+openai_gpt-5-mini,Manipuri (Meitei),Moral Transgression and Consequence,Sylhet (border areas),1.75,0.4555622387727495,0.8879268183790119,False,-0.42566787426437785,False,-1.0241973042686077,Q3,2,2,2,1
+openai_gpt-5-mini,Manipuri (Meitei),Wisdom of an Elder,Sylhet (border areas),2.0,0.414004707583311,0.8479126472086509,False,-0.4106936794311218,False,-1.005003451151213,Q2,3,2,2,1
+openai_gpt-5-mini,Manipuri (Meitei),Community Crisis,Sylhet (border areas),1.75,0.3624780289850641,0.7955095379105546,False,-0.42804248623916236,False,-1.0033409736022734,Q1 (Closest),2,2,2,1
+openai_gpt-5-mini,Manipuri (Meitei),Rite of Passage,Sylhet (border areas),2.25,0.4849085092878105,0.9151299616813593,False,-0.4406785113145526,False,-1.0253559212776513,Q3,3,2,2,2
+openai_gpt-5-mini,Manipuri (Meitei),Trickster or Clever Figure,Sylhet (border areas),2.0,0.4076329422719801,0.8416092908170977,False,-0.4361672158612425,False,-0.9990916301862895,Q2,3,2,2,1
+openai_gpt-5-mini,Manipuri (Meitei),Sacred or Forbidden Space,Sylhet (border areas),2.5,0.3705732827756598,0.8039687114525425,False,-0.4254378871678653,False,-0.9995569692932028,Q1 (Closest),3,3,2,2
+openai_gpt-5-mini,Manipuri (Meitei),Change and Continuity,Sylhet (border areas),2.25,0.4322873763216478,0.865744265443614,False,-0.4464542702224079,False,-1.0088656548294883,Q2,3,2,2,2
+openai_gpt-5-mini,Manipuri (Meitei),Everyday Life Narrative,Sylhet (border areas),1.75,0.4294886556763109,0.8630384672199473,False,-0.4231007941826989,False,-1.024537941833982,Q2,2,2,2,1
+openai_gpt-5.1,Manipuri (Meitei),Origin Story,Sylhet (border areas),2.5,0.4081433776591705,0.8421160322450519,False,-0.43340168690330394,False,-1.0289488994949108,Q2,3,3,2,2
+openai_gpt-5.1,Manipuri (Meitei),Human–Nature Relationship,Sylhet (border areas),2.5,0.33839273334644826,0.7697920978447472,False,-0.40418817649261896,False,-0.9978289250206025,Q1 (Closest),3,3,2,2
+openai_gpt-5.1,Manipuri (Meitei),Moral Transgression and Consequence,Sylhet (border areas),2.75,0.46981583316816233,0.9012421000328751,False,-0.42364941259198274,False,-1.0386146084922891,Q3,3,3,3,2
+openai_gpt-5.1,Manipuri (Meitei),Wisdom of an Elder,Sylhet (border areas),2.75,0.4359514909501847,0.8692739352353553,False,-0.43946056974169695,False,-1.0258127738492369,Q2,3,2,3,3
+openai_gpt-5.1,Manipuri (Meitei),Community Crisis,Sylhet (border areas),2.75,0.44539500905654295,0.8783056302185945,False,-0.42399776237159537,False,-1.01041159489336,Q2,3,3,3,2
+openai_gpt-5.1,Manipuri (Meitei),Rite of Passage,Sylhet (border areas),3.0,0.48879384719622465,0.9186711388022305,False,-0.43438637936575514,False,-1.0099967875608722,Q3,3,4,3,2
+openai_gpt-5.1,Manipuri (Meitei),Trickster or Clever Figure,Sylhet (border areas),2.75,0.5201675844930429,0.9467807937941196,False,-0.4333937593810472,False,-1.0317427906319865,Q4 (Farthest),3,3,3,2
+openai_gpt-5.1,Manipuri (Meitei),Sacred or Forbidden Space,Sylhet (border areas),2.75,0.38773185144544664,0.8216106626603701,False,-0.41319903878549724,False,-1.0041089572956843,Q1 (Closest),3,3,3,2
+openai_gpt-5.1,Manipuri (Meitei),Everyday Life Narrative,Sylhet (border areas),2.5,0.5193898803681762,0.9460941323229416,False,-0.4454660179880589,False,-1.0186538831669887,Q4 (Farthest),3,2,3,2
+openai_gpt-5.1,Manipuri (Meitei),Change and Continuity,Sylhet (border areas),2.75,0.4472498765141678,0.8800687624524625,False,-0.4351533995117359,False,-1.0330391856639165,Q3,3,3,2,3
+qwen_qwen3-8b,Manipuri (Meitei),Trickster or Clever Figure,Sylhet (border areas),1.5,0.6651701775021218,1.067121233183787,True,-0.4624807603484303,True,-1.1624694075707978,Q4 (Farthest),2,2,1,1
+qwen_qwen3-8b,Manipuri (Meitei),Origin Story,Sylhet (border areas),1.75,0.2939904249605836,0.7199770527012221,False,-0.4453303845223625,False,-1.012998637631729,Q1 (Closest),2,2,2,1
+qwen_qwen3-8b,Manipuri (Meitei),Human–Nature Relationship,Sylhet (border areas),2.5,0.3625756876596351,0.7956121315829797,False,-0.4348968520622223,False,-1.0067238899177566,Q1 (Closest),3,3,2,2
+qwen_qwen3-8b,Manipuri (Meitei),Moral Transgression and Consequence,Sylhet (border areas),2.25,0.4405035863772423,0.8736391997001576,False,-0.4219849633147075,False,-1.055432643822551,Q2,3,2,2,2
+qwen_qwen3-8b,Manipuri (Meitei),Wisdom of an Elder,Sylhet (border areas),2.5,0.4304342153431674,0.8639536041331299,True,-0.4557056213065416,False,-1.0588241304075758,Q2,3,3,2,2
+qwen_qwen3-8b,Manipuri (Meitei),Community Crisis,Sylhet (border areas),1.5,0.4952027454756669,0.9244827286980177,False,-0.43135639897307154,True,-1.1107931614719604,Q4 (Farthest),1,2,2,1
+qwen_qwen3-8b,Manipuri (Meitei),Rite of Passage,Sylhet (border areas),2.75,0.6662843237166708,1.0679933730532338,True,-0.47453003563902013,True,-1.1150331931961073,Q4 (Farthest),4,3,2,2
+qwen_qwen3-8b,Manipuri (Meitei),Sacred or Forbidden Space,Sylhet (border areas),2.0,0.4509968255718182,0.8836195848224755,False,-0.4470428130138561,False,-1.0326155570163489,Q3,2,3,2,1
+qwen_qwen3-8b,Manipuri (Meitei),Everyday Life Narrative,Sylhet (border areas),1.75,0.4274489330884397,0.8610610882585937,False,-0.4294336789220575,False,-1.0401858120592438,Q2,2,2,2,1
+qwen_qwen3-8b,Manipuri (Meitei),Change and Continuity,Sylhet (border areas),2.25,0.4662166019082161,0.8978984350042948,True,-0.4544920737266321,False,-1.0640857483446213,Q3,3,2,2,2
+google_gemini-3-flash-preview,Marma,Origin Story,Chittagong Hill Tracts,2.75,0.4468921015796936,0.8797290111303158,False,-0.4455316630386888,False,-1.0153704503087313,Q3,4,2,3,2
+google_gemini-3-flash-preview,Marma,Human–Nature Relationship,Chittagong Hill Tracts,2.25,0.35649052005594006,0.789194555077409,False,-0.4130969990941397,False,-0.9862778779720344,Q1 (Closest),4,2,2,1
+google_gemini-3-flash-preview,Marma,Moral Transgression and Consequence,Chittagong Hill Tracts,1.75,0.3961465192499498,0.8301253458640302,False,-0.4182608881837992,False,-0.9995282251190091,Q1 (Closest),2,3,2,0
+google_gemini-3-flash-preview,Marma,Wisdom of an Elder,Chittagong Hill Tracts,1.0,0.4407868434158594,0.873910105115206,False,-0.41237989127867897,False,-0.9973310376242381,Q2,2,1,1,0
+google_gemini-3-flash-preview,Marma,Community Crisis,Chittagong Hill Tracts,1.5,0.4471403865756489,0.8799648111557757,False,-0.4191560903225545,False,-0.9997874461509186,Q3,1,2,2,1
+google_gemini-3-flash-preview,Marma,Rite of Passage,Chittagong Hill Tracts,1.75,0.46021565271510334,0.89229577244074,False,-0.4339263100225498,False,-1.0090316399797545,Q3,4,1,1,1
+google_gemini-3-flash-preview,Marma,Trickster or Clever Figure,Chittagong Hill Tracts,2.0,0.4486700514890467,0.881416323262013,False,-0.4412241368672637,False,-1.0099718114439835,Q3,2,2,2,2
+google_gemini-3-flash-preview,Marma,Sacred or Forbidden Space,Chittagong Hill Tracts,2.5,0.4172953689471781,0.851149706643117,False,-0.42727676207458687,False,-0.9982617101998678,Q2,4,3,2,1
+google_gemini-3-flash-preview,Marma,Everyday Life Narrative,Chittagong Hill Tracts,1.75,0.4034622273701379,0.8374577152732414,False,-0.42392705501740496,False,-1.019719947059805,Q2,2,3,2,0
+google_gemini-3-flash-preview,Marma,Change and Continuity,Chittagong Hill Tracts,1.75,0.40741439683447234,0.8413922601771352,False,-0.4223604153134655,False,-1.0038379933779766,Q2,3,2,2,0
+mistralai_mistral-large-2512,Marma,Trickster or Clever Figure,Chittagong Hill Tracts,1.0,0.5088581013314235,0.9367451816537382,False,-0.4474571235421799,False,-1.0171911081089662,Q4 (Farthest),1,1,2,0
+mistralai_mistral-large-2512,Marma,Everyday Life Narrative,Chittagong Hill Tracts,0.75,0.491303050528866,0.9209508380162502,False,-0.4379700040072106,False,-1.0382869818310958,Q4 (Farthest),1,1,1,0
+mistralai_mistral-large-2512,Marma,Origin Story,Chittagong Hill Tracts,1.5,0.5062096499594131,0.934379462746189,False,-0.43024035514592096,False,-1.0237660463521054,Q4 (Farthest),2,1,2,1
+mistralai_mistral-large-2512,Marma,Human–Nature Relationship,Chittagong Hill Tracts,1.5,0.4039810193128016,0.8379752327069738,False,-0.42503240058796043,False,-0.9979641004878893,Q2,2,1,2,1
+mistralai_mistral-large-2512,Marma,Moral Transgression and Consequence,Chittagong Hill Tracts,1.25,0.40034231960565625,0.8343385858150879,False,-0.4231205095283054,False,-0.9985007205864754,Q1 (Closest),2,2,1,0
+mistralai_mistral-large-2512,Marma,Wisdom of an Elder,Chittagong Hill Tracts,1.25,0.4559313243572234,0.8882741711957797,False,-0.4325264949599092,False,-1.0141355755360733,Q3,2,1,2,0
+mistralai_mistral-large-2512,Marma,Community Crisis,Chittagong Hill Tracts,2.25,0.47116824024407,0.9024951737406167,False,-0.4186977325107733,False,-1.028830590146427,Q3,3,2,2,2
+mistralai_mistral-large-2512,Marma,Rite of Passage,Chittagong Hill Tracts,1.5,0.5372343812936051,0.9617270780648619,False,-0.41167164118792926,False,-1.0270079934839484,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Marma,Sacred or Forbidden Space,Chittagong Hill Tracts,1.5,0.5157430984193616,0.9428674279900148,False,-0.4320072585423003,False,-1.0215614211425632,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Marma,Change and Continuity,Chittagong Hill Tracts,1.5,0.44183518049343484,0.8749120032447328,False,-0.42349759201018894,False,-1.0031234493390129,Q2,2,2,1,1
+openai_gpt-5-mini,Marma,Origin Story,Chittagong Hill Tracts,2.0,0.35067285498245304,0.7830099329457548,False,-0.4067963889098768,False,-1.0005760794918164,Q1 (Closest),3,2,2,1
+openai_gpt-5-mini,Marma,Human–Nature Relationship,Chittagong Hill Tracts,1.25,0.32677896561586706,0.7570791771171514,False,-0.4049405825639401,False,-0.9932871028866306,Q1 (Closest),2,1,1,1
+openai_gpt-5-mini,Marma,Moral Transgression and Consequence,Chittagong Hill Tracts,1.5,0.3897733829996469,0.8236845294751542,False,-0.42625581962210335,False,-1.0150027603020038,Q1 (Closest),2,2,1,1
+openai_gpt-5-mini,Marma,Wisdom of an Elder,Chittagong Hill Tracts,1.75,0.4393774207780251,0.8725612675791178,False,-0.42092267095100805,False,-1.0144716104485618,Q2,2,2,2,1
+openai_gpt-5-mini,Marma,Community Crisis,Chittagong Hill Tracts,1.5,0.40915468916422293,0.8431190291479611,False,-0.4067021495272209,False,-0.991498152925154,Q2,2,2,1,1
+openai_gpt-5-mini,Marma,Rite of Passage,Chittagong Hill Tracts,1.5,0.5382325038384647,0.9625939993352013,False,-0.43488365347984165,False,-1.0142191566286385,Q4 (Farthest),3,1,1,1
+openai_gpt-5-mini,Marma,Sacred or Forbidden Space,Chittagong Hill Tracts,1.75,0.3647252348726341,0.7978667799529673,False,-0.4050107656789047,False,-0.9961656172741549,Q1 (Closest),2,2,2,1
+openai_gpt-5-mini,Marma,Everyday Life Narrative,Chittagong Hill Tracts,1.75,0.4249087508630387,0.8585922719859184,False,-0.435128714480785,False,-1.0378114077165381,Q2,2,2,2,1
+openai_gpt-5-mini,Marma,Change and Continuity,Chittagong Hill Tracts,1.75,0.408454736177149,0.8424249317365329,False,-0.43400530859158454,False,-1.0057620245482561,Q2,2,2,2,1
+openai_gpt-5-mini,Marma,Trickster or Clever Figure,Chittagong Hill Tracts,1.75,0.44589438393744085,0.8787806606279175,False,-0.42509519379519045,False,-1.0014661475375344,Q2,2,2,2,1
+openai_gpt-5.1,Marma,Origin Story,Chittagong Hill Tracts,2.5,0.44572998035107847,0.878624337241838,False,-0.4153487029004703,False,-0.9916848268488551,Q2,3,3,2,2
+openai_gpt-5.1,Marma,Human–Nature Relationship,Chittagong Hill Tracts,2.75,0.35150127793551955,0.7838936062371978,False,-0.41004191117026995,False,-0.9861164694703609,Q1 (Closest),3,3,2,3
+openai_gpt-5.1,Marma,Moral Transgression and Consequence,Chittagong Hill Tracts,3.0,0.5224836192394303,0.9488228636100137,False,-0.4132442766250451,False,-1.026910984748975,Q4 (Farthest),4,3,3,2
+openai_gpt-5.1,Marma,Wisdom of an Elder,Chittagong Hill Tracts,2.75,0.3591252969574692,0.7919796210131875,False,-0.4147542912798042,False,-0.9953031600137207,Q1 (Closest),3,3,2,3
+openai_gpt-5.1,Marma,Community Crisis,Chittagong Hill Tracts,2.75,0.3919638024763952,0.82590391762437,False,-0.413131152067696,False,-0.99188064664615,Q1 (Closest),3,3,3,2
+openai_gpt-5.1,Marma,Rite of Passage,Chittagong Hill Tracts,3.0,0.4591135185802414,0.89126292653556,False,-0.41250710759282616,False,-1.0144425275657627,Q3,4,3,3,2
+openai_gpt-5.1,Marma,Trickster or Clever Figure,Chittagong Hill Tracts,3.25,0.5052362081561159,0.9335084355542347,False,-0.43179387832940574,False,-1.0554294400618898,Q4 (Farthest),4,3,3,3
+openai_gpt-5.1,Marma,Sacred or Forbidden Space,Chittagong Hill Tracts,2.5,0.4239902611461801,0.857697815578908,False,-0.4117273504847891,False,-0.9979442044936642,Q2,3,3,2,2
+openai_gpt-5.1,Marma,Everyday Life Narrative,Chittagong Hill Tracts,3.0,0.4565624271267035,0.8888676640185833,False,-0.43900555897618915,False,-1.0135307448133017,Q3,4,3,3,2
+openai_gpt-5.1,Marma,Change and Continuity,Chittagong Hill Tracts,2.5,0.43199933451663464,0.8654661502195148,False,-0.43219347750591897,False,-1.0037965462894982,Q2,3,3,2,2
+qwen_qwen3-8b,Marma,Community Crisis,Chittagong Hill Tracts,1.75,0.3875911050336408,0.8214674932703995,False,-0.4244934325356748,False,-1.0118175840484898,Q1 (Closest),2,2,2,1
+qwen_qwen3-8b,Marma,Moral Transgression and Consequence,Chittagong Hill Tracts,2.25,0.4541413879450096,0.8865885810175946,True,-0.4506060416136802,True,-1.1077016069490306,Q3,3,2,2,2
+qwen_qwen3-8b,Marma,Origin Story,Chittagong Hill Tracts,1.75,0.41751337539822697,0.8513636965489233,False,-0.42940725527539775,False,-1.033029505465898,Q2,2,2,2,1
+qwen_qwen3-8b,Marma,Human–Nature Relationship,Chittagong Hill Tracts,1.75,0.4662788029053794,0.8979562692915442,False,-0.4491578929058808,False,-1.0394928733296758,Q3,2,2,2,1
+qwen_qwen3-8b,Marma,Wisdom of an Elder,Chittagong Hill Tracts,2.0,0.3882395405755015,0.8221268788809526,False,-0.43347406521233195,False,-1.0158881979422396,Q1 (Closest),2,3,2,1
+qwen_qwen3-8b,Marma,Rite of Passage,Chittagong Hill Tracts,2.5,0.6116359944146127,1.024339761289106,False,-0.4417975814976443,True,-1.0737318154795443,Q4 (Farthest),3,3,2,2
+qwen_qwen3-8b,Marma,Trickster or Clever Figure,Chittagong Hill Tracts,2.25,0.5406404063725082,0.9646821929628676,True,-0.4822575536881302,False,-1.057971689582162,Q4 (Farthest),3,2,2,2
+qwen_qwen3-8b,Marma,Sacred or Forbidden Space,Chittagong Hill Tracts,2.5,0.4464972527402079,0.8793538119679899,False,-0.42544436559488674,False,-1.037403212293985,Q3,3,3,2,2
+qwen_qwen3-8b,Marma,Everyday Life Narrative,Chittagong Hill Tracts,1.75,0.4906819624572729,0.9203871103980872,False,-0.4372015423124856,False,-1.0698193277261345,Q4 (Farthest),2,2,2,1
+qwen_qwen3-8b,Marma,Change and Continuity,Chittagong Hill Tracts,2.0,0.39595202125473405,0.8299295554456755,False,-0.41890232602053873,False,-1.0125156047495278,Q1 (Closest),2,3,2,1
+google_gemini-3-flash-preview,Mro,Origin Story,Bandarban,2.0,0.4442235974253955,0.8771903761660352,False,-0.4372202869413951,False,-1.0356865891562699,Q2,3,2,2,1
+google_gemini-3-flash-preview,Mro,Human–Nature Relationship,Bandarban,1.75,0.40361192810324764,0.8376071225270081,False,-0.41642975201180066,False,-1.0022811093767494,Q2,2,2,2,1
+google_gemini-3-flash-preview,Mro,Moral Transgression and Consequence,Bandarban,1.25,0.4184338110568998,0.8522667112031267,False,-0.4392560559673665,False,-1.0075129632117643,Q2,1,1,2,1
+google_gemini-3-flash-preview,Mro,Wisdom of an Elder,Bandarban,1.75,0.5009796574777858,0.9296900903468611,False,-0.41088058625156293,False,-1.0212615901234283,Q4 (Farthest),3,2,1,1
+google_gemini-3-flash-preview,Mro,Community Crisis,Bandarban,2.0,0.4381538236750303,0.8713886126163636,False,-0.41565143467603666,False,-0.9989230672487841,Q2,3,2,2,1
+google_gemini-3-flash-preview,Mro,Rite of Passage,Bandarban,1.75,0.4657206816382602,0.8974367614073195,True,-0.45343688928876424,True,-1.0738550515545202,Q3,2,2,2,1
+google_gemini-3-flash-preview,Mro,Trickster or Clever Figure,Bandarban,1.75,0.4760010233492501,0.9069592016069333,False,-0.4212629270694843,False,-1.0113230800828674,Q3,2,2,1,2
+google_gemini-3-flash-preview,Mro,Sacred or Forbidden Space,Bandarban,1.5,0.3637960512067625,0.7968929148960548,False,-0.4220885049933674,False,-0.9988491776481062,Q1 (Closest),1,2,1,2
+google_gemini-3-flash-preview,Mro,Everyday Life Narrative,Bandarban,1.75,0.4819684901453162,0.9124411671611772,False,-0.4413484761831261,False,-1.0030452714429148,Q3,2,1,3,1
+google_gemini-3-flash-preview,Mro,Change and Continuity,Bandarban,1.75,0.4827288968202419,0.913137339302564,False,-0.4326885496515824,False,-1.0057878379951455,Q3,2,1,2,2
+mistralai_mistral-large-2512,Mro,Rite of Passage,Bandarban,1.25,0.5529385844879517,0.9752777078069704,False,-0.42419347976817573,False,-1.0574380158237109,Q4 (Farthest),2,1,1,1
+mistralai_mistral-large-2512,Mro,Origin Story,Bandarban,1.75,0.5218134562497889,0.9482324185435166,False,-0.42549139196016333,False,-1.025967446494258,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Mro,Human–Nature Relationship,Bandarban,2.0,0.40774619002941315,0.8417217341599691,False,-0.42763030899476717,False,-1.004709950433568,Q2,2,2,3,1
+mistralai_mistral-large-2512,Mro,Moral Transgression and Consequence,Bandarban,1.25,0.5533789505564247,0.9756549551806705,False,-0.4413359391380182,False,-1.03810280630245,Q4 (Farthest),2,2,1,0
+mistralai_mistral-large-2512,Mro,Wisdom of an Elder,Bandarban,2.0,0.4927242964979147,0.922239637895153,False,-0.4084581346689535,False,-1.029355553537512,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Mro,Community Crisis,Bandarban,2.0,0.3895999307655734,0.8235085661926852,False,-0.42446135902204724,False,-0.9969976848560315,Q1 (Closest),3,2,2,1
+mistralai_mistral-large-2512,Mro,Trickster or Clever Figure,Bandarban,1.5,0.5813391958342033,0.9993170654358536,True,-0.45301458588816096,False,-1.057664770823418,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Mro,Sacred or Forbidden Space,Bandarban,1.5,0.40705569360197,0.8410359302671001,False,-0.43508258583266624,False,-1.004278896311479,Q2,2,1,1,2
+mistralai_mistral-large-2512,Mro,Everyday Life Narrative,Bandarban,2.25,0.47488120623668584,0.905926798188648,False,-0.41648110355378665,False,-1.0100695032824625,Q3,3,2,2,2
+mistralai_mistral-large-2512,Mro,Change and Continuity,Bandarban,2.25,0.5148737403677228,0.9420965328703214,False,-0.4197678399678265,False,-1.0209974978817498,Q4 (Farthest),3,2,2,2
+openai_gpt-5-mini,Mro,Origin Story,Bandarban,2.0,0.3418636551474976,0.7735509110161947,False,-0.3986142272057437,False,-0.9939475205390143,Q1 (Closest),2,2,3,1
+openai_gpt-5-mini,Mro,Human–Nature Relationship,Bandarban,2.25,0.3373252576525563,0.7686323665236783,False,-0.40263260359413966,False,-0.9874457951655673,Q1 (Closest),2,2,3,2
+openai_gpt-5-mini,Mro,Moral Transgression and Consequence,Bandarban,2.25,0.41788860225583435,0.8517319712660361,False,-0.4019317724314776,False,-1.0187131420873021,Q2,3,2,2,2
+openai_gpt-5-mini,Mro,Wisdom of an Elder,Bandarban,2.25,0.4464544213992746,0.8793131410610652,False,-0.42756621562933544,False,-1.008214695746707,Q3,2,2,3,2
+openai_gpt-5-mini,Mro,Community Crisis,Bandarban,2.0,0.4215669678201871,0.8553334326122405,False,-0.42849009828338785,False,-1.0068806170226974,Q2,2,2,2,2
+openai_gpt-5-mini,Mro,Rite of Passage,Bandarban,2.5,0.5230274507021793,0.9493017653745539,False,-0.4236947181782553,False,-1.0543166739879166,Q4 (Farthest),3,3,2,2
+openai_gpt-5-mini,Mro,Trickster or Clever Figure,Bandarban,2.25,0.4434506961711795,0.8764537246213903,False,-0.43558710793336824,False,-0.996165556394549,Q2,3,2,2,2
+openai_gpt-5-mini,Mro,Sacred or Forbidden Space,Bandarban,2.0,0.3631645433828079,0.7962303904558773,False,-0.4081384540493853,False,-1.0111288734854222,Q1 (Closest),2,2,2,2
+openai_gpt-5-mini,Mro,Everyday Life Narrative,Bandarban,1.75,0.41523358840942093,0.8491229473713231,False,-0.4145855713124273,False,-1.007179083264005,Q2,2,2,2,1
+openai_gpt-5-mini,Mro,Change and Continuity,Bandarban,2.25,0.3554675846517342,0.7881106434232207,False,-0.4201822976259778,False,-0.9926453938934712,Q1 (Closest),3,2,2,2
+openai_gpt-5.1,Mro,Origin Story,Bandarban,2.75,0.48463485173978527,0.9148799687920238,False,-0.42949380894555916,False,-1.0046378106126803,Q3,3,3,2,3
+openai_gpt-5.1,Mro,Human–Nature Relationship,Bandarban,2.5,0.3597293257652908,0.7926167706145235,False,-0.416657469985642,False,-0.9906114261543001,Q1 (Closest),3,4,2,1
+openai_gpt-5.1,Mro,Moral Transgression and Consequence,Bandarban,2.75,0.4462995013712677,0.8791658231226754,False,-0.414612382599476,False,-1.0014060801901428,Q3,3,3,3,2
+openai_gpt-5.1,Mro,Wisdom of an Elder,Bandarban,2.75,0.5160986780658949,0.9431824968847953,False,-0.4338764840381338,False,-1.0330292008227315,Q4 (Farthest),3,3,3,2
+openai_gpt-5.1,Mro,Community Crisis,Bandarban,2.5,0.4492017915671318,0.8819202497177365,False,-0.42924249477466914,False,-0.9933059935197213,Q3,3,3,2,2
+openai_gpt-5.1,Mro,Rite of Passage,Bandarban,3.5,0.46839477577378585,0.8999233625056302,False,-0.4135877716096619,False,-1.054041122788528,Q3,4,4,3,3
+openai_gpt-5.1,Mro,Trickster or Clever Figure,Bandarban,2.75,0.5136519109421617,0.9410121030640219,False,-0.41931383289814367,False,-1.0173683957746553,Q4 (Farthest),3,2,3,3
+openai_gpt-5.1,Mro,Sacred or Forbidden Space,Bandarban,2.5,0.4123681137171157,0.8462981069164945,False,-0.41518330422056887,False,-1.013913399258639,Q2,3,3,2,2
+openai_gpt-5.1,Mro,Everyday Life Narrative,Bandarban,2.5,0.4606783949814697,0.8927290570497616,False,-0.4132615235702099,False,-1.012341286095355,Q3,2,3,3,2
+openai_gpt-5.1,Mro,Change and Continuity,Bandarban,2.5,0.38345147012507375,0.8172453536933292,False,-0.42135231466706835,False,-1.003926797594048,Q1 (Closest),2,3,3,2
+qwen_qwen3-8b,Mro,Origin Story,Bandarban,2.25,0.3899219746951378,0.8238352766855546,False,-0.4481784659603724,False,-1.0222577312225605,Q1 (Closest),3,3,2,1
+qwen_qwen3-8b,Mro,Human–Nature Relationship,Bandarban,2.5,0.4464421918158893,0.8793014876535281,False,-0.43249521850716344,False,-1.0139404039597397,Q3,3,3,2,2
+qwen_qwen3-8b,Mro,Moral Transgression and Consequence,Bandarban,1.75,0.4596246403698494,0.89174207658185,False,-0.4234699427366307,True,-1.0711911944627421,Q3,2,2,2,1
+qwen_qwen3-8b,Mro,Wisdom of an Elder,Bandarban,2.25,0.4730708126759312,0.9042552317650265,False,-0.44896609351811173,False,-1.0441502628129211,Q3,3,2,2,2
+qwen_qwen3-8b,Mro,Community Crisis,Bandarban,2.5,0.395640979890719,0.8296162895928135,False,-0.420161982047871,False,-1.0245036189413808,Q1 (Closest),3,3,2,2
+qwen_qwen3-8b,Mro,Rite of Passage,Bandarban,2.0,0.5139350331014929,0.9412634766630061,False,-0.43952684861257374,True,-1.0724508140839784,Q4 (Farthest),3,2,2,1
+qwen_qwen3-8b,Mro,Trickster or Clever Figure,Bandarban,2.25,0.45972846858685135,0.8918393419377482,True,-0.4610468558976858,False,-1.0183795627318797,Q3,3,3,2,1
+qwen_qwen3-8b,Mro,Sacred or Forbidden Space,Bandarban,2.5,0.3653989368238044,0.7985720944113577,False,-0.4268851179092524,False,-1.014237586757664,Q1 (Closest),3,2,3,2
+qwen_qwen3-8b,Mro,Everyday Life Narrative,Bandarban,2.5,0.4328792682590732,0.8663154005292859,False,-0.4290034689655002,False,-1.0170961762784436,Q2,3,3,2,2
+qwen_qwen3-8b,Mro,Change and Continuity,Bandarban,1.5,0.5765492437638233,0.9953033887268542,False,-0.4503471352000183,True,-1.1470510166966228,Q4 (Farthest),2,2,1,1
+google_gemini-3-flash-preview,Oraon (Kurukh),Origin Story,North Bengal,2.25,0.4735501681353903,0.9046980960342019,False,-0.42847426909361347,False,-1.0366726020069654,Q3,3,3,2,1
+google_gemini-3-flash-preview,Oraon (Kurukh),Human–Nature Relationship,North Bengal,1.5,0.3485565408152841,0.7807479994756817,False,-0.4388337177103637,False,-1.0233517423477974,Q1 (Closest),2,2,1,1
+google_gemini-3-flash-preview,Oraon (Kurukh),Moral Transgression and Consequence,North Bengal,1.75,0.3887951176652287,0.8226914426335061,False,-0.42792017374847924,False,-1.0380113714975523,Q1 (Closest),2,2,1,2
+google_gemini-3-flash-preview,Oraon (Kurukh),Wisdom of an Elder,North Bengal,2.25,0.39574296296833467,0.8297190224497324,False,-0.42086598076008014,False,-1.013861732586593,Q1 (Closest),3,2,2,2
+google_gemini-3-flash-preview,Oraon (Kurukh),Community Crisis,North Bengal,2.0,0.37183467664768965,0.8052787598218879,False,-0.41893329892353887,False,-1.0228218909063647,Q1 (Closest),2,2,2,2
+google_gemini-3-flash-preview,Oraon (Kurukh),Rite of Passage,North Bengal,1.5,0.48781878822182434,0.9177837531683639,False,-0.4418981282440493,False,-1.061389296690604,Q3,2,1,2,1
+google_gemini-3-flash-preview,Oraon (Kurukh),Trickster or Clever Figure,North Bengal,1.5,0.43469579844576156,0.8680659203886356,False,-0.4387587475393555,False,-1.01051362926781,Q2,2,2,1,1
+google_gemini-3-flash-preview,Oraon (Kurukh),Sacred or Forbidden Space,North Bengal,2.0,0.353292309259138,0.7858006519287072,False,-0.42126627443205134,False,-1.0187302674595018,Q1 (Closest),3,2,1,2
+google_gemini-3-flash-preview,Oraon (Kurukh),Everyday Life Narrative,North Bengal,1.25,0.4516995146221826,0.8842839130969623,False,-0.428342930797255,False,-1.0264669194780658,Q3,2,1,1,1
+google_gemini-3-flash-preview,Oraon (Kurukh),Change and Continuity,North Bengal,2.0,0.36035637893512606,0.7932776067670645,True,-0.46189772645331656,False,-1.0321398063496152,Q1 (Closest),3,2,1,2
+mistralai_mistral-large-2512,Oraon (Kurukh),Trickster or Clever Figure,North Bengal,1.75,0.49503116430701977,0.9243276118360707,True,-0.45740651623615425,False,-0.9977431742921894,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Oraon (Kurukh),Everyday Life Narrative,North Bengal,1.75,0.5329564595541609,0.9580025866274093,False,-0.42955816288178317,False,-1.0264581442665839,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Oraon (Kurukh),Origin Story,North Bengal,1.25,0.5209476071229665,0.9474690500584382,False,-0.44265848832312005,True,-1.0715471238523162,Q4 (Farthest),2,1,1,1
+mistralai_mistral-large-2512,Oraon (Kurukh),Human–Nature Relationship,North Bengal,1.75,0.4610674766159444,0.8930931772543216,False,-0.4256273519366852,False,-1.023821569908733,Q3,3,2,2,0
+mistralai_mistral-large-2512,Oraon (Kurukh),Moral Transgression and Consequence,North Bengal,1.75,0.41201613695302475,0.8459504562813727,False,-0.42016275254854735,False,-1.03313087121763,Q2,2,2,2,1
+mistralai_mistral-large-2512,Oraon (Kurukh),Wisdom of an Elder,North Bengal,1.5,0.43382508306294276,0.8672272703961398,False,-0.44588560123212795,False,-1.0216023175607343,Q2,2,2,1,1
+mistralai_mistral-large-2512,Oraon (Kurukh),Community Crisis,North Bengal,1.75,0.4098838981342492,0.843841484628931,False,-0.4222762655624437,False,-1.024772471140834,Q2,2,2,2,1
+mistralai_mistral-large-2512,Oraon (Kurukh),Rite of Passage,North Bengal,1.75,0.5667041004761522,0.9870025090292469,False,-0.42999334830380515,False,-1.0531789026808238,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Oraon (Kurukh),Sacred or Forbidden Space,North Bengal,1.5,0.5353366799911907,0.960076653765705,False,-0.4386868794732117,False,-1.0443062264617282,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Oraon (Kurukh),Change and Continuity,North Bengal,1.75,0.48819624176595044,0.9181272739705957,False,-0.42644889236737793,False,-1.0424172877252171,Q3,2,2,2,1
+openai_gpt-5-mini,Oraon (Kurukh),Origin Story,North Bengal,1.75,0.434145305266871,0.8675358107043049,False,-0.425630731837293,False,-1.0255247095894446,Q2,2,2,2,1
+openai_gpt-5-mini,Oraon (Kurukh),Human–Nature Relationship,North Bengal,2.25,0.33018816366282167,0.7608330817312383,False,-0.43191948325267326,False,-0.9961914392919822,Q1 (Closest),3,2,2,2
+openai_gpt-5-mini,Oraon (Kurukh),Moral Transgression and Consequence,North Bengal,2.25,0.3809674500709026,0.8147013235182381,False,-0.41381111991913294,False,-1.0041705190865629,Q1 (Closest),3,2,2,2
+openai_gpt-5-mini,Oraon (Kurukh),Wisdom of an Elder,North Bengal,2.25,0.4477699291799946,0.8805624771244484,False,-0.4322242244224372,True,-1.0750869954978457,Q3,2,2,3,2
+openai_gpt-5-mini,Oraon (Kurukh),Community Crisis,North Bengal,3.0,0.41629125824481117,0.850163237672354,False,-0.4007778701106897,False,-1.0008842402100286,Q2,3,3,3,3
+openai_gpt-5-mini,Oraon (Kurukh),Rite of Passage,North Bengal,2.5,0.42673399544214263,0.8603669369073754,False,-0.41527059242105857,False,-1.0031805508546285,Q2,3,3,2,2
+openai_gpt-5-mini,Oraon (Kurukh),Trickster or Clever Figure,North Bengal,2.5,0.4621840706066307,0.894137398392425,False,-0.4329081806973153,False,-1.0002535739258218,Q3,3,3,2,2
+openai_gpt-5-mini,Oraon (Kurukh),Sacred or Forbidden Space,North Bengal,2.5,0.32386447439554744,0.7538552018854331,False,-0.41825092247829954,False,-0.9982543470211154,Q1 (Closest),3,2,3,2
+openai_gpt-5-mini,Oraon (Kurukh),Everyday Life Narrative,North Bengal,2.5,0.4508916249545153,0.8835201419270995,False,-0.42817517103057406,False,-1.0120862255972358,Q3,2,3,3,2
+openai_gpt-5-mini,Oraon (Kurukh),Change and Continuity,North Bengal,2.5,0.42995206539333897,0.8634870376981655,False,-0.4144340443882555,False,-1.003536567159962,Q2,2,3,3,2
+openai_gpt-5.1,Oraon (Kurukh),Origin Story,North Bengal,2.5,0.4155677786085997,0.8494517739563534,False,-0.43979290067679083,False,-1.0363354626468737,Q2,3,3,2,2
+openai_gpt-5.1,Oraon (Kurukh),Human–Nature Relationship,North Bengal,2.25,0.3219479075410875,0.7517275685008811,False,-0.4200950217887157,False,-1.0187323449752346,Q1 (Closest),4,2,2,1
+openai_gpt-5.1,Oraon (Kurukh),Moral Transgression and Consequence,North Bengal,2.75,0.39202556997711446,0.8259664160511592,False,-0.4275118612682343,False,-1.018462885501387,Q1 (Closest),3,2,3,3
+openai_gpt-5.1,Oraon (Kurukh),Wisdom of an Elder,North Bengal,3.0,0.4029027382331367,0.8368992035761892,False,-0.4419082948786028,False,-1.0101827513774153,Q2,4,3,2,3
+openai_gpt-5.1,Oraon (Kurukh),Community Crisis,North Bengal,2.5,0.42726760558287846,0.8608851034061861,False,-0.42868726710720373,False,-0.9996278455405478,Q2,2,3,2,3
+openai_gpt-5.1,Oraon (Kurukh),Rite of Passage,North Bengal,2.75,0.4532766161027071,0.8857730908045482,False,-0.42542176808816945,False,-1.0235280873180939,Q3,3,3,3,2
+openai_gpt-5.1,Oraon (Kurukh),Trickster or Clever Figure,North Bengal,2.5,0.4088308471995519,0.8427979314544783,False,-0.41329013157923394,False,-1.0120840865682053,Q2,2,3,3,2
+openai_gpt-5.1,Oraon (Kurukh),Sacred or Forbidden Space,North Bengal,2.75,0.4702165876821788,0.901613582844043,False,-0.4308329651222699,False,-1.024744429135311,Q3,3,3,3,2
+openai_gpt-5.1,Oraon (Kurukh),Everyday Life Narrative,North Bengal,3.25,0.4464223321651123,0.8792825687675185,False,-0.4119969683092227,False,-1.0139144042531227,Q3,4,3,3,3
+openai_gpt-5.1,Oraon (Kurukh),Change and Continuity,North Bengal,2.75,0.38877284519135835,0.8226687874475583,False,-0.43219454351338393,False,-1.010510564299572,Q1 (Closest),3,3,3,2
+qwen_qwen3-8b,Oraon (Kurukh),Community Crisis,North Bengal,0.75,0.5096417456552269,0.9374439850298548,True,-0.4588249100863927,True,-1.1072242688466045,Q4 (Farthest),0,1,1,1
+qwen_qwen3-8b,Oraon (Kurukh),Human–Nature Relationship,North Bengal,2.5,0.39844552649755205,0.8324365415446402,False,-0.4393864729570704,False,-1.0012929419454202,Q1 (Closest),3,2,3,2
+qwen_qwen3-8b,Oraon (Kurukh),Moral Transgression and Consequence,North Bengal,1.5,0.5219498413297783,0.9483526266399757,False,-0.43832597329629813,True,-1.1046638927048025,Q4 (Farthest),2,2,1,1
+qwen_qwen3-8b,Oraon (Kurukh),Wisdom of an Elder,North Bengal,2.5,0.4878426791720082,0.917805462237056,False,-0.44158478317754535,False,-1.0590074622816859,Q3,2,3,3,2
+qwen_qwen3-8b,Oraon (Kurukh),Rite of Passage,North Bengal,1.75,0.5383154805185972,0.9626660477040567,False,-0.44865846150880495,True,-1.0808971507259038,Q4 (Farthest),2,2,2,1
+qwen_qwen3-8b,Oraon (Kurukh),Trickster or Clever Figure,North Bengal,1.5,0.5008511279021715,0.9295745891281368,False,-0.4383305296553649,False,-1.0265920993180826,Q4 (Farthest),2,2,1,1
+qwen_qwen3-8b,Oraon (Kurukh),Sacred or Forbidden Space,North Bengal,1.5,0.5335364476988231,0.9585083715751056,False,-0.45038292337964386,True,-1.0875797622370431,Q4 (Farthest),2,2,1,1
+qwen_qwen3-8b,Oraon (Kurukh),Everyday Life Narrative,North Bengal,1.0,0.4033087918207887,0.8373045609797063,False,-0.42544874172263386,False,-1.0268595981494113,Q2,1,1,1,1
+qwen_qwen3-8b,Oraon (Kurukh),Change and Continuity,North Bengal,2.25,0.3837295950170718,0.8175297064396773,False,-0.4451959146572969,False,-1.0254754876707244,Q1 (Closest),3,3,2,1
+google_gemini-3-flash-preview,Rakhine,Origin Story,"Cox's Bazar, coastal areas",1.5,0.3011784159075659,0.7282724625432737,False,-0.40716353488044293,False,-0.9987564419745893,Q1 (Closest),2,2,1,1
+google_gemini-3-flash-preview,Rakhine,Human–Nature Relationship,"Cox's Bazar, coastal areas",2.0,0.3494804053690457,0.7817362275290901,False,-0.41763326778673554,False,-0.9976061394918194,Q1 (Closest),3,2,2,1
+google_gemini-3-flash-preview,Rakhine,Moral Transgression and Consequence,"Cox's Bazar, coastal areas",1.5,0.4124911465617739,0.8464196135191774,False,-0.4280603522856993,False,-1.0098850520318055,Q2,2,1,2,1
+google_gemini-3-flash-preview,Rakhine,Wisdom of an Elder,"Cox's Bazar, coastal areas",1.75,0.4153555595172772,0.8492429994285844,False,-0.4413109826167267,False,-1.0426207603679416,Q2,2,2,2,1
+google_gemini-3-flash-preview,Rakhine,Community Crisis,"Cox's Bazar, coastal areas",1.75,0.3709447129338673,0.8043547085599236,False,-0.4234452324850256,False,-1.000652926845134,Q1 (Closest),3,1,2,1
+google_gemini-3-flash-preview,Rakhine,Rite of Passage,"Cox's Bazar, coastal areas",1.5,0.5032081179332549,0.9316910733405434,False,-0.433607641805467,False,-1.03505212628123,Q4 (Farthest),2,1,2,1
+google_gemini-3-flash-preview,Rakhine,Trickster or Clever Figure,"Cox's Bazar, coastal areas",1.75,0.4223781608272148,0.856125625107687,False,-0.4234013847227279,False,-1.0282478381709717,Q2,2,2,2,1
+google_gemini-3-flash-preview,Rakhine,Sacred or Forbidden Space,"Cox's Bazar, coastal areas",1.75,0.3932666376510924,0.8272210849632982,False,-0.4116109582633716,False,-0.9957527128855078,Q1 (Closest),2,2,1,2
+google_gemini-3-flash-preview,Rakhine,Everyday Life Narrative,"Cox's Bazar, coastal areas",2.0,0.4159114468367622,0.8497898450089418,False,-0.41213950744849825,False,-1.0125362424718924,Q2,2,3,2,1
+google_gemini-3-flash-preview,Rakhine,Change and Continuity,"Cox's Bazar, coastal areas",1.5,0.39504772281427325,0.8290184983098948,False,-0.4407943869163137,False,-1.0357576095719567,Q1 (Closest),3,1,1,1
+mistralai_mistral-large-2512,Rakhine,Moral Transgression and Consequence,"Cox's Bazar, coastal areas",1.75,0.4865542446328479,0.9166315441969481,False,-0.44469700449772015,False,-1.0460380885920075,Q3,2,2,1,2
+mistralai_mistral-large-2512,Rakhine,Rite of Passage,"Cox's Bazar, coastal areas",2.25,0.5937531958421396,1.009645065492601,False,-0.43876916999432664,False,-1.0176670176789397,Q4 (Farthest),3,2,2,2
+mistralai_mistral-large-2512,Rakhine,Origin Story,"Cox's Bazar, coastal areas",2.75,0.4003178914056964,0.8343141374786263,False,-0.407116183823877,False,-1.0061768814691328,Q1 (Closest),3,3,3,2
+mistralai_mistral-large-2512,Rakhine,Human–Nature Relationship,"Cox's Bazar, coastal areas",1.0,0.3819349908674585,0.8156931602349602,False,-0.42861635292562394,False,-1.0171663066395085,Q1 (Closest),1,1,1,1
+mistralai_mistral-large-2512,Rakhine,Wisdom of an Elder,"Cox's Bazar, coastal areas",1.75,0.5192851189225391,0.9460015754392506,True,-0.45784113591117975,False,-1.0417912219230356,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Rakhine,Community Crisis,"Cox's Bazar, coastal areas",1.25,0.5092175435678801,0.937065804363775,False,-0.4391866269330832,False,-1.0265074344435035,Q4 (Farthest),2,1,1,1
+mistralai_mistral-large-2512,Rakhine,Trickster or Clever Figure,"Cox's Bazar, coastal areas",1.75,0.5330107134472033,0.9580498842893116,False,-0.4470384916792962,False,-1.003589976536292,Q4 (Farthest),3,1,2,1
+mistralai_mistral-large-2512,Rakhine,Sacred or Forbidden Space,"Cox's Bazar, coastal areas",1.5,0.4954187655115495,0.9246779903480633,False,-0.4469003977486755,False,-1.0474841080668145,Q4 (Farthest),2,1,1,2
+mistralai_mistral-large-2512,Rakhine,Everyday Life Narrative,"Cox's Bazar, coastal areas",1.75,0.3761027327846419,0.8096958698947225,False,-0.4232745628039301,False,-1.0084670603454549,Q1 (Closest),3,1,2,1
+mistralai_mistral-large-2512,Rakhine,Change and Continuity,"Cox's Bazar, coastal areas",1.75,0.4722912541586156,0.9035344525558209,False,-0.43145713241147177,False,-1.0184729220705115,Q3,2,2,2,1
+openai_gpt-5-mini,Rakhine,Origin Story,"Cox's Bazar, coastal areas",2.25,0.4272498722922595,0.8608678813314795,False,-0.4369156793155729,False,-1.0447385269066851,Q2,2,3,2,2
+openai_gpt-5-mini,Rakhine,Human–Nature Relationship,"Cox's Bazar, coastal areas",2.75,0.3106946006784308,0.7391115612929152,False,-0.4167630208506135,False,-0.9971818755306447,Q1 (Closest),3,3,3,2
+openai_gpt-5-mini,Rakhine,Moral Transgression and Consequence,"Cox's Bazar, coastal areas",2.5,0.3939497475793564,0.8279109591751266,False,-0.42597186363338074,False,-1.0305937364911775,Q1 (Closest),3,3,2,2
+openai_gpt-5-mini,Rakhine,Wisdom of an Elder,"Cox's Bazar, coastal areas",2.5,0.4303524747382774,0.8638744992869029,False,-0.4298888106126491,False,-1.0238892191955729,Q2,3,3,2,2
+openai_gpt-5-mini,Rakhine,Community Crisis,"Cox's Bazar, coastal areas",2.25,0.4100091501701052,0.8439655195126499,False,-0.432444290026612,False,-1.0175993299876804,Q2,3,3,2,1
+openai_gpt-5-mini,Rakhine,Rite of Passage,"Cox's Bazar, coastal areas",2.75,0.4313952640972928,0.8648825980123512,False,-0.42221720329363066,False,-1.0172968987325093,Q2,3,3,3,2
+openai_gpt-5-mini,Rakhine,Trickster or Clever Figure,"Cox's Bazar, coastal areas",2.75,0.4199542121347021,0.8537562281541738,False,-0.44135272742643344,False,-1.0617391262720053,Q2,3,3,3,2
+openai_gpt-5-mini,Rakhine,Sacred or Forbidden Space,"Cox's Bazar, coastal areas",2.25,0.40335474361228896,0.8373504381906516,False,-0.41495219150683904,False,-0.9994369600985266,Q2,2,3,2,2
+openai_gpt-5-mini,Rakhine,Change and Continuity,"Cox's Bazar, coastal areas",2.5,0.41189838719771443,0.8458341626076779,False,-0.41052041335811645,False,-1.01726932565729,Q2,3,3,2,2
+openai_gpt-5-mini,Rakhine,Everyday Life Narrative,"Cox's Bazar, coastal areas",2.5,0.41980167430315574,0.8536069642298002,False,-0.431764395678353,False,-1.02229087254655,Q2,3,3,2,2
+openai_gpt-5.1,Rakhine,Origin Story,"Cox's Bazar, coastal areas",3.75,0.4500216606250663,0.882696888252656,False,-0.4459965976987326,True,-1.090576739669554,Q3,4,4,4,3
+openai_gpt-5.1,Rakhine,Human–Nature Relationship,"Cox's Bazar, coastal areas",2.75,0.3764141889716359,0.8100173287201168,False,-0.4246475851926574,False,-0.9853542749880575,Q1 (Closest),3,3,2,3
+openai_gpt-5.1,Rakhine,Moral Transgression and Consequence,"Cox's Bazar, coastal areas",3.0,0.40737187398757024,0.8413500408363624,False,-0.42690089387158037,False,-1.0220091378325649,Q2,3,3,3,3
+openai_gpt-5.1,Rakhine,Wisdom of an Elder,"Cox's Bazar, coastal areas",2.75,0.5077219939904298,0.9357310711341124,True,-0.4510185034883085,False,-1.0692325321566343,Q4 (Farthest),3,3,2,3
+openai_gpt-5.1,Rakhine,Community Crisis,"Cox's Bazar, coastal areas",2.75,0.41582739974477856,0.8497071923828802,False,-0.43107678595084337,False,-0.9961698195318596,Q2,3,3,3,2
+openai_gpt-5.1,Rakhine,Rite of Passage,"Cox's Bazar, coastal areas",2.5,0.46434455316495993,0.8961543737603724,False,-0.41946061072662544,False,-1.0233843733395989,Q3,3,3,2,2
+openai_gpt-5.1,Rakhine,Trickster or Clever Figure,"Cox's Bazar, coastal areas",2.5,0.4128718043310524,0.8467953074093405,False,-0.4377156601271728,False,-1.0174344657423924,Q2,3,3,2,2
+openai_gpt-5.1,Rakhine,Sacred or Forbidden Space,"Cox's Bazar, coastal areas",2.5,0.42361742055553187,0.8573344452202776,False,-0.4216166062707105,False,-1.0015183126840328,Q2,3,3,2,2
+openai_gpt-5.1,Rakhine,Everyday Life Narrative,"Cox's Bazar, coastal areas",3.0,0.4123940398570308,0.8463237428803836,False,-0.44070887167071665,False,-1.0163250477978214,Q2,4,3,2,3
+openai_gpt-5.1,Rakhine,Change and Continuity,"Cox's Bazar, coastal areas",2.75,0.48664259707384727,0.9167121112555262,False,-0.44490244874720114,False,-1.0415417631385018,Q3,3,3,2,3
+qwen_qwen3-8b,Rakhine,Origin Story,"Cox's Bazar, coastal areas",2.25,0.5882997711692419,1.005121086075527,True,-0.45765071215760544,True,-1.1020383761612795,Q4 (Farthest),3,2,2,2
+qwen_qwen3-8b,Rakhine,Human–Nature Relationship,"Cox's Bazar, coastal areas",2.0,0.4412401462712683,0.8743435018615746,False,-0.43072784180553403,False,-1.009484944806999,Q2,3,2,2,1
+qwen_qwen3-8b,Rakhine,Moral Transgression and Consequence,"Cox's Bazar, coastal areas",1.75,0.4176807875220617,0.8515279935031511,False,-0.4359074421714591,False,-1.012045404540839,Q2,2,2,2,1
+qwen_qwen3-8b,Rakhine,Wisdom of an Elder,"Cox's Bazar, coastal areas",1.75,0.42612938397149636,0.8597794994101586,False,-0.4420326448675321,False,-1.0175677689629825,Q2,2,2,2,1
+qwen_qwen3-8b,Rakhine,Community Crisis,"Cox's Bazar, coastal areas",1.0,0.4329651769108932,0.8663982782356014,False,-0.4343388436752316,False,-1.0226742001906728,Q2,1,1,1,1
+qwen_qwen3-8b,Rakhine,Rite of Passage,"Cox's Bazar, coastal areas",1.5,0.6315910186456867,1.0404923995787418,True,-0.45268000766197564,True,-1.0834369815276665,Q4 (Farthest),1,2,2,1
+qwen_qwen3-8b,Rakhine,Trickster or Clever Figure,"Cox's Bazar, coastal areas",1.25,0.5358980201862997,0.9605651384410419,True,-0.4661030687678141,False,-1.053695131628937,Q4 (Farthest),1,1,2,1
+qwen_qwen3-8b,Rakhine,Sacred or Forbidden Space,"Cox's Bazar, coastal areas",1.0,0.4683899995446267,0.8999189237021912,False,-0.4345588406067247,False,-1.0575657975037371,Q3,1,1,1,1
+qwen_qwen3-8b,Rakhine,Everyday Life Narrative,"Cox's Bazar, coastal areas",1.0,0.5258474526832801,0.9517810239501842,False,-0.45004006863501955,False,-1.0540925334333775,Q4 (Farthest),1,1,1,1
+qwen_qwen3-8b,Rakhine,Change and Continuity,"Cox's Bazar, coastal areas",1.0,0.4028593340869234,0.8368559019042073,False,-0.4285464576255693,False,-1.0128044004450776,Q1 (Closest),1,1,1,1
+google_gemini-3-flash-preview,Santal,Origin Story,"Rajshahi, Rangpur, northwestern plains",3.75,0.5015178744459033,0.9301737465111921,False,-0.4403021460873813,False,-1.0531995140663277,Q4 (Farthest),5,4,3,3
+google_gemini-3-flash-preview,Santal,Human–Nature Relationship,"Rajshahi, Rangpur, northwestern plains",2.5,0.35939004819468545,0.7922589338668382,False,-0.41186031201795714,False,-1.001299473573066,Q1 (Closest),3,2,2,3
+google_gemini-3-flash-preview,Santal,Moral Transgression and Consequence,"Rajshahi, Rangpur, northwestern plains",1.75,0.37663569527674423,0.8102457840042083,False,-0.4369607320971954,False,-1.0371150883455038,Q1 (Closest),1,1,2,3
+google_gemini-3-flash-preview,Santal,Wisdom of an Elder,"Rajshahi, Rangpur, northwestern plains",1.75,0.5089964312591215,0.9368685666214845,False,-0.4482515254684549,False,-1.0387113068968714,Q4 (Farthest),2,2,1,2
+google_gemini-3-flash-preview,Santal,Community Crisis,"Rajshahi, Rangpur, northwestern plains",2.0,0.38053895073810273,0.8142616140376356,False,-0.42237951512638755,False,-0.9978147157371303,Q1 (Closest),3,3,2,0
+google_gemini-3-flash-preview,Santal,Rite of Passage,"Rajshahi, Rangpur, northwestern plains",1.5,0.44801017861896597,0.8807904325668984,False,-0.4452843639296458,False,-1.0672736136607586,Q3,2,2,1,1
+google_gemini-3-flash-preview,Santal,Sacred or Forbidden Space,"Rajshahi, Rangpur, northwestern plains",1.75,0.3724638765723368,0.8059314865359274,False,-0.4296479495235085,False,-1.0025327590366886,Q1 (Closest),1,2,2,2
+google_gemini-3-flash-preview,Santal,Everyday Life Narrative,"Rajshahi, Rangpur, northwestern plains",1.5,0.42591575469205,0.8595718107721059,False,-0.4264882799884753,False,-1.0150210646855686,Q2,2,2,2,0
+google_gemini-3-flash-preview,Santal,Change and Continuity,"Rajshahi, Rangpur, northwestern plains",2.25,0.3755912045566324,0.809167795632462,False,-0.41709936367531947,False,-1.0262359968187318,Q1 (Closest),3,2,2,2
+google_gemini-3-flash-preview,Santal,Trickster or Clever Figure,"Rajshahi, Rangpur, northwestern plains",2.0,0.5713529249734888,0.990930823306899,False,-0.4372664253008791,False,-1.0668794821359175,Q4 (Farthest),3,1,2,2
+mistralai_mistral-large-2512,Santal,Rite of Passage,"Rajshahi, Rangpur, northwestern plains",1.5,0.5158085334470768,0.9429253606939345,False,-0.4436341523708044,False,-1.0558733955543305,Q4 (Farthest),2,1,1,2
+mistralai_mistral-large-2512,Santal,Trickster or Clever Figure,"Rajshahi, Rangpur, northwestern plains",1.75,0.4944728097603487,0.9238226075559482,False,-0.4495888335831879,False,-1.0581850659638916,Q4 (Farthest),3,2,1,1
+mistralai_mistral-large-2512,Santal,Origin Story,"Rajshahi, Rangpur, northwestern plains",1.25,0.5236928731660848,0.949887376573864,False,-0.4390967457945654,False,-1.067052711432329,Q4 (Farthest),2,1,2,0
+mistralai_mistral-large-2512,Santal,Human–Nature Relationship,"Rajshahi, Rangpur, northwestern plains",2.0,0.38461344599098957,0.818432661788095,False,-0.425357675072053,False,-1.001149925280669,Q1 (Closest),3,2,2,1
+mistralai_mistral-large-2512,Santal,Moral Transgression and Consequence,"Rajshahi, Rangpur, northwestern plains",1.5,0.49781913401863676,0.9268448180079009,False,-0.4492327743983237,False,-1.0692489657645898,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Santal,Wisdom of an Elder,"Rajshahi, Rangpur, northwestern plains",1.75,0.4225435188439396,0.8562870248576337,False,-0.42466720240380185,False,-1.0483268578500833,Q2,2,2,2,1
+mistralai_mistral-large-2512,Santal,Community Crisis,"Rajshahi, Rangpur, northwestern plains",2.25,0.42221804896000037,0.8559693203303443,False,-0.41699346338036697,False,-1.010315340623278,Q2,2,3,2,2
+mistralai_mistral-large-2512,Santal,Sacred or Forbidden Space,"Rajshahi, Rangpur, northwestern plains",1.25,0.4737665399258332,0.9048979832178927,False,-0.42428258536312763,False,-1.0174072348475884,Q3,2,1,1,1
+mistralai_mistral-large-2512,Santal,Everyday Life Narrative,"Rajshahi, Rangpur, northwestern plains",1.75,0.4881680358778331,0.9181016442965866,False,-0.42860930523952806,False,-1.0186631708665908,Q3,2,2,1,2
+mistralai_mistral-large-2512,Santal,Change and Continuity,"Rajshahi, Rangpur, northwestern plains",2.25,0.42139690342292835,0.8551672488749493,False,-0.424607065126949,False,-1.058118050806416,Q2,3,2,2,2
+openai_gpt-5-mini,Santal,Origin Story,"Rajshahi, Rangpur, northwestern plains",1.75,0.41716195491587593,0.8510187202396821,False,-0.425735271133149,False,-1.0058336970140234,Q2,2,2,2,1
+openai_gpt-5-mini,Santal,Human–Nature Relationship,"Rajshahi, Rangpur, northwestern plains",2.0,0.3646611409572543,0.7977996213581617,False,-0.42004238049138465,False,-0.9979161831917033,Q1 (Closest),3,2,2,1
+openai_gpt-5-mini,Santal,Moral Transgression and Consequence,"Rajshahi, Rangpur, northwestern plains",2.0,0.42714187360349576,0.8607630784753175,False,-0.42992992049498013,False,-1.0115414073626383,Q2,2,2,2,2
+openai_gpt-5-mini,Santal,Wisdom of an Elder,"Rajshahi, Rangpur, northwestern plains",1.25,0.4028643682193642,0.8368609266446779,False,-0.41037362516327197,False,-1.0070742523917784,Q2,2,1,1,1
+openai_gpt-5-mini,Santal,Rite of Passage,"Rajshahi, Rangpur, northwestern plains",1.75,0.4902260665678265,0.9199730497900156,False,-0.42165227046950454,False,-1.0462275030504096,Q4 (Farthest),2,2,2,1
+openai_gpt-5-mini,Santal,Trickster or Clever Figure,"Rajshahi, Rangpur, northwestern plains",1.5,0.46917345338349326,0.9006461856164755,False,-0.4317077988058411,False,-1.0018033170829512,Q3,2,2,1,1
+openai_gpt-5-mini,Santal,Sacred or Forbidden Space,"Rajshahi, Rangpur, northwestern plains",1.25,0.3914764813328949,0.8254106574169217,False,-0.427405549311596,False,-1.0136062462468673,Q1 (Closest),2,1,1,1
+openai_gpt-5-mini,Santal,Everyday Life Narrative,"Rajshahi, Rangpur, northwestern plains",2.0,0.4961083360049172,0.9253010081526593,False,-0.4309334709046374,False,-1.033509316397673,Q4 (Farthest),3,2,2,1
+openai_gpt-5-mini,Santal,Change and Continuity,"Rajshahi, Rangpur, northwestern plains",1.0,0.3817116038241599,0.815464259579808,False,-0.4022864688644932,False,-1.0026934045669207,Q1 (Closest),1,1,1,1
+openai_gpt-5-mini,Santal,Community Crisis,"Rajshahi, Rangpur, northwestern plains",2.25,0.38406647652742687,0.8178739592789428,False,-0.4111073621760623,False,-0.9953225607592339,Q1 (Closest),3,2,2,2
+openai_gpt-5.1,Santal,Origin Story,"Rajshahi, Rangpur, northwestern plains",3.0,0.39205694217023224,0.825998168386549,False,-0.41303482260128915,False,-1.0091796467936873,Q1 (Closest),4,3,3,2
+openai_gpt-5.1,Santal,Human–Nature Relationship,"Rajshahi, Rangpur, northwestern plains",2.75,0.39386115735636285,0.8278215123246616,False,-0.4279926962685721,False,-1.0046418706669413,Q1 (Closest),3,3,3,2
+openai_gpt-5.1,Santal,Moral Transgression and Consequence,"Rajshahi, Rangpur, northwestern plains",3.0,0.4476100530612167,0.8804106935620886,False,-0.4323957704105208,False,-1.0405121611790942,Q3,4,3,3,2
+openai_gpt-5.1,Santal,Wisdom of an Elder,"Rajshahi, Rangpur, northwestern plains",2.75,0.4275982726419292,0.861206019288853,False,-0.42389756712532484,False,-1.0246640139207528,Q2,4,3,2,2
+openai_gpt-5.1,Santal,Community Crisis,"Rajshahi, Rangpur, northwestern plains",2.75,0.39268199386623515,0.8266302729516622,False,-0.42807074719494276,False,-1.0081192139423647,Q1 (Closest),3,3,3,2
+openai_gpt-5.1,Santal,Rite of Passage,"Rajshahi, Rangpur, northwestern plains",3.0,0.46930022290476403,0.9007638237156997,False,-0.42997136640015987,False,-1.0235807722336308,Q3,4,4,3,1
+openai_gpt-5.1,Santal,Trickster or Clever Figure,"Rajshahi, Rangpur, northwestern plains",3.25,0.49210996252179195,0.9216827045984396,False,-0.43958064528483287,False,-1.016620338513826,Q4 (Farthest),4,4,3,2
+openai_gpt-5.1,Santal,Sacred or Forbidden Space,"Rajshahi, Rangpur, northwestern plains",2.75,0.49259263867530045,0.9221202913268105,False,-0.4423158300944923,False,-1.0128789058070429,Q4 (Farthest),3,3,3,2
+openai_gpt-5.1,Santal,Everyday Life Narrative,"Rajshahi, Rangpur, northwestern plains",2.75,0.5297872230428848,0.9552339559505454,False,-0.4437530229287215,False,-1.0426596113132671,Q4 (Farthest),3,3,3,2
+openai_gpt-5.1,Santal,Change and Continuity,"Rajshahi, Rangpur, northwestern plains",3.25,0.3510108490190549,0.7833705845071243,False,-0.4407330464565503,False,-1.004791033296638,Q1 (Closest),4,4,3,2
+qwen_qwen3-8b,Santal,Change and Continuity,"Rajshahi, Rangpur, northwestern plains",1.0,0.5313310413551413,0.9565836129966746,False,-0.4306311604329231,True,-1.0791530363870496,Q4 (Farthest),1,1,1,1
+qwen_qwen3-8b,Santal,Origin Story,"Rajshahi, Rangpur, northwestern plains",2.0,0.39003092686044216,0.8239458153435858,True,-0.4527137103473509,False,-1.0236757091517121,Q1 (Closest),2,2,3,1
+qwen_qwen3-8b,Santal,Human–Nature Relationship,"Rajshahi, Rangpur, northwestern plains",2.0,0.48226483453227165,0.9127125468669158,True,-0.4574305612686155,True,-1.0857400841241307,Q3,3,2,2,1
+qwen_qwen3-8b,Santal,Moral Transgression and Consequence,"Rajshahi, Rangpur, northwestern plains",2.25,0.44942377016258506,0.8821306443367051,False,-0.4459577112511469,False,-1.0487946747219559,Q3,3,3,2,1
+qwen_qwen3-8b,Santal,Wisdom of an Elder,"Rajshahi, Rangpur, northwestern plains",2.25,0.5444944975445294,0.9680151455033843,True,-0.46752578869714967,False,-1.046535349596354,Q4 (Farthest),3,2,3,1
+qwen_qwen3-8b,Santal,Community Crisis,"Rajshahi, Rangpur, northwestern plains",2.25,0.4061347790549199,0.840120402055206,False,-0.4341458699099149,False,-1.0320257671295052,Q2,2,3,2,2
+qwen_qwen3-8b,Santal,Rite of Passage,"Rajshahi, Rangpur, northwestern plains",1.75,0.5080705168736028,0.9360422664182552,True,-0.4532841104680967,False,-1.0637243584548082,Q4 (Farthest),2,1,2,2
+qwen_qwen3-8b,Santal,Trickster or Clever Figure,"Rajshahi, Rangpur, northwestern plains",1.75,0.5081521604584758,0.9361151734774091,False,-0.44521442309706605,True,-1.0746465696416172,Q4 (Farthest),2,2,2,1
+qwen_qwen3-8b,Santal,Sacred or Forbidden Space,"Rajshahi, Rangpur, northwestern plains",1.5,0.4443190924374969,0.8772813350764515,False,-0.4241301294316402,False,-1.0352977740266203,Q2,2,2,1,1
+qwen_qwen3-8b,Santal,Everyday Life Narrative,"Rajshahi, Rangpur, northwestern plains",1.5,0.5160553249066901,0.9431440940664985,True,-0.4590578541824912,True,-1.081442109256083,Q4 (Farthest),2,1,2,1
+google_gemini-3-flash-preview,Tripura,Origin Story,Chittagong Hill Tracts,1.5,0.4767830385104045,0.9076794801977647,False,-0.4257091911972888,False,-1.0024566818226939,Q3,2,1,2,1
+google_gemini-3-flash-preview,Tripura,Human–Nature Relationship,Chittagong Hill Tracts,1.5,0.4644046574084837,0.896210445091132,False,-0.4308154547780169,False,-0.9976109327006519,Q3,2,1,3,0
+google_gemini-3-flash-preview,Tripura,Moral Transgression and Consequence,Chittagong Hill Tracts,1.5,0.40696604731400465,0.8409468484877202,False,-0.41373364552561176,False,-1.0053955062932725,Q2,3,1,1,1
+google_gemini-3-flash-preview,Tripura,Wisdom of an Elder,Chittagong Hill Tracts,1.75,0.4318403467315849,0.8653126488712863,False,-0.433271605128182,False,-1.0089266268564574,Q2,3,1,2,1
+google_gemini-3-flash-preview,Tripura,Community Crisis,Chittagong Hill Tracts,1.25,0.3523279039846011,0.7847743171538711,False,-0.42501062211984364,False,-1.00060153581917,Q1 (Closest),2,2,1,0
+google_gemini-3-flash-preview,Tripura,Rite of Passage,Chittagong Hill Tracts,1.5,0.5921258738517163,1.00829719801061,True,-0.45921580401538514,False,-1.043074567153025,Q4 (Farthest),2,1,2,1
+google_gemini-3-flash-preview,Tripura,Trickster or Clever Figure,Chittagong Hill Tracts,2.0,0.4114444882673597,0.8453855790179496,False,-0.42798796222557356,False,-0.9986259214433326,Q2,3,2,2,1
+google_gemini-3-flash-preview,Tripura,Sacred or Forbidden Space,Chittagong Hill Tracts,1.5,0.4621398989335045,0.894096066729601,False,-0.43716196599931323,False,-1.0051052562712752,Q3,2,1,2,1
+google_gemini-3-flash-preview,Tripura,Everyday Life Narrative,Chittagong Hill Tracts,2.0,0.44154495710675357,0.8746347336736652,False,-0.42505672742570255,False,-1.0085535108801449,Q2,2,3,2,1
+google_gemini-3-flash-preview,Tripura,Change and Continuity,Chittagong Hill Tracts,1.25,0.5054377061955546,0.9336887421230751,False,-0.4188971040476111,False,-1.0070526413616365,Q4 (Farthest),2,1,1,1
+mistralai_mistral-large-2512,Tripura,Wisdom of an Elder,Chittagong Hill Tracts,1.75,0.5667597602779972,0.9870496295811882,False,-0.4387727308957051,False,-1.054629500286026,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Tripura,Trickster or Clever Figure,Chittagong Hill Tracts,2.0,0.576447760970481,0.9952182059754873,True,-0.46076916824963304,False,-1.0703507068029166,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Tripura,Origin Story,Chittagong Hill Tracts,1.75,0.5633596752180098,0.9841667450617054,False,-0.44605154564262034,True,-1.1257290235597526,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Tripura,Human–Nature Relationship,Chittagong Hill Tracts,1.5,0.42442154329800896,0.8581179048377103,False,-0.4269780910389056,False,-1.006968971535223,Q2,2,2,1,1
+mistralai_mistral-large-2512,Tripura,Moral Transgression and Consequence,Chittagong Hill Tracts,2.0,0.5717096937021051,0.9912316039400412,False,-0.4298099115555847,False,-1.044081255659379,Q4 (Farthest),3,2,2,1
+mistralai_mistral-large-2512,Tripura,Community Crisis,Chittagong Hill Tracts,0.75,0.46403587119841916,0.8958664808338108,False,-0.4285311631729087,False,-1.0445139069756422,Q3,1,1,1,0
+mistralai_mistral-large-2512,Tripura,Rite of Passage,Chittagong Hill Tracts,1.5,0.6677639520513952,1.0691505650245963,False,-0.4396643161618337,False,-1.0573020207469834,Q4 (Farthest),2,2,1,1
+mistralai_mistral-large-2512,Tripura,Sacred or Forbidden Space,Chittagong Hill Tracts,1.75,0.58359833777591,1.0012045348265524,True,-0.45173042508861827,False,-1.0424478279767662,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Tripura,Everyday Life Narrative,Chittagong Hill Tracts,1.75,0.5411625147400208,0.9651343639756744,True,-0.45918749344743026,True,-1.0873902104580389,Q4 (Farthest),2,2,2,1
+mistralai_mistral-large-2512,Tripura,Change and Continuity,Chittagong Hill Tracts,1.75,0.5006431471294185,0.9293875668023264,False,-0.4207498253862721,False,-1.0307621125016753,Q4 (Farthest),2,2,2,1
+openai_gpt-5-mini,Tripura,Origin Story,Chittagong Hill Tracts,1.75,0.36883431791819266,0.8021590557138399,False,-0.4216807603956926,False,-1.0185244506813858,Q1 (Closest),2,2,2,1
+openai_gpt-5-mini,Tripura,Human–Nature Relationship,Chittagong Hill Tracts,1.5,0.4395988752827893,0.8727733607149255,False,-0.4291225212628285,False,-1.0054922307741943,Q2,2,2,1,1
+openai_gpt-5-mini,Tripura,Moral Transgression and Consequence,Chittagong Hill Tracts,2.0,0.48406672360261527,0.9143608707788018,False,-0.4191039694421298,False,-1.050738255754976,Q3,2,3,1,2
+openai_gpt-5-mini,Tripura,Wisdom of an Elder,Chittagong Hill Tracts,1.0,0.39892923448356954,0.8329220336570774,False,-0.42826140364962073,False,-1.0392452677231911,Q1 (Closest),1,1,1,1
+openai_gpt-5-mini,Tripura,Community Crisis,Chittagong Hill Tracts,1.75,0.4468642524381228,0.8797025104726377,False,-0.40723700725399886,False,-0.9954956055318391,Q3,2,2,2,1
+openai_gpt-5-mini,Tripura,Rite of Passage,Chittagong Hill Tracts,2.25,0.4694839598867381,0.9009342799602433,False,-0.429538240905959,False,-1.0120872192933272,Q3,3,2,3,1
+openai_gpt-5-mini,Tripura,Trickster or Clever Figure,Chittagong Hill Tracts,1.5,0.4419600781124492,0.8750313204159392,False,-0.42692984435344294,False,-0.9976038163163714,Q2,2,2,1,1
+openai_gpt-5-mini,Tripura,Sacred or Forbidden Space,Chittagong Hill Tracts,2.0,0.4192657533757993,0.8530820478759036,False,-0.42416731698061066,False,-0.993590797474428,Q2,2,2,2,2
+openai_gpt-5-mini,Tripura,Everyday Life Narrative,Chittagong Hill Tracts,2.5,0.44173813905617376,0.8748193001678273,False,-0.4339933872417505,False,-1.0200972139378592,Q2,3,2,3,2
+openai_gpt-5-mini,Tripura,Change and Continuity,Chittagong Hill Tracts,2.0,0.393711405816741,0.8276702781565753,False,-0.41581465856105465,False,-1.0029651035712697,Q1 (Closest),3,2,2,1
+openai_gpt-5.1,Tripura,Origin Story,Chittagong Hill Tracts,2.5,0.4640647660386692,0.8958934049417862,False,-0.42476870940668393,False,-1.0169477524803991,Q3,2,3,3,2
+openai_gpt-5.1,Tripura,Human–Nature Relationship,Chittagong Hill Tracts,3.5,0.42814720130862427,0.8617385406997057,False,-0.4216375203711516,False,-1.001965063736112,Q2,4,4,3,3
+openai_gpt-5.1,Tripura,Moral Transgression and Consequence,Chittagong Hill Tracts,3.0,0.4214303533598145,0.8551999099539842,False,-0.4202497243744204,False,-1.0042445501260344,Q2,4,3,3,2
+openai_gpt-5.1,Tripura,Wisdom of an Elder,Chittagong Hill Tracts,3.25,0.4473186932010328,0.8801340850649798,False,-0.4195329726771831,False,-0.9932149060708072,Q3,4,3,3,3
+openai_gpt-5.1,Tripura,Community Crisis,Chittagong Hill Tracts,2.75,0.39826338548886375,0.8322536493165479,False,-0.42169161590719517,False,-0.9894842209623347,Q1 (Closest),3,3,3,2
+openai_gpt-5.1,Tripura,Rite of Passage,Chittagong Hill Tracts,2.25,0.5115760242224707,0.9391667322493445,False,-0.43104271348351986,False,-1.010679124199007,Q4 (Farthest),2,2,3,2
+openai_gpt-5.1,Tripura,Trickster or Clever Figure,Chittagong Hill Tracts,3.5,0.45912913784404297,0.8912776088418208,False,-0.41709890576581643,False,-1.0144107524205452,Q3,4,4,3,3
+openai_gpt-5.1,Tripura,Sacred or Forbidden Space,Chittagong Hill Tracts,3.5,0.4601376511775517,0.8922226877701581,False,-0.4402793680931352,False,-1.0269344341252693,Q3,4,4,3,3
+openai_gpt-5.1,Tripura,Everyday Life Narrative,Chittagong Hill Tracts,2.5,0.49916805229463057,0.9280602770259848,False,-0.43002030259972757,False,-1.0068753680854754,Q4 (Farthest),2,3,3,2
+openai_gpt-5.1,Tripura,Change and Continuity,Chittagong Hill Tracts,2.25,0.4925038288252772,0.9220398054812046,False,-0.4213892932284446,False,-1.0053849717515084,Q4 (Farthest),2,2,3,2
+qwen_qwen3-8b,Tripura,Trickster or Clever Figure,Chittagong Hill Tracts,0.75,0.5076217018048117,0.9356415208132525,False,-0.4458136667567785,True,-1.0786539025005177,Q4 (Farthest),1,1,1,0
+qwen_qwen3-8b,Tripura,Origin Story,Chittagong Hill Tracts,2.0,0.3558077697708061,0.7884712873766866,False,-0.42898214488774106,False,-1.00511080089652,Q1 (Closest),3,2,2,1
+qwen_qwen3-8b,Tripura,Human–Nature Relationship,Chittagong Hill Tracts,1.5,0.4659935290809083,0.8976907396205767,False,-0.42623025665820624,False,-1.0433488595951297,Q3,2,2,1,1
+qwen_qwen3-8b,Tripura,Moral Transgression and Consequence,Chittagong Hill Tracts,2.75,0.45257187307245383,0.885107967843675,True,-0.4506560410617211,False,-1.0415955676324995,Q3,3,3,3,2
+qwen_qwen3-8b,Tripura,Wisdom of an Elder,Chittagong Hill Tracts,1.25,0.5966169109353502,1.0120125678913903,False,-0.44819922201260914,True,-1.0949798898071523,Q4 (Farthest),1,1,2,1
+qwen_qwen3-8b,Tripura,Community Crisis,Chittagong Hill Tracts,2.25,0.4960616632668573,0.9252587704245605,False,-0.43043229034816427,False,-1.0454517261508007,Q4 (Farthest),3,2,2,2
+qwen_qwen3-8b,Tripura,Rite of Passage,Chittagong Hill Tracts,2.25,0.6049944680670952,1.018907048661361,True,-0.46997209902752074,True,-1.0887275171526851,Q4 (Farthest),3,2,2,2
+qwen_qwen3-8b,Tripura,Sacred or Forbidden Space,Chittagong Hill Tracts,1.75,0.4442743583999289,0.8772387857403653,False,-0.4480895949446358,False,-1.0382799067291075,Q2,2,2,2,1
+qwen_qwen3-8b,Tripura,Everyday Life Narrative,Chittagong Hill Tracts,2.25,0.48481876291231396,0.9150479466786716,False,-0.42989343064989033,False,-1.0469560542090042,Q3,3,3,2,1
+qwen_qwen3-8b,Tripura,Change and Continuity,Chittagong Hill Tracts,1.75,0.4885284466098643,0.9184296666977237,False,-0.43427020433104235,True,-1.0848799610077113,Q3,2,2,2,1

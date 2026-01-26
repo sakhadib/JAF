@@ -1,0 +1,6 @@
+target_metric,metric_short,best_embedding,best_embedding_short,best_r2,best_regression_model,embedding_dimension
+Cultural Accuracy & Authenticity,cultural_accuracy,mistralai_mistral-embed-2312,Mistral,0.1768081124574129,RandomForest,1024
+Contextual & Temporal Appropriateness,contextual_appropriateness,mistralai_mistral-embed-2312,Mistral,0.29851253515888676,RandomForest,1024
+Narrative & Symbolic Coherence,narrative_coherence,openai_text-embedding-3-small,OpenAI-Small,0.16106906680987987,RandomForest,1536
+Linguistic & Expressive Appropriateness (Bangla),linguistic_fluency,mistralai_mistral-embed-2312,Mistral,0.18611374488774057,RandomForest,1024
+Average across all metrics,average,mistralai_mistral-embed-2312,Mistral,0.20322053316239672,Mixed,N/A

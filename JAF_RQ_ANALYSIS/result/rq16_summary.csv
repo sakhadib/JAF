@@ -1,0 +1,2 @@
+research_question,main_question,n_multi_culture_regions,total_culture_pairs_analyzed,overall_mean_inter_culture_distance,overall_pct_statistically_distinct,most_distinct_region,most_distinct_distance,least_distinct_region,least_distinct_distance,pct_regions_with_clustering,mean_intra_inter_ratio
+RQ16: Regional-Cultural Consistency,Are cultures in the same region appropriately distinct?,2,4,0.055379740906945446,25.0,Sylhet (border areas),0.07833730078036771,Chittagong Hill Tracts,0.047727220949138026,50.0,0.9415155554270793

@@ -1,0 +1,6 @@
+region,culture,n_stories,region_distinctiveness,cultural_accuracy,contextual_appropriateness,narrative_coherence,linguistic_fluency,average_score
+Chittagong Hill Tracts,Chakma,50,0.047727220949138026,2.36,2.0,1.92,1.32,1.9
+Chittagong Hill Tracts,Marma,50,0.047727220949138026,2.54,2.16,1.9,1.24,1.96
+Chittagong Hill Tracts,Tripura,50,0.047727220949138026,2.4,2.08,2.04,1.32,1.96
+Sylhet (border areas),Khasi,50,0.07833730078036771,2.34,2.14,1.96,1.24,1.92
+Sylhet (border areas),Manipuri (Meitei),50,0.07833730078036771,2.44,2.18,2.0,1.34,1.99
